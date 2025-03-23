@@ -1,0 +1,2 @@
+Número total de flujos distintos en T0816-StopCommand-S7Comm_[2]_alert_fast.txt (sin los SIDs 2012648 1917): 1
+

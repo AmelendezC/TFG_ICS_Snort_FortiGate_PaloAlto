@@ -1,0 +1,9 @@
+1,2002752,1 04/18-22:17:52.176362  [**] [1:2002752:4] ET POLICY Reserved Internal IP Traffic [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.1.144:37162 -> 192.168.1.133:44818
+1,2002749,1 04/18-22:17:52.176362  [**] [1:2002749:14] ET POLICY Unallocated IP Space Traffic - Bogon Nets [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.1.144:37162 -> 192.168.1.133:44818
+11,2100402,1 04/18-22:17:52.621232  [**] [1:2100402:8] GPL ICMP_INFO Destination Unreachable Port Unreachable [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.1.144 -> 192.168.1.133
+13,2100402,1 04/18-22:17:54.136662  [**] [1:2100402:8] GPL ICMP_INFO Destination Unreachable Port Unreachable [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.1.144 -> 192.168.1.133
+15,2100402,1 04/18-22:17:55.645002  [**] [1:2100402:8] GPL ICMP_INFO Destination Unreachable Port Unreachable [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.1.144 -> 192.168.1.133
+19,2101417,1 04/18-22:18:01.527633  [**] [1:2101417:11] GPL SNMP request udp [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 192.168.1.144:39425 -> 192.168.1.133:161
+33,2100402,1 04/18-22:18:18.985589  [**] [1:2100402:8] GPL ICMP_INFO Destination Unreachable Port Unreachable [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.1.144 -> 192.168.1.133
+35,2100402,1 04/18-22:18:20.505110  [**] [1:2100402:8] GPL ICMP_INFO Destination Unreachable Port Unreachable [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.1.144 -> 192.168.1.133
+37,2100402,1 04/18-22:18:22.002569  [**] [1:2100402:8] GPL ICMP_INFO Destination Unreachable Port Unreachable [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.1.144 -> 192.168.1.133

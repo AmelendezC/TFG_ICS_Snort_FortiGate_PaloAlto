@@ -1,0 +1,2 @@
+04/10-12:37:16.047581, 4, TCP, stream_tcp, 12, C2S, 192.168.100.2:33332, 192.168.100.3:502, 1:17790:5, allow, "PROTOCOL-SCADA Modbus read holding registers from external source", Generic Protocol Command Decode
+04/10-12:37:17.050742, 14, TCP, stream_tcp, 12, C2S, 192.168.100.2:33334, 192.168.100.3:502, 1:17790:5, allow, "PROTOCOL-SCADA Modbus read holding registers from external source", Generic Protocol Command Decode

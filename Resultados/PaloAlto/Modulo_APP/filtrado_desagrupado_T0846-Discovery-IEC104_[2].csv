@@ -1,0 +1,33 @@
+app	container_of_app	sessionid	subcategory_of_app	risk_of_app	proto	src_ip	dst_ip
+incomplete		1816	unknown	1	tcp	192.168.1.156	192.168.1.134
+insufficient-data		1817	unknown	1	tcp	192.168.1.156	192.168.1.134
+web-browsing		1818	internet-utility	4	tcp	192.168.1.156	192.168.1.134
+web-browsing		1819	internet-utility	4	tcp	192.168.1.156	192.168.1.134
+insufficient-data		1820	unknown	1	tcp	192.168.1.156	192.168.1.134
+portmapper		1821	infrastructure	3	tcp	192.168.1.156	192.168.1.134
+insufficient-data		1822	unknown	1	tcp	192.168.1.156	192.168.1.134
+portmapper		1847	infrastructure	3	tcp	192.168.1.156	192.168.1.134
+104asdu-system-control-type100	iec-60870-5-104	1846	ics-protocols	1	tcp	192.168.1.156	192.168.1.134
+corba		1845	general-business	1	tcp	192.168.1.156	192.168.1.134
+afp		1844	storage-backup	3	tcp	192.168.1.156	192.168.1.134
+mssql-db-base	mssql-db	1843	database	2	tcp	192.168.1.156	192.168.1.134
+oracle		1842	database	2	tcp	192.168.1.156	192.168.1.134
+insufficient-data		1841	unknown	1	tcp	192.168.1.156	192.168.1.134
+rmi-iiop-base	rmi-iiop	1840	general-business	1	tcp	192.168.1.156	192.168.1.134
+insufficient-data		1839	unknown	1	tcp	192.168.1.156	192.168.1.134
+insufficient-data		1838	unknown	1	tcp	192.168.1.156	192.168.1.134
+t.120		1837	infrastructure	3	tcp	192.168.1.156	192.168.1.134
+ms-sms		1836	management	3	tcp	192.168.1.156	192.168.1.134
+sip		1835	voip-video	4	tcp	192.168.1.156	192.168.1.134
+insufficient-data		1834	unknown	1	tcp	192.168.1.156	192.168.1.134
+insufficient-data		1833	unknown	1	tcp	192.168.1.156	192.168.1.134
+insufficient-data		1832	unknown	1	tcp	192.168.1.156	192.168.1.134
+web-browsing		1831	internet-utility	4	tcp	192.168.1.156	192.168.1.134
+insufficient-data		1830	unknown	1	tcp	192.168.1.156	192.168.1.134
+ms-ds-smb-base	ms-ds-smb	1829	storage-backup	3	tcp	192.168.1.156	192.168.1.134
+insufficient-data		1828	unknown	1	tcp	192.168.1.156	192.168.1.134
+ssl		1827	encrypted-tunnel	4	tcp	192.168.1.156	192.168.1.134
+ms-rdp		1826	remote-access	4	tcp	192.168.1.156	192.168.1.134
+ssl		1825	encrypted-tunnel	4	tcp	192.168.1.156	192.168.1.134
+insufficient-data		1824	unknown	1	tcp	192.168.1.156	192.168.1.134
+insufficient-data		1823	unknown	1	tcp	192.168.1.156	192.168.1.134

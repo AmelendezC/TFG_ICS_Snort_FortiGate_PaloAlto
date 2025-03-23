@@ -1,0 +1,2 @@
+Número total de flujos distintos en T0843-FileRead-DNP3-FIXED_[1]_combined_alerts.txt: 1
+

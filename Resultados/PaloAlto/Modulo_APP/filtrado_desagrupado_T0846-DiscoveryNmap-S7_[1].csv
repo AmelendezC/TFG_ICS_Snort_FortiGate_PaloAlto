@@ -1,0 +1,4 @@
+app	container_of_app	sessionid	subcategory_of_app	risk_of_app	proto	src_ip	dst_ip
+siemens-s7-setup-communication	siemens-s7	23452	ics-protocols	1	tcp	192.168.0.142	192.168.0.64
+incomplete		23451	unknown	1	tcp	192.168.0.142	192.168.0.64
+dns-base	dns	23450	infrastructure	3	udp	192.168.0.142	192.168.0.1

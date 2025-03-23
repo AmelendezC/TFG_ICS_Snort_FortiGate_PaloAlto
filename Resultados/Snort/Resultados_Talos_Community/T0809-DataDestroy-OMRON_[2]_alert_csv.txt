@@ -1,0 +1,10 @@
+01/27-22:44:42.811637, 86, UDP, raw, 300, C2S, 10.4.14.102:58722, 10.130.130.130:9600, 1:1394:17, allow, "INDICATOR-SHELLCODE x86 inc ecx NOOP", Executable code was detected
+01/27-22:44:42.813407, 192, UDP, raw, 134, C2S, 10.4.14.102:58722, 10.130.130.130:9600, 1:1390:17, allow, "INDICATOR-SHELLCODE x86 inc ebx NOOP", Executable code was detected
+01/27-22:44:42.813430, 193, UDP, raw, 134, C2S, 10.4.14.102:58722, 10.130.130.130:9600, 1:1390:17, allow, "INDICATOR-SHELLCODE x86 inc ebx NOOP", Executable code was detected
+01/27-22:44:42.813454, 194, UDP, raw, 134, C2S, 10.4.14.102:58722, 10.130.130.130:9600, 1:1390:17, allow, "INDICATOR-SHELLCODE x86 inc ebx NOOP", Executable code was detected
+01/27-22:44:42.813475, 195, UDP, raw, 134, C2S, 10.4.14.102:58722, 10.130.130.130:9600, 1:1390:17, allow, "INDICATOR-SHELLCODE x86 inc ebx NOOP", Executable code was detected
+01/27-22:44:42.813545, 198, UDP, raw, 201, C2S, 10.4.14.102:58722, 10.130.130.130:9600, 1:1390:17, allow, "INDICATOR-SHELLCODE x86 inc ebx NOOP", Executable code was detected
+01/27-22:44:42.813660, 202, UDP, raw, 148, C2S, 10.4.14.102:58722, 10.130.130.130:9600, 1:1394:17, allow, "INDICATOR-SHELLCODE x86 inc ecx NOOP", Executable code was detected
+01/27-22:44:42.813822, 210, UDP, raw, 140, C2S, 10.4.14.102:58722, 10.130.130.130:9600, 1:1394:17, allow, "INDICATOR-SHELLCODE x86 inc ecx NOOP", Executable code was detected
+01/27-22:44:42.813822, 210, UDP, raw, 140, C2S, 10.4.14.102:58722, 10.130.130.130:9600, 1:1390:17, allow, "INDICATOR-SHELLCODE x86 inc ebx NOOP", Executable code was detected
+01/27-22:44:42.814314, 238, UDP, raw, 300, C2S, 10.4.14.102:58722, 10.130.130.130:9600, 1:1394:17, allow, "INDICATOR-SHELLCODE x86 inc ecx NOOP", Executable code was detected

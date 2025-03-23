@@ -1,0 +1,4 @@
+appid	sessionid	app	msg	apprisk	srcip	dstip	DeviceID
+45416	6794	EtherNet.IP_List.Identity	Operational.Technology: EtherNet.IP_List.Identity	elevated	10.1.1.167	10.1.1.164	
+10000167	6794	RockwellAutomation.Devices	OT: RockwellAutomation.Devices	low	10.1.1.167	10.1.1.164	
+10002580	6794	RockwellAutomation.ControlLogix.EthernetIP	OT: RockwellAutomation.ControlLogix.EthernetIP	low	10.1.1.167	10.1.1.164	

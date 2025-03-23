@@ -1,0 +1,2 @@
+Número total de flujos distintos en T0846-DiscoveryNmap-Modbus_[1]_combined_alerts.txt: 1
+192.168.100.2:37106 -> 192.168.100.3:80

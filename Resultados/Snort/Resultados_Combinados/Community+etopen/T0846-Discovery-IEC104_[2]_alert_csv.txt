@@ -1,0 +1,17 @@
+05/05-21:34:54.438842, 7, UDP, raw, 203, C2S, 192.168.1.134:60674, 239.255.255.250:1900, 1:1917:16, allow, "INDICATOR-SCAN UPnP service discover attempt", Detection of a Network Scan
+05/05-21:34:55.460823, 8, UDP, raw, 203, C2S, 192.168.1.134:60674, 239.255.255.250:1900, 1:1917:16, allow, "INDICATOR-SCAN UPnP service discover attempt", Detection of a Network Scan
+05/05-21:34:56.384217, 10, UDP, raw, 203, C2S, 192.168.1.134:60674, 239.255.255.250:1900, 1:1917:16, allow, "INDICATOR-SCAN UPnP service discover attempt", Detection of a Network Scan
+05/05-21:34:57.406752, 13, UDP, raw, 203, C2S, 192.168.1.134:60674, 239.255.255.250:1900, 1:1917:16, allow, "INDICATOR-SCAN UPnP service discover attempt", Detection of a Network Scan
+05/05-21:35:24.644994, 59, UDP, raw, 198, C2S, 192.168.1.134:63092, 239.255.255.250:1900, 1:1917:16, allow, "INDICATOR-SCAN UPnP service discover attempt", Detection of a Network Scan
+05/05-21:35:25.671069, 60, UDP, raw, 198, C2S, 192.168.1.134:63092, 239.255.255.250:1900, 1:1917:16, allow, "INDICATOR-SCAN UPnP service discover attempt", Detection of a Network Scan
+05/05-21:35:26.692921, 61, UDP, raw, 198, C2S, 192.168.1.134:63092, 239.255.255.250:1900, 1:1917:16, allow, "INDICATOR-SCAN UPnP service discover attempt", Detection of a Network Scan
+05/05-21:35:27.717302, 71, UDP, raw, 198, C2S, 192.168.1.134:63092, 239.255.255.250:1900, 1:1917:16, allow, "INDICATOR-SCAN UPnP service discover attempt", Detection of a Network Scan
+05/05-21:36:14.209310, 154, UDP, raw, 153, C2S, 192.168.1.134:56005, 239.255.255.250:1900, 1:1917:16, allow, "INDICATOR-SCAN UPnP service discover attempt", Detection of a Network Scan
+05/05-21:36:54.452065, 227, UDP, raw, 203, C2S, 192.168.1.134:56078, 239.255.255.250:1900, 1:1917:16, allow, "INDICATOR-SCAN UPnP service discover attempt", Detection of a Network Scan
+05/05-21:36:55.475736, 228, UDP, raw, 203, C2S, 192.168.1.134:56078, 239.255.255.250:1900, 1:1917:16, allow, "INDICATOR-SCAN UPnP service discover attempt", Detection of a Network Scan
+05/05-21:36:56.397758, 229, UDP, raw, 203, C2S, 192.168.1.134:56078, 239.255.255.250:1900, 1:1917:16, allow, "INDICATOR-SCAN UPnP service discover attempt", Detection of a Network Scan
+05/05-21:36:57.421725, 239, UDP, raw, 203, C2S, 192.168.1.134:56078, 239.255.255.250:1900, 1:1917:16, allow, "INDICATOR-SCAN UPnP service discover attempt", Detection of a Network Scan
+05/05-21:37:24.763391, 307, UDP, raw, 198, C2S, 192.168.1.134:56084, 239.255.255.250:1900, 1:1917:16, allow, "INDICATOR-SCAN UPnP service discover attempt", Detection of a Network Scan
+05/05-21:37:25.786684, 308, UDP, raw, 198, C2S, 192.168.1.134:56084, 239.255.255.250:1900, 1:1917:16, allow, "INDICATOR-SCAN UPnP service discover attempt", Detection of a Network Scan
+05/05-21:37:26.708371, 309, UDP, raw, 198, C2S, 192.168.1.134:56084, 239.255.255.250:1900, 1:1917:16, allow, "INDICATOR-SCAN UPnP service discover attempt", Detection of a Network Scan
+05/05-21:37:27.732700, 310, UDP, raw, 198, C2S, 192.168.1.134:56084, 239.255.255.250:1900, 1:1917:16, allow, "INDICATOR-SCAN UPnP service discover attempt", Detection of a Network Scan

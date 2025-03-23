@@ -1,0 +1,5 @@
+Números de paquete distintos encontrados en el archivo T0836-ModifParam-S7_[1]_combined_alerts.txt:
+3
+2
+11
+Total de números de paquete distintos: 3

@@ -1,0 +1,5 @@
+Números de paquete distintos encontrados en el archivo T0866-RemoteAccess-VNC_[2]_alert_csv.txt (excluyendo SIDs 2012648 1917):
+34
+6
+21
+Total de números de paquete distintos: 3

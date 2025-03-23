@@ -1,0 +1,5 @@
+﻿Táctica;Técnica;ID Técnica;Subtécnica;ID Subtécnica;Otras tácticas aplicables;Ataque;Fichero pcap;SIDs Snort;SIDs FG;Nº de ataques 
+Execution;Change Operating Mode;T0858;Sin Subtécnica;-;Evasion;Cambiar Modo de Funcionamiento de un PLC a RUN/STOP mediante ordenes FINS;T0858-ChangeOPMode-Omron.pcapng;15398 15399;-;3
+Inhabit Response Function;Device Restart/Shutdown;T0816;Sin Subtécnica;-;-;Apagado de PLC mediante orden CIP;T0816-ShtDownAllenBradley-CIP.pcapng;402 40518;-;1
+Command and Control;Commonly Used Port;T0885;Sin Subtécnica;-;-;Camuflaje de tráfico C&C al usar puertos estándar 502;T0885-C&Cp502Ignition-HTTP.pcapng;15071  50447 1917 58160;-;1
+Initial Access;Exploitation of Remote Services;T0866;Sin Subtécnica;-;Lateral Movement;Acceso a red mediante vulnerabilidad del protocolo SMBv1;T0866-VulnAccess-SMBv1.pcapng;1917,24303;45360,43799,43963,43796;2

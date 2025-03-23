@@ -1,0 +1,4 @@
+attackid,sessionid,repeated,severity,attack,service,srcip,dstip,subtype,eventtype,url
+45360,5612,1,"low","Nmap.Script.Scanner","tcp/2404",192.168.1.156,192.168.1.134,"ips","signature","http://www.fortinet.com/ids/VID45360"
+45360,5613,1,"low","Nmap.Script.Scanner","SSL",192.168.1.156,192.168.1.134,"ips","signature","http://www.fortinet.com/ids/VID45360"
+45360,5617,1,"low","Nmap.Script.Scanner","HTTP",192.168.1.156,192.168.1.134,"ips","signature","http://www.fortinet.com/ids/VID45360"

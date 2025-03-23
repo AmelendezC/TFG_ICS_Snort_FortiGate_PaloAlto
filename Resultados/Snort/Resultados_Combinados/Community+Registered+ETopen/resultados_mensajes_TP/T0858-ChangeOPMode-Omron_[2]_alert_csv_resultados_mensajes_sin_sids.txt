@@ -1,0 +1,8 @@
+Números de paquete distintos encontrados en el archivo T0858-ChangeOPMode-Omron_[2]_alert_csv.txt:
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+Total de números de paquete distintos: 6

@@ -1,0 +1,22 @@
+attackid	severity	attack	service	srcip	dstip	subtype	eventtype
+45360	low	Nmap.Script.Scanner	SSL	192.168.1.135	192.168.1.201	ips	signature
+45360	low	Nmap.Script.Scanner	NBSS	192.168.1.135	192.168.1.201	ips	signature
+43799	medium	MS.SMB.Server.Trans.Peeking.Data.Information.Disclosure	NBSS	192.168.1.135	192.168.1.201	ips	signature
+45360	low	Nmap.Script.Scanner	NBSS	192.168.1.135	192.168.1.201	ips	signature
+45360	low	Nmap.Script.Scanner	NBSS	192.168.1.135	192.168.1.201	ips	signature
+43963	critical	Backdoor.DoublePulsar	NBSS	192.168.1.135	192.168.1.201	ips	signature
+45360	low	Nmap.Script.Scanner	NBSS	192.168.1.135	192.168.1.201	ips	signature
+43963	critical	Backdoor.DoublePulsar	NBSS	192.168.1.135	192.168.1.201	ips	signature
+43796	critical	MS.SMB.Server.SMB1.Trans2.Secondary.Handling.Code.Execution	NBSS	192.168.1.135	192.168.1.201	ips	signature
+43963	critical	Backdoor.DoublePulsar	NBSS	192.168.1.135	192.168.1.201	ips	signature
+43796	critical	MS.SMB.Server.SMB1.Trans2.Secondary.Handling.Code.Execution	NBSS	192.168.1.135	192.168.1.201	ips	signature
+43963	critical	Backdoor.DoublePulsar	NBSS	192.168.1.135	192.168.1.201	ips	signature
+43963	critical	Backdoor.DoublePulsar	NBSS	192.168.1.135	192.168.1.201	ips	signature
+43963	critical	Backdoor.DoublePulsar	NBSS	192.168.1.135	192.168.1.201	ips	signature
+43963	critical	Backdoor.DoublePulsar	NBSS	192.168.1.135	192.168.1.201	ips	signature
+43963	critical	Backdoor.DoublePulsar	NBSS	192.168.1.135	192.168.1.201	ips	signature
+43796	critical	MS.SMB.Server.SMB1.Trans2.Secondary.Handling.Code.Execution	NBSS	192.168.1.135	192.168.1.201	ips	signature
+
+Metric	Count
+Total Alerts	17
+Distinct Alerts	4

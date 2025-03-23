@@ -1,0 +1,3 @@
+Número total de flujos distintos en T0890-EscalPrivileges-NetLogon-FIXED_[2]_alert_fast.txt: 2
+192.168.1.39:62276 -> 239.255.255.250:1900
+192.168.1.71:41058 -> 239.255.255.250:1900

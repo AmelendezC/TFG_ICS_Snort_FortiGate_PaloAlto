@@ -1,0 +1,9 @@
+04/18-22:17:52.621232, 11, ICMP, raw, 106, C2S, 192.168.1.144:0, 192.168.1.133:0, 1:402:16, allow, "PROTOCOL-ICMP destination unreachable port unreachable packet detected", Misc activity
+04/18-22:17:54.136662, 13, ICMP, raw, 106, C2S, 192.168.1.144:0, 192.168.1.133:0, 1:402:16, allow, "PROTOCOL-ICMP destination unreachable port unreachable packet detected", Misc activity
+04/18-22:17:55.645002, 15, ICMP, raw, 106, C2S, 192.168.1.144:0, 192.168.1.133:0, 1:402:16, allow, "PROTOCOL-ICMP destination unreachable port unreachable packet detected", Misc activity
+04/18-22:18:01.527633, 19, UDP, raw, 76, C2S, 192.168.1.144:39425, 192.168.1.133:161, 1:39877:3, allow, "PROTOCOL-SNMP Allen-Bradley MicroLogix PLC firmware update detected", Potential Corporate Privacy Violation
+04/18-22:18:01.527633, 19, UDP, raw, 76, C2S, 192.168.1.144:39425, 192.168.1.133:161, 1:39876:3, allow, "PROTOCOL-SNMP Allen-Bradley MicroLogix PLC SNMP request via undocumented community string attempt", Attempted Information Leak
+04/18-22:18:01.527633, 19, UDP, raw, 76, C2S, 192.168.1.144:39425, 192.168.1.133:161, 1:44663:2, allow, "SERVER-OTHER Mikrotik RouterOS SNMP security bypass attempt", Attempted Administrator Privilege Gain
+04/18-22:18:18.985589, 33, ICMP, raw, 106, C2S, 192.168.1.144:0, 192.168.1.133:0, 1:402:16, allow, "PROTOCOL-ICMP destination unreachable port unreachable packet detected", Misc activity
+04/18-22:18:20.505110, 35, ICMP, raw, 106, C2S, 192.168.1.144:0, 192.168.1.133:0, 1:402:16, allow, "PROTOCOL-ICMP destination unreachable port unreachable packet detected", Misc activity
+04/18-22:18:22.002569, 37, ICMP, raw, 106, C2S, 192.168.1.144:0, 192.168.1.133:0, 1:402:16, allow, "PROTOCOL-ICMP destination unreachable port unreachable packet detected", Misc activity

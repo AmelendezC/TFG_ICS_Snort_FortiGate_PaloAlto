@@ -1,0 +1,6 @@
+Números de paquete distintos encontrados en el archivo T0846-DiscoveryNmap-S7_[1]_combined_alerts.txt:
+32
+7
+5
+4
+Total de números de paquete distintos: 4

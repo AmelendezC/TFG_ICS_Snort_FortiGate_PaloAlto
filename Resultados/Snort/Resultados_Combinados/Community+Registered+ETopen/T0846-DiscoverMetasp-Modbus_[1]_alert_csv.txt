@@ -1,0 +1,2 @@
+04/23-19:46:06.889522, 4, TCP, stream_tcp, 12, C2S, 192.168.100.2:37125, 192.168.100.3:502, 1:17789:5, allow, "PROTOCOL-SCADA Modbus read input register from external source", Generic Protocol Command Decode
+04/23-19:46:06.896079, 6, TCP, stream_tcp, 9, S2C, 192.168.100.3:502, 192.168.100.2:37125, 1:15071:5, allow, "PROTOCOL-SCADA Modbus exception returned", Generic Protocol Command Decode

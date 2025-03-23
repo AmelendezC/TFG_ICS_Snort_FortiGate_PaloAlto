@@ -1,0 +1,2 @@
+Número total de flujos distintos en T0882-DirectoryRead-IEC104_[2]_alert_fast.txt: 1
+

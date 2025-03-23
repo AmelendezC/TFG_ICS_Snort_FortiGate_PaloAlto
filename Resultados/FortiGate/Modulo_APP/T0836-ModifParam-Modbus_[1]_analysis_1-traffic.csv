@@ -1,0 +1,8 @@
+appid	sessionid	app	msg	apprisk	srcip	dstip	DeviceID
+25902	5501	Modbus_Write.Single.Register	Operational.Technology: Modbus_Write.Single.Register	elevated	192.168.100.2	192.168.100.3	
+48886	5501	Modbus_Func06.Write.Single.Reg.Validation	Operational.Technology: Modbus_Func06.Write.Single.Reg.Validation	elevated	192.168.100.2	192.168.100.3	
+25902	5501	Modbus_Write.Single.Register	Operational.Technology: Modbus_Write.Single.Register	elevated	192.168.100.2	192.168.100.3	
+48886	5501	Modbus_Func06.Write.Single.Reg.Validation	Operational.Technology: Modbus_Func06.Write.Single.Reg.Validation	elevated	192.168.100.2	192.168.100.3	
+25902	5501	Modbus_Write.Single.Register	Operational.Technology: Modbus_Write.Single.Register	elevated	192.168.100.2	192.168.100.3	
+48886	5501	Modbus_Func06.Write.Single.Reg.Validation	Operational.Technology: Modbus_Func06.Write.Single.Reg.Validation	elevated	192.168.100.2	192.168.100.3	
+16938	5501	Modbus	Operational.Technology: Modbus	elevated	192.168.100.2	192.168.100.3	

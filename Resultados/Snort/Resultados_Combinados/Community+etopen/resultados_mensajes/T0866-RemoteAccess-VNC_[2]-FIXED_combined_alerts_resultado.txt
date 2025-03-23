@@ -1,0 +1,4 @@
+Números de paquete distintos encontrados en el archivo T0866-RemoteAccess-VNC_[2]-FIXED_combined_alerts.txt:
+631
+763
+Total de números de paquete distintos: 2

@@ -1,0 +1,24 @@
+Números de paquete distintos encontrados en el archivo T0866-VulnAccess-SMBv1_[2]_alert_csv.txt:
+936
+655
+82
+347
+674
+895
+891
+892
+893
+78
+351
+582
+583
+580
+581
+333
+910
+579
+578
+577
+576
+997
+Total de números de paquete distintos: 22

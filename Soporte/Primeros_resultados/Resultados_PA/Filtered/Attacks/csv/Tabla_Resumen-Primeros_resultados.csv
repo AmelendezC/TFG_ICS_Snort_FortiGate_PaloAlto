@@ -1,0 +1,9 @@
+﻿Nombre;Numero de instancia del ataque;Numero de alarmas
+T0866-VulnAccess-SMBv1_[2].pcapng;1;6
+T0866-RemoteAccess-VNC_[2].csv;1;0
+T0848-RogueMaster-DNP3-FIXED_[1].pcapng;1;5
+T0848-RogueMaster-IEC-104_[2].pcapng;1;1
+T0858-ChangeOPMode-Omron_[2].pcapng;3;0
+T0885-C&Cp502Ignition-HTTP_[1].pcapng;1;2
+T0890-EscalPrivileges-NetLogon-FIXED_[2].pcapng;1;1
+T0816-ShtDownAllenBradley-CIP_[1].pcapng;1;1

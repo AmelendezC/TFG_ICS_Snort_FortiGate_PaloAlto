@@ -1,0 +1,48 @@
+06/13-23:16:45.558627, 4, TCP, stream_tcp, 6, C2S, 192.168.1.129:61898, 192.168.1.130:2404, 1:41079:4, allow, "PROTOCOL-SCADA IEC 104 traffic to/from EXTERNAL_NET", Generic Protocol Command Decode
+06/13-23:16:45.558627, 4, TCP, stream_tcp, 6, C2S, 192.168.1.129:61898, 192.168.1.130:2404, 1:41078:4, allow, "PROTOCOL-SCADA IEC 104 traffic to/from EXTERNAL_NET", Generic Protocol Command Decode
+06/13-23:16:45.558627, 4, TCP, stream_tcp, 6, C2S, 192.168.1.129:61898, 192.168.1.130:2404, 1:41047:4, allow, "PROTOCOL-SCADA IEC 104 STARTDT ACT", Generic Protocol Command Decode
+06/13-23:16:45.566262, 5, TCP, stream_tcp, 6, S2C, 192.168.1.130:2404, 192.168.1.129:61898, 1:41048:4, allow, "PROTOCOL-SCADA IEC 104 STARTDT CON", Generic Protocol Command Decode
+06/13-23:16:45.584132, 6, TCP, stream_tcp, 6, C2S, 192.168.1.129:61898, 192.168.1.130:2404, 1:41079:4, allow, "PROTOCOL-SCADA IEC 104 traffic to/from EXTERNAL_NET", Generic Protocol Command Decode
+06/13-23:16:45.584132, 6, TCP, stream_tcp, 6, C2S, 192.168.1.129:61898, 192.168.1.130:2404, 1:41078:4, allow, "PROTOCOL-SCADA IEC 104 traffic to/from EXTERNAL_NET", Generic Protocol Command Decode
+06/13-23:16:45.584406, 7, TCP, stream_tcp, 16, S2C, 192.168.1.130:2404, 192.168.1.129:61898, 1:52185:1, allow, "PROTOCOL-SCADA IEC 104 M_EI_NA_1", Generic Protocol Command Decode
+06/13-23:16:45.584406, 7, TCP, stream_tcp, 16, S2C, 192.168.1.130:2404, 192.168.1.129:61898, 1:41055:4, allow, "PROTOCOL-SCADA IEC 104 End of initialization", Generic Protocol Command Decode
+06/13-23:16:45.586689, 8, TCP, stream_tcp, 22, C2S, 192.168.1.129:61898, 192.168.1.130:2404, 1:52192:1, allow, "PROTOCOL-SCADA IEC 104 C_CS_NA_1", Generic Protocol Command Decode
+06/13-23:16:45.586689, 8, TCP, stream_tcp, 22, C2S, 192.168.1.129:61898, 192.168.1.130:2404, 1:52159:1, allow, "PROTOCOL-SCADA IEC 104 M_PS_NA_1", Generic Protocol Command Decode
+06/13-23:16:45.586689, 8, TCP, stream_tcp, 22, C2S, 192.168.1.129:61898, 192.168.1.130:2404, 1:41079:4, allow, "PROTOCOL-SCADA IEC 104 traffic to/from EXTERNAL_NET", Generic Protocol Command Decode
+06/13-23:16:45.608693, 9, TCP, stream_tcp, 22, S2C, 192.168.1.130:2404, 192.168.1.129:61898, 1:52192:1, allow, "PROTOCOL-SCADA IEC 104 C_CS_NA_1", Generic Protocol Command Decode
+06/13-23:16:45.608693, 9, TCP, stream_tcp, 22, S2C, 192.168.1.130:2404, 192.168.1.129:61898, 1:41074:4, allow, "PROTOCOL-SCADA IEC 104 clock sync command", Generic Protocol Command Decode
+06/13-23:16:45.612174, 10, TCP, stream_tcp, 16, C2S, 192.168.1.129:61898, 192.168.1.130:2404, 1:52191:1, allow, "PROTOCOL-SCADA IEC 104 C_IC_NA_1", Generic Protocol Command Decode
+06/13-23:16:45.612174, 10, TCP, stream_tcp, 16, C2S, 192.168.1.129:61898, 192.168.1.130:2404, 1:41079:4, allow, "PROTOCOL-SCADA IEC 104 traffic to/from EXTERNAL_NET", Generic Protocol Command Decode
+06/13-23:16:45.612174, 10, TCP, stream_tcp, 16, C2S, 192.168.1.129:61898, 192.168.1.130:2404, 1:41078:4, allow, "PROTOCOL-SCADA IEC 104 traffic to/from EXTERNAL_NET", Generic Protocol Command Decode
+06/13-23:16:45.612174, 10, TCP, stream_tcp, 16, C2S, 192.168.1.129:61898, 192.168.1.130:2404, 1:52189:1, allow, "PROTOCOL-SCADA IEC 104 C_CI_NA_1", Generic Protocol Command Decode
+06/13-23:16:45.612174, 10, TCP, stream_tcp, 16, C2S, 192.168.1.129:61898, 192.168.1.130:2404, 1:41075:4, allow, "PROTOCOL-SCADA IEC 104 counter interrogation command", Generic Protocol Command Decode
+06/13-23:16:45.619208, 11, TCP, stream_tcp, 16, S2C, 192.168.1.130:2404, 192.168.1.129:61898, 1:52191:1, allow, "PROTOCOL-SCADA IEC 104 C_IC_NA_1", Generic Protocol Command Decode
+06/13-23:16:45.619208, 11, TCP, stream_tcp, 16, S2C, 192.168.1.130:2404, 192.168.1.129:61898, 1:41058:4, allow, "PROTOCOL-SCADA IEC 104 Interrogation command", Generic Protocol Command Decode
+06/13-23:16:45.661842, 13, TCP, stream_tcp, 16, S2C, 192.168.1.130:2404, 192.168.1.129:61898, 1:52150:1, allow, "PROTOCOL-SCADA IEC 104 M_SP_NA_1", Generic Protocol Command Decode
+06/13-23:16:45.661842, 13, TCP, stream_tcp, 16, S2C, 192.168.1.130:2404, 192.168.1.129:61898, 1:41070:4, allow, "PROTOCOL-SCADA IEC 104 Single point information", Generic Protocol Command Decode
+06/13-23:16:45.661842, 13, TCP, stream_tcp, 16, S2C, 192.168.1.130:2404, 192.168.1.129:61898, 1:52191:1, allow, "PROTOCOL-SCADA IEC 104 C_IC_NA_1", Generic Protocol Command Decode
+06/13-23:16:45.661842, 13, TCP, stream_tcp, 16, S2C, 192.168.1.130:2404, 192.168.1.129:61898, 1:41058:4, allow, "PROTOCOL-SCADA IEC 104 Interrogation command", Generic Protocol Command Decode
+06/13-23:16:45.661842, 13, TCP, stream_tcp, 16, S2C, 192.168.1.130:2404, 192.168.1.129:61898, 1:52189:1, allow, "PROTOCOL-SCADA IEC 104 C_CI_NA_1", Generic Protocol Command Decode
+06/13-23:16:45.661842, 13, TCP, stream_tcp, 16, S2C, 192.168.1.130:2404, 192.168.1.129:61898, 1:41075:4, allow, "PROTOCOL-SCADA IEC 104 counter interrogation command", Generic Protocol Command Decode
+06/13-23:16:55.600361, 15, TCP, stream_tcp, 6, C2S, 192.168.1.129:61898, 192.168.1.130:2404, 1:41079:4, allow, "PROTOCOL-SCADA IEC 104 traffic to/from EXTERNAL_NET", Generic Protocol Command Decode
+06/13-23:16:55.600361, 15, TCP, stream_tcp, 6, C2S, 192.168.1.129:61898, 192.168.1.130:2404, 1:41078:4, allow, "PROTOCOL-SCADA IEC 104 traffic to/from EXTERNAL_NET", Generic Protocol Command Decode
+06/13-23:17:00.485421, 19, TCP, stream_tcp, 19, C2S, 192.168.1.129:61898, 192.168.1.130:2404, 1:52199:1, allow, "PROTOCOL-SCADA IEC 104 F_SC_NA_1", Generic Protocol Command Decode
+06/13-23:17:00.485421, 19, TCP, stream_tcp, 19, C2S, 192.168.1.129:61898, 192.168.1.130:2404, 1:41079:4, allow, "PROTOCOL-SCADA IEC 104 traffic to/from EXTERNAL_NET", Generic Protocol Command Decode
+06/13-23:17:00.485421, 19, TCP, stream_tcp, 19, C2S, 192.168.1.129:61898, 192.168.1.130:2404, 1:41078:4, allow, "PROTOCOL-SCADA IEC 104 traffic to/from EXTERNAL_NET", Generic Protocol Command Decode
+06/13-23:17:00.500793, 20, TCP, stream_tcp, 28, S2C, 192.168.1.130:2404, 192.168.1.129:61898, 1:52202:1, allow, "PROTOCOL-SCADA IEC 104 F_DR_TA_1", Generic Protocol Command Decode
+06/13-23:17:00.500793, 20, TCP, stream_tcp, 28, S2C, 192.168.1.130:2404, 192.168.1.129:61898, 1:41060:6, allow, "PROTOCOL-SCADA IEC 104 List directory", Generic Protocol Command Decode
+06/13-23:17:00.543262, 22, TCP, stream_tcp, 28, S2C, 192.168.1.130:2404, 192.168.1.129:61898, 1:52202:1, allow, "PROTOCOL-SCADA IEC 104 F_DR_TA_1", Generic Protocol Command Decode
+06/13-23:17:00.543262, 22, TCP, stream_tcp, 28, S2C, 192.168.1.130:2404, 192.168.1.129:61898, 1:41060:6, allow, "PROTOCOL-SCADA IEC 104 List directory", Generic Protocol Command Decode
+06/13-23:17:08.684181, 27, TCP, stream_tcp, 19, C2S, 192.168.1.129:61898, 192.168.1.130:2404, 1:52199:1, allow, "PROTOCOL-SCADA IEC 104 F_SC_NA_1", Generic Protocol Command Decode
+06/13-23:17:08.684181, 27, TCP, stream_tcp, 19, C2S, 192.168.1.129:61898, 192.168.1.130:2404, 1:41079:4, allow, "PROTOCOL-SCADA IEC 104 traffic to/from EXTERNAL_NET", Generic Protocol Command Decode
+06/13-23:17:08.684181, 27, TCP, stream_tcp, 19, C2S, 192.168.1.129:61898, 192.168.1.130:2404, 1:41078:4, allow, "PROTOCOL-SCADA IEC 104 traffic to/from EXTERNAL_NET", Generic Protocol Command Decode
+06/13-23:17:08.694180, 28, TCP, stream_tcp, 28, S2C, 192.168.1.130:2404, 192.168.1.129:61898, 1:52202:1, allow, "PROTOCOL-SCADA IEC 104 F_DR_TA_1", Generic Protocol Command Decode
+06/13-23:17:08.694180, 28, TCP, stream_tcp, 28, S2C, 192.168.1.130:2404, 192.168.1.129:61898, 1:41060:6, allow, "PROTOCOL-SCADA IEC 104 List directory", Generic Protocol Command Decode
+06/13-23:17:08.736742, 30, TCP, stream_tcp, 28, S2C, 192.168.1.130:2404, 192.168.1.129:61898, 1:52202:1, allow, "PROTOCOL-SCADA IEC 104 F_DR_TA_1", Generic Protocol Command Decode
+06/13-23:17:08.736742, 30, TCP, stream_tcp, 28, S2C, 192.168.1.130:2404, 192.168.1.129:61898, 1:41060:6, allow, "PROTOCOL-SCADA IEC 104 List directory", Generic Protocol Command Decode
+06/13-23:17:10.522764, 33, TCP, stream_tcp, 6, C2S, 192.168.1.129:61898, 192.168.1.130:2404, 1:41079:4, allow, "PROTOCOL-SCADA IEC 104 traffic to/from EXTERNAL_NET", Generic Protocol Command Decode
+06/13-23:17:10.522764, 33, TCP, stream_tcp, 6, C2S, 192.168.1.129:61898, 192.168.1.130:2404, 1:41078:4, allow, "PROTOCOL-SCADA IEC 104 traffic to/from EXTERNAL_NET", Generic Protocol Command Decode
+06/13-23:17:21.043561, 47, TCP, stream_tcp, 6, C2S, 192.168.1.129:61905, 192.168.1.130:2404, 1:41079:4, allow, "PROTOCOL-SCADA IEC 104 traffic to/from EXTERNAL_NET", Generic Protocol Command Decode
+06/13-23:17:21.043561, 47, TCP, stream_tcp, 6, C2S, 192.168.1.129:61905, 192.168.1.130:2404, 1:41078:4, allow, "PROTOCOL-SCADA IEC 104 traffic to/from EXTERNAL_NET", Generic Protocol Command Decode
+06/13-23:17:21.043561, 47, TCP, stream_tcp, 6, C2S, 192.168.1.129:61905, 192.168.1.130:2404, 1:41047:4, allow, "PROTOCOL-SCADA IEC 104 STARTDT ACT", Generic Protocol Command Decode
+06/13-23:17:21.050856, 48, TCP, stream_tcp, 6, S2C, 192.168.1.130:2404, 192.168.1.129:61905, 1:41048:4, allow, "PROTOCOL-SCADA IEC 104 STARTDT CON", Generic Protocol Command Decode

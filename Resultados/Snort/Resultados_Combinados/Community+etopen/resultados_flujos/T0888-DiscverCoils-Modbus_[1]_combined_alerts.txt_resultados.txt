@@ -1,0 +1,2 @@
+Número total de flujos distintos en T0888-DiscverCoils-Modbus_[1]_combined_alerts.txt: 1
+

@@ -1,0 +1,85 @@
+﻿Fichero pcap;Attackids ;TP
+T0866-VulnAccess-SMBv1_[2].pcapng;12096;1
+T0866-VulnAccess-SMBv1_[2].pcapng;31696;1
+T0866-VulnAccess-SMBv1_[2].pcapng;31710;1
+T0866-VulnAccess-SMBv1_[2].pcapng;35364;1
+T0866-VulnAccess-SMBv1_[2].pcapng;39592;1
+T0866-VulnAccess-SMBv1_[2].pcapng;94318;1
+T0866-RemoteAccess-VNC-FIXED_[2].pcapng;33515;1
+T0848-RogueMaster-IEC-104_[2].pcapng;92546;1
+T0848-RogueMaster-DNP3-FIXED_[1].pcapng;31659;1
+T0848-RogueMaster-DNP3-FIXED_[1].pcapng;31661;1
+T0848-RogueMaster-DNP3-FIXED_[1].pcapng;31663;1
+T0848-RogueMaster-DNP3-FIXED_[1].pcapng;31665;1
+T0848-RogueMaster-DNP3-FIXED_[1].pcapng;31666;1
+T0890-EscalPrivileges-NetLogon_[2].pcapng;59336;1
+T0846-DiscoveryNmap-S7_[1].pcapng;31670;1
+T0846-DiscoveryNmap-S7_[1].pcapng;31671;1
+T0846-DiscoveryNmap-Modbus_[1].pcapng;31649;1
+T0846-DiscoveryNmap-Modbus_[1].pcapng;31667;1
+T0888-DiscverFindID-Modbus_[1].pcapng / T0888-DiscverCoils-Modbus_[1].pcapng / T0888-DiscverRegisters-Modbus_[1].pcapng / T0888-DiscverRegisters2-Modbus_[1].pcapng;31667;1
+T0888-DiscoverInfo-DNP3_[1].pcapng;31661;1
+T0888-DiscoverInfo-DNP3_[1].pcapng;31665;1
+T0888-DiscoverInfo-DNP3_[1].pcapng;31666;1
+T0846-Discovery-IEC104_[2].pcapng;30520;1
+T0846-Discovery-IEC104_[2].pcapng;35364;0
+T0846-Discovery-IEC104_[2].pcapng;92546;1
+T0846-Discovery-IEC104_[2].pcapng;94318;1
+T0846-Discovery-IEC104_[2].pcapng;9999;1
+T0888-ScanInfo-OPCUA-Nmap_[2].pcapng;30520;1
+T0888-ScanInfo-OPCUA-Nmap_[2].pcapng;32880;1
+T0888-ScanInfo-OPCUA-Nmap_[2].pcapng;35364;1
+T0888-ScanInfo-OPCUA-Nmap_[2].pcapng;54319;1
+T0888-ScanInfo-OPCUA-Nmap_[2].pcapng;94318;1
+T0888-ScanInfo-OPCUA-Nmap_[2].pcapng;9999;1
+T0888-ScanInfo-OPCUA-Nmap_[2].pcapng;35364;1
+T0843-ProgDownload-IEC104_[2].pcapng;92546;1
+T0843-FileRead-DNP3-FIXED_[1].pcapng / T0843-FileWrite-DNP3-FIXED_[1].pcapng;31661;1
+T0843-FileRead-DNP3-FIXED_[1].pcapng / T0843-FileWrite-DNP3-FIXED_[1].pcapng;31665;1
+T0843-FileRead-DNP3-FIXED_[1].pcapng / T0843-FileWrite-DNP3-FIXED_[1].pcapng;31666;1
+T0843-FileDownload-Modbus_[1].pcapng / T0843-FileUpload-Modbus_[1].pcapng;31667;1
+T0843-FileDownload-Modbus_[1].pcapng / T0843-FileUpload-Modbus_[1].pcapng;31668;1
+T0816-ShtDownAllenBradley-CIP_[1].pcapng;90215;1
+T0816-ShutDown-Modbus_[1].pcapng;31668;1
+T0836-ModifParam-Modbus_[1].pcapng;31668;1
+T0836-ModifParam-S7_[1].pcapng;31670;1
+T0836-ModifParam-S7_[1].pcapng;31671;1
+T0885-C&Cp502RWin-TCP_[1].pcapng / T0885-C&Cp502RWin-TCP-2_[1].pcapng / T0885-C&Cp502RWin-TCP-3_[1].pcapng;33515;1
+T0885-C&Cp502Ignition-HTTP_[1].pcapng;9999;1
+T0885-C&Cp502Ignition-HTTP_[1].pcapng;33515;1
+T0885-C&Cp20000RWin-TCP_[1].pcapng;33515;1
+T0885-C&Cp102Ignition-TCP_[1].pcapng;9999;1
+T0885-C&Cp102Ignition-TCP_[1].pcapng;33515;1
+T0831-Modifparam-IEC104_[2].pcapng;92546;1
+T0882-DirectoryRead-IEC104_[2].pcapng;92546;1
+T0831-ModifParam-DNP3_[1].pcapng;31661;1
+T0831-ModifParam-DNP3_[1].pcapng;31665;1
+T0831-ModifParam-DNP3_[1].pcapng;31666;1
+T0882-DirRead-DNP3-FIXED_[1].pcapng;31661;1
+T0882-DirRead-DNP3-FIXED_[1].pcapng;31665;1
+dnp3_test_data_part1[3].pcapng ;31665;1
+dnp3_test_data_part1[3].pcapng ;31666;1
+dnp3_test_data_part1[3].pcapng ;31664;1
+dnp3_test_data_part1[3].pcapng ;31659;1
+dnp3_test_data_part1[3].pcapng ;31661;1
+dnp3_test_data_part1[3].pcapng ;31660;1
+modbus_test_data_part1[3].pcapng ;31646;1
+modbus_test_data_part1[3].pcapng ;31650;1
+modbus_test_data_part1[3].pcapng ;31647;1
+modbus_test_data_part1[3].pcapng ;31649;1
+modbus_test_data_part1[3].pcapng ;31667;1
+modbus_test_data_part1[3].pcapng ;31651;1
+modbus_test_data_part1[3].pcapng ;31668;1
+modbus_test_data_part1[3].pcapng ;31652;1
+modbus_test_data_part2[3].pcapng ;37219;1
+s7_test[3].pcapng ;31670;1
+s7_test[3].pcapng ;31671;1
+T0831-Impact.pcapng;31668;1
+T0814-InhibitResponseFunction.pcapng;31667;1
+T0814-InhibitResponseFunction.pcapng;31668;1
+T0814-InhibitResponseFunction_2.pcapng;31668;1
+T0814-InhibitResponseFunction_3.pcapng;31668;1
+T0888-Discovery.pcapng;9999;1
+T0888-Discovery_2.pcapng;9999;1
+T0842-Discovery.pcapng;9999;1
+T0888-Discovery_3.pcapng;31668;1

@@ -1,0 +1,2 @@
+Número total de flujos distintos en T0830_MiTM-BacNet-FIXED_[2]_alert_fast.txt (sin los SIDs 2012648 1917): 1
+192.168.1.197:3955 -> 239.255.255.250:1900

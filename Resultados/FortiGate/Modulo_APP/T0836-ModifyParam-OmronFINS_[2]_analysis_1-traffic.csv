@@ -1,0 +1,11 @@
+appid	sessionid	app	msg	apprisk	srcip	dstip	DeviceID
+51590	5515	Omron.FINS_Memory.Area.Read	Operational.Technology: Omron.FINS_Memory.Area.Read	elevated	192.168.1.134	192.168.1.135	
+51590	5517	Omron.FINS_Memory.Area.Read	Operational.Technology: Omron.FINS_Memory.Area.Read	elevated	192.168.1.134	192.168.1.135	
+51590	5519	Omron.FINS_Memory.Area.Read	Operational.Technology: Omron.FINS_Memory.Area.Read	elevated	192.168.1.134	192.168.1.135	
+51591	5521	Omron.FINS_Memory.Area.Write	Operational.Technology: Omron.FINS_Memory.Area.Write	elevated	192.168.1.134	192.168.1.135	
+51590	5523	Omron.FINS_Memory.Area.Read	Operational.Technology: Omron.FINS_Memory.Area.Read	elevated	192.168.1.134	192.168.1.135	
+51590	5516	Omron.FINS_Memory.Area.Read	Operational.Technology: Omron.FINS_Memory.Area.Read	elevated	192.168.1.134	192.168.1.135	
+51590	5518	Omron.FINS_Memory.Area.Read	Operational.Technology: Omron.FINS_Memory.Area.Read	elevated	192.168.1.134	192.168.1.135	
+51590	5520	Omron.FINS_Memory.Area.Read	Operational.Technology: Omron.FINS_Memory.Area.Read	elevated	192.168.1.134	192.168.1.135	
+51592	5522	Omron.FINS_Memory.Area.Fill	Operational.Technology: Omron.FINS_Memory.Area.Fill	elevated	192.168.1.134	192.168.1.135	
+51594	5524	Omron.FINS_Memory.Area.Transfer	Operational.Technology: Omron.FINS_Memory.Area.Transfer	elevated	192.168.1.134	192.168.1.135	

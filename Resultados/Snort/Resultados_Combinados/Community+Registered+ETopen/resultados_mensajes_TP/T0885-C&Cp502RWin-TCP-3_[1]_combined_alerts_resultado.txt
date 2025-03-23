@@ -1,0 +1,6 @@
+Números de paquete distintos encontrados en el archivo T0885-C&Cp502RWin-TCP-3_[1]_combined_alerts.txt (excluyendo SIDs 1917 24303 57155 40517 2012648):
+7
+52
+15
+66
+Total de números de paquete distintos: 4

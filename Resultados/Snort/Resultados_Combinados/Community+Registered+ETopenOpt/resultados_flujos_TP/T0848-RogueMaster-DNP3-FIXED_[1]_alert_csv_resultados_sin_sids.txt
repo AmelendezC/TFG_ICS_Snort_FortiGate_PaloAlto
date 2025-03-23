@@ -1,0 +1,2 @@
+Número total de flujos distintos en T0848-RogueMaster-DNP3-FIXED_[1]_alert_csv.txt: 0
+No se encontraron flujos sin los SIDs especificados.

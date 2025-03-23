@@ -1,0 +1,37 @@
+Números de paquete distintos encontrados en el archivo T0809-DataDestroy-OMRON_[2]_alert_csv.txt:
+ 20
+ 21
+ 24
+ 30
+ 32
+ 33
+ 34
+ 35
+ 37
+ 38
+ 39
+ 40
+ 41
+ 42
+ 43
+ 54
+ 55
+ 62
+ 63
+ 72
+ 73
+ 74
+ 75
+ 86
+ 87
+ 88
+ 92
+ 192
+ 193
+ 194
+ 195
+ 198
+ 202
+ 210
+ 238
+Total de números de paquete distintos: 35

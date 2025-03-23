@@ -1,0 +1,2 @@
+Número total de flujos distintos en T0885-C&Cp502RWin-TCP-2_[1]_alert_csv.txt: 0
+No se encontraron flujos sin los SIDs especificados.

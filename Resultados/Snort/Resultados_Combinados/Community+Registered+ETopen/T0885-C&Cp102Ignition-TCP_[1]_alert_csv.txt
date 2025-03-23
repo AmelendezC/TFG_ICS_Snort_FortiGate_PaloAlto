@@ -1,0 +1,5 @@
+07/02-19:22:51.148526, 4, TCP, stream_tcp, 87, C2S, 192.168.2.87:42069, 192.168.2.91:8088, 1:50447:1, allow, "POLICY-OTHER HTTP request by IPv4 address attempt", Potential Corporate Privacy Violation
+07/02-19:22:51.157873, 14, TCP, stream_tcp, 87, C2S, 192.168.2.87:36493, 192.168.2.91:8088, 1:50447:1, allow, "POLICY-OTHER HTTP request by IPv4 address attempt", Potential Corporate Privacy Violation
+07/02-19:22:51.184705, 24, TCP, stream_tcp, 159, C2S, 192.168.2.87:35277, 192.168.2.91:8088, 1:50447:1, allow, "POLICY-OTHER HTTP request by IPv4 address attempt", Potential Corporate Privacy Violation
+07/02-19:22:53.551808, 92, TCP, stream_tcp, 24820, S2C, 192.168.2.87:102, 192.168.2.91:60964, 1:58160:1, allow, "INDICATOR-SHELLCODE Metasploit windows/meterpreter stage transfer attempt", Executable code was detected
+07/02-19:22:53.552599, 92, TCP, raw, 11720, S2C, 192.168.2.87:102, 192.168.2.91:60964, 1:58160:1, allow, "INDICATOR-SHELLCODE Metasploit windows/meterpreter stage transfer attempt", Executable code was detected

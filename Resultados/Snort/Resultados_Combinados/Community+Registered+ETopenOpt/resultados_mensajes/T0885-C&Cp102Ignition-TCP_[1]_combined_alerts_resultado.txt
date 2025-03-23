@@ -1,0 +1,12 @@
+Números de paquete distintos encontrados en el archivo T0885-C&Cp102Ignition-TCP_[1]_combined_alerts.txt:
+260
+5
+4
+2
+1
+24
+28
+41
+92
+14
+Total de números de paquete distintos: 10

@@ -1,0 +1,15 @@
+appid	sessionid	app	msg	apprisk	srcip	dstip	DeviceID
+42210	5506	S7.Protocol_Setup.Communication	Operational.Technology: S7.Protocol_Setup.Communication	elevated	192.168.0.142	192.168.0.64	
+42210	5506	S7.Protocol_Setup.Communication	Operational.Technology: S7.Protocol_Setup.Communication	elevated	192.168.0.142	192.168.0.64	
+42213	5506	S7.Protocol_Read.Variable	Operational.Technology: S7.Protocol_Read.Variable	elevated	192.168.0.142	192.168.0.64	
+42213	5506	S7.Protocol_Read.Variable	Operational.Technology: S7.Protocol_Read.Variable	elevated	192.168.0.142	192.168.0.64	
+42213	5506	S7.Protocol_Read.Variable	Operational.Technology: S7.Protocol_Read.Variable	elevated	192.168.0.142	192.168.0.64	
+32609	5505	IP.Multicast	Network.Service: IP.Multicast	elevated	192.168.0.64	239.255.255.250	
+42210	5507	S7.Protocol_Setup.Communication	Operational.Technology: S7.Protocol_Setup.Communication	elevated	192.168.0.142	192.168.0.64	
+42210	5507	S7.Protocol_Setup.Communication	Operational.Technology: S7.Protocol_Setup.Communication	elevated	192.168.0.142	192.168.0.64	
+42213	5507	S7.Protocol_Read.Variable	Operational.Technology: S7.Protocol_Read.Variable	elevated	192.168.0.142	192.168.0.64	
+42213	5507	S7.Protocol_Read.Variable	Operational.Technology: S7.Protocol_Read.Variable	elevated	192.168.0.142	192.168.0.64	
+42213	5507	S7.Protocol_Read.Variable	Operational.Technology: S7.Protocol_Read.Variable	elevated	192.168.0.142	192.168.0.64	
+42214	5507	S7.Protocol_Write.Variable	Operational.Technology: S7.Protocol_Write.Variable	elevated	192.168.0.142	192.168.0.64	
+42214	5507	S7.Protocol_Write.Variable	Operational.Technology: S7.Protocol_Write.Variable	elevated	192.168.0.142	192.168.0.64	
+42214	5507	S7.Protocol_Write.Variable	Operational.Technology: S7.Protocol_Write.Variable	elevated	192.168.0.142	192.168.0.64	

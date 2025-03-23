@@ -1,0 +1,10 @@
+Números de paquete distintos encontrados en el archivo T0814-DoS-PCC_[1]_alert_csv.txt:
+ 8
+ 10
+ 12
+ 14
+ 24
+ 26
+ 28
+ 30
+Total de números de paquete distintos: 8

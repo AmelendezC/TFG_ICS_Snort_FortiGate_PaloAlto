@@ -1,0 +1,6 @@
+Números de paquete distintos encontrados en el archivo T0861-InfoCollect-OPCUA_[2]_combined_alerts.txt:
+1
+32980
+3944
+11
+Total de números de paquete distintos: 4

@@ -1,0 +1,9 @@
+app	container_of_app	sessionid	subcategory_of_app	risk_of_app	proto	src_ip	dst_ip
+dnp3-unsolicited-message	dnp3	50232	ics-protocols	1	tcp	10.0.0.8	10.0.0.3
+dnp3-stop-application	dnp3	52766	ics-protocols	1	tcp	10.0.0.9	10.0.0.3
+dnp3-disable-unsolicited	dnp3	45054	ics-protocols	1	tcp	10.0.0.8	10.0.0.3
+dnp3-cold-restart	dnp3	54549	ics-protocols	1	tcp	10.0.0.8	10.0.0.3
+dnp3-unsolicited-message	dnp3	43422	ics-protocols	1	tcp	10.0.0.9	10.0.0.3
+dnp3-warm-restart	dnp3	43971	ics-protocols	1	tcp	10.0.0.8	10.0.0.3
+dnp3-disable-unsolicited	dnp3	56356	ics-protocols	1	tcp	10.0.0.8	10.0.0.3
+dnp3-stop-application	dnp3	52431	ics-protocols	1	tcp	10.0.0.8	10.0.0.3

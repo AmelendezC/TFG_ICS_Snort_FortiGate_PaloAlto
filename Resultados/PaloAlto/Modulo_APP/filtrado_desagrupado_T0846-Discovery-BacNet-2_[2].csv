@@ -1,0 +1,6 @@
+app	container_of_app	sessionid	subcategory_of_app	risk_of_app	proto	src_ip	dst_ip
+insufficient-data		1615	unknown	1	udp	10.1.1.167	10.1.1.165
+insufficient-data		1616	unknown	1	udp	10.1.1.167	10.1.1.165
+bacnet-complex-ack	bacnet	1617	ics-protocols	1	udp	10.1.1.167	10.1.1.165
+insufficient-data		1618	unknown	1	udp	10.1.1.167	10.1.1.165
+insufficient-data		1619	unknown	1	udp	10.1.1.167	10.1.1.165

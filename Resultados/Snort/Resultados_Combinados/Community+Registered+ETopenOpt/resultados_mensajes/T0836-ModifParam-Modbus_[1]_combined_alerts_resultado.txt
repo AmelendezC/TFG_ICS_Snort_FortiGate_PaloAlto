@@ -1,0 +1,4 @@
+Números de paquete distintos encontrados en el archivo T0836-ModifParam-Modbus_[1]_combined_alerts.txt:
+2
+1
+Total de números de paquete distintos: 2

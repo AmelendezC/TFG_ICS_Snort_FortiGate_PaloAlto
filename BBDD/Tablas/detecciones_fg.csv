@@ -1,0 +1,52 @@
+﻿Fichero pcap;Nº FLUJOS IDENTIFICADOS POR FORTIGATE;Nº FLUJOS CON ATAQUE con firma IPS;Nº FLUJOS LV2 DETECTADOS (APPLICATION CONTROL);Nº TOTAL DE FLUJOS (IPS+APPCTRL);Comentarios y Aclaraciones
+T0866-VulnAccess-SMBv1_[2].pcapng;62;6;12;12;Además de detectar el ataque principal, detecta un ataque colateral que consiste en un escano nmap para comprobar si el dispositivo es vulnerable al ataque --> Este archivo pcap ha necesitado fragmentado
+T0866-RemoteAccess-VNC-FIXED_[2].pcapng;2;1;1;2;-
+T0848-RogueMaster-IEC-104_[2].pcapng;8;0;6;6;-
+T0848-RogueMaster-DNP3-FIXED_[1].pcapng;4;0;1;1;-
+T0858-ChangeOPMode-Omron_[2].pcapng;1;1;1;1;-
+T0890-EscalPrivileges-NetLogon_[2].pcapng;377;182;182;182;-
+T0846-DiscoveryNmap-S7_[1].pcapng;2;0;1;1;-
+T0846-DiscoveryNmap-Modbus_[1].pcapng;2;0;2;2;-
+T0846-DiscoverMetasp-Modbus_[1].pcapng;1;0;1;1;-
+T0888-DiscverFindID-Modbus_[1].pcapng / T0888-DiscverCoils-Modbus_[1].pcapng / T0888-DiscverRegisters-Modbus_[1].pcapng / T0888-DiscverRegisters2-Modbus_[1].pcapng;20;0;20;20;-
+T0888-DiscoverInfo-DNP3_[1].pcapng;3;0;1;1;-
+T0846-Discovery-BacNet_[2].pcap ;1;0;1;1;-
+T0846-Discovery-IEC104_[2].pcapng;37;3;29;29;-
+T0888-ScanInfo-MQTT_[2].pcap / T0888-ScanInfo-MQTT-noAuth_[2].pcap;1;0;1;1;-
+T0888-ScanInfo-OPCUA-Nmap_[2].pcapng;36;5;30;32;-
+T0888-ScanInfo-OPCUA-OpcScan_[2].pcapng;6;0;6;6;-
+T0888-ScanInfo-ENIP_[2].pcapng;1;0;1;1;-
+T0888-ScanInfo-OmronFINS_[2].pcapng;2;0;2;2;-
+T0843-ProgDownload-IEC104_[2].pcapng;5;0;1;1;-
+T0886-BruteForce-MQTT_[2].pcapng;400;0;400;400;-
+T0843-FileRead-DNP3-FIXED_[1].pcapng / T0843-FileWrite-DNP3-FIXED_[1].pcapng;10;0;2;2;-
+T0843-FileDownload-Modbus_[1].pcapng / T0843-FileUpload-Modbus_[1].pcapng;4;0;4;4;-
+T0802-AutoCollect-OPCUA_[2].pcapng;5;0;2;2;-
+T0830-MITM-BacNet-FIXED_[2].pcapng;199;0;1;1;-
+T0802-AutoCollect-SNMP_[1].pcapng;1;0;1;1;-
+T0809-DataDestroy-OMRON_[2].pcapng;1;1;1;1;-
+T0814-DoS-OPCUA_[2].pcap;1;0;1;1;-
+T0816-RestartAllenBradley-SNMP_[2].pcapng;5;1;1;1;-
+T0816-StopCommand-S7Comm_[2].pcapng;1;1;1;1;-
+T0814-DoS-PCC_[1].pcapng;9;0;1;1;-
+T0816-ShtDownAllenBradley-CIP_[1].pcapng;9;0;1;1;-
+T0816-ShutDown-Modbus_[1].pcapng;1;0;1;1;-
+T0836-ModifyParam-OmronFINS_[2].pcapng;10;0;10;10;-
+T0836-ModifParam-Modbus_[1].pcapng;1;0;1;1;-
+T0836-ModifParam-S7_[1].pcapng;3;0;2;2;-
+T0885-C&Cp502RWin-TCP_[1].pcapng / T0885-C&Cp502RWin-TCP-2_[1].pcapng / T0885-C&Cp502RWin-TCP-3_[1].pcapng;7;6;1;6;-
+T0885-C&Cp502Ignition-HTTP_[1].pcapng;4;2;3;4;-
+T0885-C&Cp20000RWin-TCP_[1].pcapng;1;2;0;2;-
+T0885-C&Cp102Ignition-TCP_[1].pcapng;3;2;3;4;-
+T0831-Modifparam-IEC104_[2].pcapng;1;0;1;1;-
+T0882-DirectoryRead-IEC104_[2].pcapng;2;0;1;1;-
+T0831-ModifParam-DNP3_[1].pcapng;3;0;1;1;-
+T0882-DirRead-DNP3-FIXED_[1].pcapng;3;0;1;1;-
+bacnet_test[3].pcapng ;1;0;1;1;-
+dnp3_test_data_part1[3].pcapng ;8;2;8;8;-
+dnp3_test_data_part2[3].pcapng ;0;0;0;0;No utilizado para la capacidad de deteccion, contiene flujo sin tcpSYN, se usará part1 para el analisis, ya que esto causará problemas en los resultados
+fox_info[3].pcapng ;1;0;1;1;-
+modbus_test_data_part1[3].pcapng ;3;1;3;4;-
+modbus_test_data_part2[3].pcapng ;1;1;1;1;No utilizado para capacidad de deteccion
+modicon_test[3].pcapng ;1;0;1;1;-
+s7_test[3].pcapng ;2;0;1;2;-

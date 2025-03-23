@@ -1,0 +1,256 @@
+--------------------------------------------------
+o")~   Snort++ 3.2.2.0
+--------------------------------------------------
+Loading /usr/local/snort/etc/snort/snort.lua:
+Loading snort_defaults.lua:
+Finished snort_defaults.lua:
+Loading file_magic.lua:
+Finished file_magic.lua:
+	output
+	alert_fast
+	alert_csv
+	ips
+	classifications
+	binder
+	wizard
+	appid
+	js_norm
+	file_policy
+	file_id
+	http2_inspect
+	http_inspect
+	ftp_data
+	ftp_client
+	ftp_server
+	dce_http_proxy
+	dce_smb
+	modbus
+	ssh
+	rpc_decode
+	active
+	alerts
+	daq
+	decode
+	host_cache
+	host_tracker
+	hosts
+	network
+	packets
+	process
+	search_engine
+	so_proxy
+	stream
+	stream_ip
+	stream_icmp
+	stream_tcp
+	stream_udp
+	stream_user
+	stream_file
+	arp_spoof
+	back_orifice
+	dns
+	imap
+	netflow
+	normalizer
+	pop
+	sip
+	ssl
+	telnet
+	cip
+	dnp3
+	iec104
+	mms
+	s7commplus
+	dce_tcp
+	dce_udp
+	dce_http_server
+	gtp_inspect
+	port_scan
+	smtp
+	references
+	trace
+Finished /usr/local/snort/etc/snort/snort.lua:
+Loading file_id.rules_file:
+Loading file_magic.rules:
+Finished file_magic.rules:
+Finished file_id.rules_file:
+Loading ips.rules:
+Loading /usr/local/snort/rules/snort3-community-rules/snort3-community.rules:
+Finished /usr/local/snort/rules/snort3-community-rules/snort3-community.rules:
+Finished ips.rules:
+--------------------------------------------------
+ips policies rule stats
+              id  loaded  shared enabled    file
+               0    4241       0    4241    /usr/local/snort/etc/snort/snort.lua
+--------------------------------------------------
+rule counts
+       total rules loaded: 4241
+               text rules: 4241
+            option chains: 4241
+            chain headers: 287
+                 flowbits: 48
+     flowbits not checked: 23
+--------------------------------------------------
+port rule counts
+             tcp     udp    icmp      ip
+     any     472      58     147      22
+     src     170      15       0       0
+     dst     775     150       0       0
+    both       6      11       0       0
+   total    1423     234     147      22
+--------------------------------------------------
+service rule counts          to-srv  to-cli
+                   dcerpc:       72      20
+                     dhcp:        2       2
+                      dns:       28       7
+                  file_id:      219     219
+                      ftp:       90       4
+                 ftp-data:        1      97
+                     http:     2085     256
+                    http2:     2085     256
+                    http3:     2085     256
+                     imap:       35     118
+                      irc:        5       2
+                 kerberos:        3       0
+                     ldap:        0       1
+                    mysql:        3       0
+              netbios-dgm:        1       1
+               netbios-ns:        4       3
+              netbios-ssn:       69      17
+                     nntp:        2       0
+                     pop3:       23     118
+                      rdp:        5       0
+                      sip:        5       5
+                     smtp:      130       2
+                     snmp:       18       7
+                     ssdp:        3       0
+                      ssl:       20      42
+                   sunrpc:       68       4
+                   telnet:       12       6
+                     tftp:        1       0
+                     wins:        1       0
+                    total:     7075    1443
+--------------------------------------------------
+fast pattern groups
+                      src: 114
+                      dst: 312
+                      any: 8
+                to_server: 72
+                to_client: 49
+--------------------------------------------------
+search engine (ac_bnfa)
+                instances: 338
+                 patterns: 10800
+            pattern chars: 175372
+               num states: 123398
+         num match states: 10520
+             memory scale: MB
+             total memory: 3.68976
+           pattern memory: 0.578913
+        match list memory: 1.33705
+        transition memory: 1.73254
+        fast pattern only: 7099
+appid: MaxRss diff: 3200
+appid: patterns loaded: 300
+--------------------------------------------------
+pcap DAQ configured to read-file.
+Commencing packet processing
+++ [0] ./T0888-DiscverFindID-Modbus_[1].pcapng
+-- [0] ./T0888-DiscverFindID-Modbus_[1].pcapng
+--------------------------------------------------
+Packet Statistics
+--------------------------------------------------
+daq
+                    pcaps: 1
+                 received: 138
+                 analyzed: 138
+                    allow: 138
+                 rx_bytes: 9593
+--------------------------------------------------
+codec
+                    total: 138         	(100.000%)
+                      eth: 138         	(100.000%)
+                     ipv4: 138         	(100.000%)
+                      tcp: 138         	(100.000%)
+--------------------------------------------------
+Module Statistics
+--------------------------------------------------
+ac_bnfa
+                 searches: 18
+                    bytes: 213
+--------------------------------------------------
+ac_full
+                 searches: 18
+                  matches: 88
+                    bytes: 213
+--------------------------------------------------
+appid
+                  packets: 138
+        processed_packets: 138
+           total_sessions: 17
+       service_cache_adds: 1
+             bytes_in_use: 152
+             items_in_use: 1
+--------------------------------------------------
+binder
+                new_flows: 17
+                 inspects: 17
+--------------------------------------------------
+detection
+                 analyzed: 138
+               hard_evals: 138
+          cooked_searches: 18
+             pkt_searches: 18
+--------------------------------------------------
+modbus
+                 sessions: 17
+                   frames: 18
+  max_concurrent_sessions: 1
+--------------------------------------------------
+pcre
+               pcre_rules: 1084
+              pcre_native: 1084
+--------------------------------------------------
+port_scan
+                  packets: 138
+                 trackers: 2
+--------------------------------------------------
+search_engine
+     non_qualified_events: 138
+--------------------------------------------------
+stream
+                    flows: 17
+--------------------------------------------------
+stream_tcp
+                 sessions: 17
+                      max: 17
+                  created: 17
+                 released: 17
+             instantiated: 17
+                   setups: 17
+             syn_trackers: 17
+              segs_queued: 18
+            segs_released: 18
+                segs_used: 18
+          rebuilt_packets: 18
+            rebuilt_bytes: 213
+                     syns: 17
+                 syn_acks: 17
+                     fins: 34
+                 max_segs: 1
+                max_bytes: 12
+--------------------------------------------------
+Appid Statistics
+--------------------------------------------------
+detected apps and services
+              Application: Services   Clients    Users      Payloads   Misc       Referred  
+                  unknown: 4          0          0          0          0          0         
+--------------------------------------------------
+Summary Statistics
+--------------------------------------------------
+timing
+                  runtime: 00:00:00
+                  seconds: 0.029894
+                 pkts/sec: 4616
+                Mbits/sec: 3
+o")~   Snort exiting

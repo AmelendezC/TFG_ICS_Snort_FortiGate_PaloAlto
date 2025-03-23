@@ -1,0 +1,19 @@
+Números de paquete distintos encontrados en el archivo T0814-DoS-PCC_[1]_combined_alerts.txt (excluyendo SIDs 1917|24303|57155|40517|2002752|2002749|2009207|2009208|2009206|2012648|2100527):
+30
+9
+8
+7
+27
+26
+25
+24
+23
+29
+28
+18
+12
+13
+10
+11
+14
+Total de números de paquete distintos: 17

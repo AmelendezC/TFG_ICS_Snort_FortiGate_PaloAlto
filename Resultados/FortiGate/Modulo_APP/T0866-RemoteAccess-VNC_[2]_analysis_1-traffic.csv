@@ -1,0 +1,4 @@
+appid	sessionid	app	msg	apprisk	srcip	dstip	DeviceID
+15510	5729	VNC	Remote.Access: VNC	high	192.168.1.135	192.168.1.200	
+15510	5731	VNC	Remote.Access: VNC	high	192.168.1.135	192.168.1.200	
+15510	5730	VNC	Remote.Access: VNC	high	192.168.1.135	192.168.1.200	

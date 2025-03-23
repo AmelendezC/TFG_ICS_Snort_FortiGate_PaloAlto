@@ -1,0 +1,2 @@
+Números de paquete distintos encontrados en el archivo T0809-DataDestroy-OMRON_[2]_combined_alerts.txt (excluyendo SIDs 1917 24303 57155 40517 2012648):
+Total de números de paquete distintos: 0

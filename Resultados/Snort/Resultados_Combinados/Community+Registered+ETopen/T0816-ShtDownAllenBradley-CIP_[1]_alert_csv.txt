@@ -1,0 +1,13 @@
+05/02-20:29:27.772302, 8, ICMP, raw, 106, C2S, 192.168.0.142:0, 192.168.56.1:0, 1:402:16, allow, "PROTOCOL-ICMP destination unreachable port unreachable packet detected", Misc activity
+05/02-20:29:27.772455, 10, ICMP, raw, 106, C2S, 192.168.0.142:0, 192.168.1.190:0, 1:402:16, allow, "PROTOCOL-ICMP destination unreachable port unreachable packet detected", Misc activity
+05/02-20:29:27.772468, 12, ICMP, raw, 106, C2S, 192.168.0.142:0, 192.168.174.1:0, 1:402:16, allow, "PROTOCOL-ICMP destination unreachable port unreachable packet detected", Misc activity
+05/02-20:29:27.772552, 14, ICMP, raw, 106, C2S, 192.168.0.142:0, 192.168.232.1:0, 1:402:16, allow, "PROTOCOL-ICMP destination unreachable port unreachable packet detected", Misc activity
+05/02-20:29:27.772947, 15, TCP, stream_tcp, 66, C2S, 192.168.0.142:41249, 192.168.0.64:44818, 1:40518:3, allow, "PROTOCOL-SCADA Rockwell Controllogix Stop CPU attempt", Potential Corporate Privacy Violation
+05/02-20:29:29.272509, 21, ICMP, raw, 106, C2S, 192.168.0.142:0, 192.168.232.1:0, 1:402:16, allow, "PROTOCOL-ICMP destination unreachable port unreachable packet detected", Misc activity
+05/02-20:29:29.272522, 23, ICMP, raw, 106, C2S, 192.168.0.142:0, 192.168.174.1:0, 1:402:16, allow, "PROTOCOL-ICMP destination unreachable port unreachable packet detected", Misc activity
+05/02-20:29:29.272526, 25, ICMP, raw, 106, C2S, 192.168.0.142:0, 192.168.1.190:0, 1:402:16, allow, "PROTOCOL-ICMP destination unreachable port unreachable packet detected", Misc activity
+05/02-20:29:29.272530, 27, ICMP, raw, 106, C2S, 192.168.0.142:0, 192.168.56.1:0, 1:402:16, allow, "PROTOCOL-ICMP destination unreachable port unreachable packet detected", Misc activity
+05/02-20:29:30.774192, 29, ICMP, raw, 106, C2S, 192.168.0.142:0, 192.168.56.1:0, 1:402:16, allow, "PROTOCOL-ICMP destination unreachable port unreachable packet detected", Misc activity
+05/02-20:29:30.774204, 31, ICMP, raw, 106, C2S, 192.168.0.142:0, 192.168.1.190:0, 1:402:16, allow, "PROTOCOL-ICMP destination unreachable port unreachable packet detected", Misc activity
+05/02-20:29:30.774210, 33, ICMP, raw, 106, C2S, 192.168.0.142:0, 192.168.174.1:0, 1:402:16, allow, "PROTOCOL-ICMP destination unreachable port unreachable packet detected", Misc activity
+05/02-20:29:30.774216, 35, ICMP, raw, 106, C2S, 192.168.0.142:0, 192.168.232.1:0, 1:402:16, allow, "PROTOCOL-ICMP destination unreachable port unreachable packet detected", Misc activity

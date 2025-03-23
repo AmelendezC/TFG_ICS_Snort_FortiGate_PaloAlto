@@ -1,0 +1,22 @@
+Números de paquete distintos encontrados en el archivo T0888-ScanInfo-OPCUA-Nmap_[2]_alert_csv.txt:
+319
+312
+403
+402
+401
+404
+379
+372
+298
+299
+353
+352
+351
+355
+354
+326
+300
+301
+302
+365
+Total de números de paquete distintos: 20

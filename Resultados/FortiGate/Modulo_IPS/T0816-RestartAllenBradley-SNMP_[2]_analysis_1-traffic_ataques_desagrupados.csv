@@ -1,0 +1,2 @@
+attackid,sessionid,repeated,severity,attack,service,srcip,dstip,subtype,eventtype,url
+43629,4890,1,"high","Rockwell.Automation.MicroLogix.1400.Privilege.Escalation","SNMP",192.168.1.144,192.168.1.133,"ips","signature","http://www.fortinet.com/ids/VID43629"

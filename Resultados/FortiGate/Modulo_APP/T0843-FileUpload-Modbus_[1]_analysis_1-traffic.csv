@@ -1,0 +1,13 @@
+appid	sessionid	app	msg	apprisk	srcip	dstip	DeviceID
+48888	5558	Modbus_Func16.Write.MultiReg.Validation	Operational.Technology: Modbus_Func16.Write.MultiReg.Validation	elevated	192.168.100.2	192.168.100.3	
+25900	5558	Modbus_Write.Multiple.Registers	Operational.Technology: Modbus_Write.Multiple.Registers	elevated	192.168.100.2	192.168.100.3	
+25900	5558	Modbus_Write.Multiple.Registers	Operational.Technology: Modbus_Write.Multiple.Registers	elevated	192.168.100.2	192.168.100.3	
+25900	5558	Modbus_Write.Multiple.Registers	Operational.Technology: Modbus_Write.Multiple.Registers	elevated	192.168.100.2	192.168.100.3	
+48888	5558	Modbus_Func16.Write.MultiReg.Validation	Operational.Technology: Modbus_Func16.Write.MultiReg.Validation	elevated	192.168.100.2	192.168.100.3	
+16938	5558	Modbus	Operational.Technology: Modbus	elevated	192.168.100.2	192.168.100.3	
+25855	5557	Modbus_Read.Holding.Registers	Operational.Technology: Modbus_Read.Holding.Registers	elevated	192.168.100.2	192.168.100.3	
+48883	5557	Modbus_Func03.Read.Holding.Validation	Operational.Technology: Modbus_Func03.Read.Holding.Validation	elevated	192.168.100.2	192.168.100.3	
+25855	5557	Modbus_Read.Holding.Registers	Operational.Technology: Modbus_Read.Holding.Registers	elevated	192.168.100.2	192.168.100.3	
+48883	5557	Modbus_Func03.Read.Holding.Validation	Operational.Technology: Modbus_Func03.Read.Holding.Validation	elevated	192.168.100.2	192.168.100.3	
+25855	5557	Modbus_Read.Holding.Registers	Operational.Technology: Modbus_Read.Holding.Registers	elevated	192.168.100.2	192.168.100.3	
+16938	5557	Modbus	Operational.Technology: Modbus	elevated	192.168.100.2	192.168.100.3	

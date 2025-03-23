@@ -1,0 +1,27 @@
+Números de paquete distintos encontrados en el archivo T0830_MiTM-BacNet-FIXED_[2]_alert_csv.txt:
+ 32
+ 33
+ 34
+ 35
+ 36
+ 37
+ 38
+ 39
+ 40
+ 41
+ 42
+ 43
+ 44
+ 45
+ 46
+ 47
+ 48
+ 49
+ 1137
+ 1932
+ 4620
+ 5367
+ 5370
+ 5400
+ 12931
+Total de números de paquete distintos: 25

@@ -1,0 +1,22 @@
+03/15-22:20:41.610528, 78, TCP, stream_tcp, 96, C2S, 192.168.1.135:46436, 192.168.1.201:445, 1:42340:4, allow, "OS-WINDOWS Microsoft Windows SMB anonymous session IPC share access attempt", Attempted Information Leak
+03/15-22:20:41.620757, 82, TCP, stream_tcp, 1084, C2S, 192.168.1.135:46436, 192.168.1.201:445, 1:42944:2, allow, "OS-WINDOWS Microsoft Windows SMB remote code execution attempt", Attempted Administrator Privilege Gain
+03/15-22:20:57.663853, 333, TCP, raw, 134, C2S, 192.168.1.135:46436, 192.168.1.201:445, 1:42331:5, allow, "MALWARE-CNC Win.Trojan.Doublepulsar variant process injection command", A Network Trojan was detected
+03/15-22:20:59.670064, 347, TCP, stream_tcp, 96, C2S, 192.168.1.135:48922, 192.168.1.201:445, 1:42340:4, allow, "OS-WINDOWS Microsoft Windows SMB anonymous session IPC share access attempt", Attempted Information Leak
+03/15-22:20:59.678205, 351, TCP, stream_tcp, 1084, C2S, 192.168.1.135:48922, 192.168.1.201:445, 1:42944:2, allow, "OS-WINDOWS Microsoft Windows SMB remote code execution attempt", Attempted Administrator Privilege Gain
+03/15-22:21:02.874012, 576, UDP, raw, 198, C2S, 192.168.1.133:59930, 239.255.255.250:1900, 1:1917:16, allow, "INDICATOR-SCAN UPnP service discover attempt", Detection of a Network Scan
+03/15-22:21:03.775566, 577, UDP, raw, 203, C2S, 192.168.1.133:54883, 239.255.255.250:1900, 1:1917:16, allow, "INDICATOR-SCAN UPnP service discover attempt", Detection of a Network Scan
+03/15-22:21:03.875842, 578, UDP, raw, 198, C2S, 192.168.1.133:59930, 239.255.255.250:1900, 1:1917:16, allow, "INDICATOR-SCAN UPnP service discover attempt", Detection of a Network Scan
+03/15-22:21:04.777267, 579, UDP, raw, 203, C2S, 192.168.1.133:54883, 239.255.255.250:1900, 1:1917:16, allow, "INDICATOR-SCAN UPnP service discover attempt", Detection of a Network Scan
+03/15-22:21:04.876684, 580, UDP, raw, 198, C2S, 192.168.1.133:59930, 239.255.255.250:1900, 1:1917:16, allow, "INDICATOR-SCAN UPnP service discover attempt", Detection of a Network Scan
+03/15-22:21:05.778916, 581, UDP, raw, 203, C2S, 192.168.1.133:54883, 239.255.255.250:1900, 1:1917:16, allow, "INDICATOR-SCAN UPnP service discover attempt", Detection of a Network Scan
+03/15-22:21:05.879078, 582, UDP, raw, 198, C2S, 192.168.1.133:59930, 239.255.255.250:1900, 1:1917:16, allow, "INDICATOR-SCAN UPnP service discover attempt", Detection of a Network Scan
+03/15-22:21:06.780750, 583, UDP, raw, 203, C2S, 192.168.1.133:54883, 239.255.255.250:1900, 1:1917:16, allow, "INDICATOR-SCAN UPnP service discover attempt", Detection of a Network Scan
+03/15-22:21:15.736099, 655, TCP, stream_tcp, 82, C2S, 192.168.1.135:48922, 192.168.1.201:445, 1:42331:5, allow, "MALWARE-CNC Win.Trojan.Doublepulsar variant process injection command", A Network Trojan was detected
+03/15-22:21:17.882159, 674, TCP, stream_tcp, 96, C2S, 192.168.1.135:49250, 192.168.1.201:445, 1:42340:4, allow, "OS-WINDOWS Microsoft Windows SMB anonymous session IPC share access attempt", Attempted Information Leak
+03/15-22:21:48.605948, 891, UDP, raw, 203, C2S, 192.168.1.133:50854, 239.255.255.250:1900, 1:1917:16, allow, "INDICATOR-SCAN UPnP service discover attempt", Detection of a Network Scan
+03/15-22:21:49.608300, 892, UDP, raw, 203, C2S, 192.168.1.133:50854, 239.255.255.250:1900, 1:1917:16, allow, "INDICATOR-SCAN UPnP service discover attempt", Detection of a Network Scan
+03/15-22:21:50.609339, 893, UDP, raw, 203, C2S, 192.168.1.133:50854, 239.255.255.250:1900, 1:1917:16, allow, "INDICATOR-SCAN UPnP service discover attempt", Detection of a Network Scan
+03/15-22:21:51.610293, 895, UDP, raw, 203, C2S, 192.168.1.133:50854, 239.255.255.250:1900, 1:1917:16, allow, "INDICATOR-SCAN UPnP service discover attempt", Detection of a Network Scan
+03/15-22:22:03.084490, 910, UDP, raw, 153, C2S, 192.168.1.133:53632, 239.255.255.250:1900, 1:1917:16, allow, "INDICATOR-SCAN UPnP service discover attempt", Detection of a Network Scan
+03/15-22:22:44.322298, 936, UDP, raw, 153, C2S, 192.168.1.129:42861, 239.255.255.250:1900, 1:1917:16, allow, "INDICATOR-SCAN UPnP service discover attempt", Detection of a Network Scan
+03/15-22:20:57.663853, 997, TCP, stream_tcp, 82, C2S, 192.168.1.135:46436, 192.168.1.201:445, 1:42331:5, allow, "MALWARE-CNC Win.Trojan.Doublepulsar variant process injection command", A Network Trojan was detected

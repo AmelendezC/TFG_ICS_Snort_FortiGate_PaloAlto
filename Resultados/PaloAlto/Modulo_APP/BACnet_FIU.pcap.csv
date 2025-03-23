@@ -1,0 +1,69 @@
+app	container_of_app	sessionid	subcategory_of_app	risk_of_app	proto	src_ip	dst_ip
+incomplete		487548	unknown	1	tcp	10.200.1.40	131.94.238.11
+incomplete		485438	unknown	1	tcp	10.200.1.40	131.94.238.11
+bacnet-error-read-property	bacnet	485663	ics-protocols	1	udp	10.200.1.202	131.94.238.11
+ping		485368	internet-utility	2	icmp	10.200.1.40	131.94.238.11
+incomplete		486226	unknown	1	tcp	10.200.1.202	131.94.238.11
+incomplete		486259	unknown	1	tcp	10.200.1.202	131.94.238.11
+incomplete		485771	unknown	1	tcp	10.200.1.202	131.94.238.11
+incomplete		485864	unknown	1	tcp	10.200.1.202	131.94.238.11
+incomplete		485727	unknown	1	tcp	10.200.1.202	131.94.238.11
+incomplete		484435	unknown	1	tcp	10.200.1.202	131.94.238.11
+bacnet-base	bacnet	485608	ics-protocols	1	udp	131.94.238.11	10.200.1.205
+bacnet-segment-ack	bacnet	485397	ics-protocols	1	udp	131.94.238.11	10.200.1.169
+bacnet-who-has	bacnet	477797	ics-protocols	1	udp	131.94.238.11	10.200.1.124
+ping		485765	internet-utility	2	icmp	10.200.1.202	131.94.238.11
+icmp		485798	ip-protocol	4	icmp	131.94.238.11	10.200.1.202
+bacnet-who-has	bacnet	485614	ics-protocols	1	udp	131.94.238.11	10.200.1.202
+web-browsing		486378	internet-utility	4	tcp	10.200.1.77	131.94.238.11
+bacnet-i-am	bacnet	485448	ics-protocols	1	udp	131.94.238.11	10.200.1.77
+web-browsing		485479	internet-utility	4	tcp	10.200.1.40	131.94.238.11
+incomplete		484449	unknown	1	tcp	10.200.1.181	131.94.238.11
+incomplete		486216	unknown	1	tcp	10.200.1.76	131.94.238.11
+incomplete		485699	unknown	1	tcp	10.200.1.76	131.94.238.11
+incomplete		485654	unknown	1	tcp	10.200.1.76	131.94.238.11
+incomplete		485755	unknown	1	tcp	10.200.1.76	131.94.238.11
+incomplete		487353	unknown	1	tcp	10.200.1.76	131.94.238.11
+incomplete		485752	unknown	1	tcp	10.200.1.76	131.94.238.11
+incomplete		486232	unknown	1	tcp	10.200.1.76	131.94.238.11
+incomplete		486629	unknown	1	tcp	10.200.1.181	131.94.238.11
+incomplete		485698	unknown	1	tcp	10.200.1.181	131.94.238.11
+incomplete		485301	unknown	1	tcp	10.200.1.181	131.94.238.11
+incomplete		486293	unknown	1	tcp	10.200.1.181	131.94.238.11
+incomplete		485416	unknown	1	tcp	10.200.1.181	131.94.238.11
+incomplete		485344	unknown	1	tcp	10.200.1.181	131.94.238.11
+incomplete		484359	unknown	1	tcp	10.200.1.181	131.94.238.11
+incomplete		485335	unknown	1	tcp	10.200.1.181	131.94.238.11
+incomplete		486364	unknown	1	tcp	10.200.1.181	131.94.238.11
+incomplete		485693	unknown	1	tcp	10.200.1.181	131.94.238.11
+ping		484486	internet-utility	2	icmp	10.200.1.181	131.94.238.11
+icmp		486283	ip-protocol	4	icmp	10.200.1.181	131.94.238.11
+bacnet-who-has	bacnet	485316	ics-protocols	1	udp	131.94.238.11	10.200.1.202
+bacnet-who-has	bacnet	485734	ics-protocols	1	udp	131.94.238.11	10.200.1.77
+bacnet-complex-ack	bacnet	485636	ics-protocols	1	udp	10.200.1.202	131.94.238.11
+insufficient-data		486262	unknown	1	udp	10.200.1.202	131.94.238.11
+bacnet-complex-ack	bacnet	486221	ics-protocols	1	udp	10.200.1.202	131.94.238.11
+bacnet-who-has	bacnet	485689	ics-protocols	1	udp	131.94.238.11	10.200.1.77
+web-browsing		485774	internet-utility	4	tcp	10.200.1.76	131.94.238.11
+ping		485796	internet-utility	2	icmp	10.200.1.181	131.94.238.11
+icmp		486430	ip-protocol	4	icmp	10.200.1.181	131.94.238.11
+bacnet-complex-ack	bacnet	485480	ics-protocols	1	udp	10.200.1.202	131.94.238.11
+incomplete		486332	unknown	1	tcp	10.200.1.77	131.94.238.11
+bacnet-who-has	bacnet	486215	ics-protocols	1	udp	131.94.238.11	10.200.1.77
+insufficient-data		485421	unknown	1	udp	10.200.1.181	131.94.238.11
+insufficient-data		485732	unknown	1	udp	10.200.1.181	131.94.238.11
+bacnet-who-has	bacnet	485338	ics-protocols	1	udp	131.94.238.11	10.200.1.251
+incomplete		485766	unknown	1	tcp	10.200.1.76	131.94.238.11
+incomplete		485779	unknown	1	tcp	10.200.1.76	131.94.238.11
+incomplete		485645	unknown	1	tcp	10.200.1.76	131.94.238.11
+insufficient-data		486243	unknown	1	udp	10.200.1.181	131.94.238.11
+insufficient-data		486391	unknown	1	udp	10.200.1.181	131.94.238.11
+insufficient-data		484492	unknown	1	udp	10.200.1.181	131.94.238.11
+insufficient-data		485742	unknown	1	udp	10.200.1.181	131.94.238.11
+bacnet-read-property	bacnet	484421	ics-protocols	1	udp	10.200.1.202	131.94.238.11
+bacnet-who-has	bacnet	485458	ics-protocols	1	udp	131.94.238.11	10.200.1.202
+insufficient-data		484507	unknown	1	udp	10.200.1.181	131.94.238.11
+insufficient-data		485679	unknown	1	udp	10.200.1.181	131.94.238.11
+insufficient-data		485422	unknown	1	udp	10.200.1.181	131.94.238.11
+bacnet-read-property	bacnet	486330	ics-protocols	1	udp	10.200.1.181	131.94.238.11
+bacnet-who-has	bacnet	484311	ics-protocols	1	udp	131.94.238.11	10.200.1.202

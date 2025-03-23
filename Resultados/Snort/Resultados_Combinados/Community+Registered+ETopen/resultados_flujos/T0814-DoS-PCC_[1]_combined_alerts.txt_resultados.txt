@@ -1,0 +1,2 @@
+Número total de flujos distintos en T0814-DoS-PCC_[1]_combined_alerts.txt: 1
+192.168.0.142:36809 -> 192.168.0.64:44818

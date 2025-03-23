@@ -1,0 +1,36 @@
+Números de paquete distintos encontrados en el archivo T0888-ScanInfo-OPCUA-Nmap_[2]_combined_alerts.txt:
+319
+318
+314
+312
+311
+9
+1
+379
+378
+371
+372
+374
+298
+299
+353
+352
+351
+355
+354
+321
+326
+325
+328
+307
+300
+301
+302
+385
+381
+367
+364
+365
+360
+332
+Total de números de paquete distintos: 34

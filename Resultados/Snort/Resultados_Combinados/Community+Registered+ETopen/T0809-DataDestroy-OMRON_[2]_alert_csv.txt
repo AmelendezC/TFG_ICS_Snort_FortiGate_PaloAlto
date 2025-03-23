@@ -1,0 +1,40 @@
+01/27-22:44:42.809819, 20, UDP, raw, 52, C2S, 10.4.14.102:58722, 10.130.130.130:9600, 1:15412:5, allow, "PROTOCOL-SCADA OMRON-FINS memory area write overflow attempt", Generic Protocol Command Decode
+01/27-22:44:42.809819, 20, UDP, raw, 52, C2S, 10.4.14.102:58722, 10.130.130.130:9600, 1:15389:5, allow, "PROTOCOL-SCADA OMRON-FINS memory area write attempt", Generic Protocol Command Decode
+01/27-22:44:42.809846, 21, UDP, raw, 48, C2S, 10.4.14.102:58722, 10.130.130.130:9600, 1:15390:5, allow, "PROTOCOL-SCADA OMRON-FINS memory area fill attempt", Generic Protocol Command Decode
+01/27-22:44:42.809929, 24, UDP, raw, 50, C2S, 10.4.14.102:58722, 10.130.130.130:9600, 1:15391:5, allow, "PROTOCOL-SCADA OMRON-FINS memory area transfer attempt", Generic Protocol Command Decode
+01/27-22:44:42.810081, 30, UDP, raw, 50, C2S, 10.4.14.102:58722, 10.130.130.130:9600, 1:15392:5, allow, "PROTOCOL-SCADA OMRON-FINS parameter area write attempt", Generic Protocol Command Decode
+01/27-22:44:42.810135, 32, UDP, raw, 65, C2S, 10.4.14.102:58722, 10.130.130.130:9600, 1:15408:5, allow, "PROTOCOL-SCADA OMRON-FINS data link table write attempt", Generic Protocol Command Decode
+01/27-22:44:42.810162, 33, UDP, raw, 48, C2S, 10.4.14.102:58722, 10.130.130.130:9600, 1:15393:5, allow, "PROTOCOL-SCADA OMRON-FINS parameter area clear attempt", Generic Protocol Command Decode
+01/27-22:44:42.810188, 34, UDP, raw, 55, C2S, 10.4.14.102:58722, 10.130.130.130:9600, 1:15394:5, allow, "PROTOCOL-SCADA OMRON-FINS program area protect attempt", Generic Protocol Command Decode
+01/27-22:44:42.810214, 35, UDP, raw, 55, C2S, 10.4.14.102:58722, 10.130.130.130:9600, 1:15395:5, allow, "PROTOCOL-SCADA OMRON-FINS program area protect clear attempt", Generic Protocol Command Decode
+01/27-22:44:42.810268, 37, UDP, raw, 52, C2S, 10.4.14.102:58722, 10.130.130.130:9600, 1:15396:5, allow, "PROTOCOL-SCADA OMRON-FINS program area write attempt", Generic Protocol Command Decode
+01/27-22:44:42.810293, 38, UDP, raw, 43, C2S, 10.4.14.102:58722, 10.130.130.130:9600, 1:15397:5, allow, "PROTOCOL-SCADA OMRON-FINS program area clear attempt", Generic Protocol Command Decode
+01/27-22:44:42.810318, 39, UDP, raw, 43, C2S, 10.4.14.102:58722, 10.130.130.130:9600, 1:15398:5, allow, "PROTOCOL-SCADA OMRON-FINS RUN attempt", Generic Protocol Command Decode
+01/27-22:44:42.810343, 40, UDP, raw, 43, C2S, 10.4.14.102:58722, 10.130.130.130:9600, 1:15398:5, allow, "PROTOCOL-SCADA OMRON-FINS RUN attempt", Generic Protocol Command Decode
+01/27-22:44:42.810373, 41, UDP, raw, 43, C2S, 10.4.14.102:58722, 10.130.130.130:9600, 1:15398:5, allow, "PROTOCOL-SCADA OMRON-FINS RUN attempt", Generic Protocol Command Decode
+01/27-22:44:42.810398, 42, UDP, raw, 42, C2S, 10.4.14.102:58722, 10.130.130.130:9600, 1:15398:5, allow, "PROTOCOL-SCADA OMRON-FINS RUN attempt", Generic Protocol Command Decode
+01/27-22:44:42.810423, 43, UDP, raw, 40, C2S, 10.4.14.102:58722, 10.130.130.130:9600, 1:15399:5, allow, "PROTOCOL-SCADA OMRON-FINS STOP attempt", Generic Protocol Command Decode
+01/27-22:44:42.810704, 54, UDP, raw, 47, C2S, 10.4.14.102:58722, 10.130.130.130:9600, 1:15400:5, allow, "PROTOCOL-SCADA OMRON-FINS clock write attempt", Generic Protocol Command Decode
+01/27-22:44:42.810735, 55, UDP, raw, 45, C2S, 10.4.14.102:58722, 10.130.130.130:9600, 1:15400:5, allow, "PROTOCOL-SCADA OMRON-FINS clock write attempt", Generic Protocol Command Decode
+01/27-22:44:42.811010, 62, UDP, raw, 42, C2S, 10.4.14.102:58722, 10.130.130.130:9600, 1:15401:5, allow, "PROTOCOL-SCADA OMRON-FINS access right acquire attempt", Generic Protocol Command Decode
+01/27-22:44:42.811035, 63, UDP, raw, 42, C2S, 10.4.14.102:58722, 10.130.130.130:9600, 1:15402:5, allow, "PROTOCOL-SCADA OMRON-FINS access right forced acquire attempt", Generic Protocol Command Decode
+01/27-22:44:42.811265, 72, UDP, raw, 94, C2S, 10.4.14.102:58722, 10.130.130.130:9600, 1:15403:5, allow, "PROTOCOL-SCADA OMRON-FINS single file write attempt", Generic Protocol Command Decode
+01/27-22:44:42.811290, 73, UDP, raw, 42, C2S, 10.4.14.102:58722, 10.130.130.130:9600, 1:15411:5, allow, "PROTOCOL-SCADA OMRON-FINS memory card format attempt", Generic Protocol Command Decode
+01/27-22:44:42.811316, 74, UDP, raw, 56, C2S, 10.4.14.102:58722, 10.130.130.130:9600, 1:15404:5, allow, "PROTOCOL-SCADA OMRON-FINS file delete attempt", Generic Protocol Command Decode
+01/27-22:44:42.811344, 75, UDP, raw, 68, C2S, 10.4.14.102:58722, 10.130.130.130:9600, 1:15404:5, allow, "PROTOCOL-SCADA OMRON-FINS file delete attempt", Generic Protocol Command Decode
+01/27-22:44:42.811637, 86, UDP, raw, 300, C2S, 10.4.14.102:58722, 10.130.130.130:9600, 1:1394:17, allow, "INDICATOR-SHELLCODE x86 inc ecx NOOP", Executable code was detected
+01/27-22:44:42.811637, 86, UDP, raw, 300, C2S, 10.4.14.102:58722, 10.130.130.130:9600, 1:15407:5, allow, "PROTOCOL-SCADA OMRON-FINS file memory write attempt", Generic Protocol Command Decode
+01/27-22:44:42.811680, 87, UDP, raw, 48, C2S, 10.4.14.102:58722, 10.130.130.130:9600, 1:15406:5, allow, "PROTOCOL-SCADA OMRON-FINS forced set/reset cancel attempt", Generic Protocol Command Decode
+01/27-22:44:42.811680, 87, UDP, raw, 48, C2S, 10.4.14.102:58722, 10.130.130.130:9600, 1:15405:5, allow, "PROTOCOL-SCADA OMRON-FINS forced set/reset attempt", Generic Protocol Command Decode
+01/27-22:44:42.811694, 88, UDP, raw, 54, C2S, 10.4.14.102:58722, 10.130.130.130:9600, 1:15406:5, allow, "PROTOCOL-SCADA OMRON-FINS forced set/reset cancel attempt", Generic Protocol Command Decode
+01/27-22:44:42.811694, 88, UDP, raw, 54, C2S, 10.4.14.102:58722, 10.130.130.130:9600, 1:15405:5, allow, "PROTOCOL-SCADA OMRON-FINS forced set/reset attempt", Generic Protocol Command Decode
+01/27-22:44:42.811726, 92, UDP, raw, 40, C2S, 10.4.14.102:58722, 10.130.130.130:9600, 1:15410:5, allow, "PROTOCOL-SCADA OMRON-FINS name delete attempt", Generic Protocol Command Decode
+01/27-22:44:42.813407, 192, UDP, raw, 134, C2S, 10.4.14.102:58722, 10.130.130.130:9600, 1:1390:17, allow, "INDICATOR-SHELLCODE x86 inc ebx NOOP", Executable code was detected
+01/27-22:44:42.813430, 193, UDP, raw, 134, C2S, 10.4.14.102:58722, 10.130.130.130:9600, 1:1390:17, allow, "INDICATOR-SHELLCODE x86 inc ebx NOOP", Executable code was detected
+01/27-22:44:42.813454, 194, UDP, raw, 134, C2S, 10.4.14.102:58722, 10.130.130.130:9600, 1:1390:17, allow, "INDICATOR-SHELLCODE x86 inc ebx NOOP", Executable code was detected
+01/27-22:44:42.813475, 195, UDP, raw, 134, C2S, 10.4.14.102:58722, 10.130.130.130:9600, 1:1390:17, allow, "INDICATOR-SHELLCODE x86 inc ebx NOOP", Executable code was detected
+01/27-22:44:42.813545, 198, UDP, raw, 201, C2S, 10.4.14.102:58722, 10.130.130.130:9600, 1:1390:17, allow, "INDICATOR-SHELLCODE x86 inc ebx NOOP", Executable code was detected
+01/27-22:44:42.813660, 202, UDP, raw, 148, C2S, 10.4.14.102:58722, 10.130.130.130:9600, 1:1394:17, allow, "INDICATOR-SHELLCODE x86 inc ecx NOOP", Executable code was detected
+01/27-22:44:42.813822, 210, UDP, raw, 140, C2S, 10.4.14.102:58722, 10.130.130.130:9600, 1:1394:17, allow, "INDICATOR-SHELLCODE x86 inc ecx NOOP", Executable code was detected
+01/27-22:44:42.813822, 210, UDP, raw, 140, C2S, 10.4.14.102:58722, 10.130.130.130:9600, 1:1390:17, allow, "INDICATOR-SHELLCODE x86 inc ebx NOOP", Executable code was detected
+01/27-22:44:42.814314, 238, UDP, raw, 300, C2S, 10.4.14.102:58722, 10.130.130.130:9600, 1:1394:17, allow, "INDICATOR-SHELLCODE x86 inc ecx NOOP", Executable code was detected

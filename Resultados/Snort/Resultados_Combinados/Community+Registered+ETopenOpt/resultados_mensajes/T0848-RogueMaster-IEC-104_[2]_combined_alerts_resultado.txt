@@ -1,0 +1,30 @@
+Números de paquete distintos encontrados en el archivo T0848-RogueMaster-IEC-104_[2]_combined_alerts.txt:
+115
+116
+119
+140
+7
+6
+4
+137
+3
+136
+79
+75
+76
+165
+166
+167
+168
+169
+41
+44
+46
+157
+156
+96
+95
+99
+12
+10
+Total de números de paquete distintos: 28

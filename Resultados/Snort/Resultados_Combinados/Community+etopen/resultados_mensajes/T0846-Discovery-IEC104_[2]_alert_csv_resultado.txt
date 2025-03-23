@@ -1,0 +1,19 @@
+Números de paquete distintos encontrados en el archivo T0846-Discovery-IEC104_[2]_alert_csv.txt:
+310
+59
+8
+7
+71
+239
+308
+309
+307
+154
+229
+228
+227
+13
+10
+61
+60
+Total de números de paquete distintos: 17

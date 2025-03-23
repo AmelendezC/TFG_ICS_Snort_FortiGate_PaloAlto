@@ -1,0 +1,3 @@
+appid	sessionid	app	msg	apprisk	srcip	dstip	DeviceID
+40059	1459473	Modbus_Exception.Invalid.Code	Operational.Technology: Modbus_Exception.Invalid.Code	elevated	192.168.2.92	192.168.2.87	
+17017	1459474	NetBIOS.Name.Service	Network.Service: NetBIOS.Name.Service	elevated	192.168.2.86	192.168.2.255	

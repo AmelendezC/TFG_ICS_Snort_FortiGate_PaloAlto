@@ -1,0 +1,6 @@
+appid	sessionid	app	msg	apprisk	srcip	dstip	DeviceID
+34038	1459453	HTTP.BROWSER_IE	Web.Client: HTTP.BROWSER_IE	medium	192.168.2.87	192.168.2.91	
+17017	1459452	NetBIOS.Name.Service	Network.Service: NetBIOS.Name.Service	elevated	192.168.2.86	192.168.2.255	
+34038	1459454	HTTP.BROWSER_IE	Web.Client: HTTP.BROWSER_IE	medium	192.168.2.87	192.168.2.91	
+34038	1459455	HTTP.BROWSER_IE	Web.Client: HTTP.BROWSER_IE	medium	192.168.2.87	192.168.2.91	
+16083	1459457	UPnP	Network.Service: UPnP	elevated	192.168.2.86	239.255.255.250	

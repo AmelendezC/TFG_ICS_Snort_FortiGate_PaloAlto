@@ -1,0 +1,14 @@
+Números de paquete distintos encontrados en el archivo T0848-RogueMaster-DNP3-FIXED_[1]_alert_csv.txt:
+393
+398
+403
+408
+647
+639
+206
+202
+630
+635
+198
+194
+Total de números de paquete distintos: 12

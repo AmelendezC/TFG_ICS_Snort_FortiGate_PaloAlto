@@ -1,0 +1,2 @@
+Números de paquete distintos encontrados en el archivo T0888-ScanInfo-MQTT-noAuth_[2]_alert_csv.txt (excluyendo SIDs 2012648 1917):
+Total de números de paquete distintos: 0

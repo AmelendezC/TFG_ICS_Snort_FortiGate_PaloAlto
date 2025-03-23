@@ -1,0 +1,11 @@
+Números de paquete distintos encontrados en el archivo T0890-EscalPrivileges-NetLogon-FIXED_[2]_combined_alerts.txt (excluyendo SIDs 1917 24303 57155 40517 2012648):
+84
+34
+36
+114
+136
+1813
+12
+62
+4823
+Total de números de paquete distintos: 9

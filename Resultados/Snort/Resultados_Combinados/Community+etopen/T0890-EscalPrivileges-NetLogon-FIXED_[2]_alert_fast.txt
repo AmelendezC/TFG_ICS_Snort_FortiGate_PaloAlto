@@ -1,0 +1,2 @@
+03/26-12:30:26.700765 [**] [1:1917:16] "INDICATOR-SCAN UPnP service discover attempt" [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 192.168.1.71:41058 -> 239.255.255.250:1900
+03/26-12:30:44.987308 [**] [1:1917:16] "INDICATOR-SCAN UPnP service discover attempt" [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 192.168.1.39:62276 -> 239.255.255.250:1900

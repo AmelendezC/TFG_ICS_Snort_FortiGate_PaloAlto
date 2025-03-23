@@ -1,0 +1,1 @@
+04/23-20:20:38.125657, 4, TCP, stream_tcp, 12, C2S, 192.168.100.2:40065, 192.168.100.3:502, 1:17788:5, allow, "PROTOCOL-SCADA Modbus read coils from external source", Generic Protocol Command Decode

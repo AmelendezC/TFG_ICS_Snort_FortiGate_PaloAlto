@@ -1,0 +1,88 @@
+﻿Fichero pcap;APP 
+T0866-VulnAccess-SMBv1_[2].pcapng;ms-ds-smbv1
+T0866-VulnAccess-SMBv1_[2].pcapng; netbios-ns
+T0866-VulnAccess-SMBv1_[2].pcapng; ssl
+T0866-RemoteAccess-VNC-FIXED_[2].pcapng;vnc-base
+T0848-RogueMaster-IEC-104_[2].pcapng;104apci-unnumbered-stopdt-con
+T0848-RogueMaster-IEC-104_[2].pcapng; 104asdu-system-control-type105
+T0848-RogueMaster-DNP3-FIXED_[1].pcapng;dnp3-read
+T0858-ChangeOPMode-Omron_[2].pcapng;omron-fins-run
+T0890-EscalPrivileges-NetLogon_[2].pcapng;ms-netlogon
+T0890-EscalPrivileges-NetLogon_[2].pcapng; msrpc-base
+T0846-DiscoveryNmap-S7_[1].pcapng;siemens-s7-setup-communication
+T0846-DiscoveryNmap-Modbus_[1].pcapng;modbus-base
+T0846-DiscoveryNmap-Modbus_[1].pcapng; modbus-encapsulated-transport
+T0888-DiscverFindID-Modbus_[1].pcapng / T0888-DiscverCoils-Modbus_[1].pcapng / T0888-DiscverRegisters-Modbus_[1].pcapng / T0888-DiscverRegisters2-Modbus_[1].pcapng;modbus-read-holding-registers
+T0888-DiscverFindID-Modbus_[1].pcapng / T0888-DiscverCoils-Modbus_[1].pcapng / T0888-DiscverRegisters-Modbus_[1].pcapng / T0888-DiscverRegisters2-Modbus_[1].pcapng; modbus-read-coils
+T0846-Discovery-BacNet_[2].pcap ;bacnet-complex-ack
+T0846-Discovery-IEC104_[2].pcapng;104asdu-system-control-type100
+T0888-ScanInfo-MQTT_[2].pcap / T0888-ScanInfo-MQTT-noAuth_[2].pcap;"mqtt-disconnect	mqtt"
+T0888-ScanInfo-OPCUA-OpcScan_[2].pcapng;opc-ua-create-session-req
+T0888-ScanInfo-OPCUA-OpcScan_[2].pcapng; opc-ua-close
+T0888-ScanInfo-ENIP_[2].pcapng;cip-ethernet-ip-list-identity
+T0888-ScanInfo-OmronFINS_[2].pcapng;omron-fins-controller-data-read
+T0886-BruteForce-MQTT_[2].pcapng;mqtt-base 
+T0843-FileDownload-Modbus_[1].pcapng / T0843-FileUpload-Modbus_[1].pcapng;modbus-read-holding-registers
+T0843-FileDownload-Modbus_[1].pcapng / T0843-FileUpload-Modbus_[1].pcapng; modbus-write-multiple-registers
+T0802-AutoCollect-OPCUA_[2].pcapng;opc-ua-close
+T0830-MITM-BacNet-FIXED_[2].pcapng;bacnet-i-am
+T0802-AutoCollect-SNMP_[1].pcapng;snmpv1
+T0809-DataDestroy-OMRON_[2].pcapng;omron-fins-forced-set-cancel
+T0816-RestartAllenBradley-SNMP_[2].pcapng;cip-ethernet-ip-send-rr-data
+T0816-RestartAllenBradley-SNMP_[2].pcapng; snmp-base
+T0816-StopCommand-S7Comm_[2].pcapng;siemens-s7-base
+T0814-DoS-PCC_[1].pcapng;pccc-cip-prot-typed-log-read
+T0816-ShutDown-Modbus_[1].pcapng;modbus-write-multiple-coils
+T0836-ModifyParam-OmronFINS_[2].pcapng;omron-fins-mem-area-transfer
+T0836-ModifyParam-OmronFINS_[2].pcapng; omron-fins-mem-area-read
+T0836-ModifyParam-OmronFINS_[2].pcapng;omron-fins-mem-area-fill
+T0836-ModifyParam-OmronFINS_[2].pcapng; omron-fins-mem-area-write
+T0836-ModifParam-Modbus_[1].pcapng;modbus-write-single-register
+T0836-ModifParam-S7_[1].pcapng;siemens-s7-read
+T0836-ModifParam-S7_[1].pcapng; siemens-s7-write
+T0885-C&Cp502Ignition-HTTP_[1].pcapng;web-browsing
+T0885-C&Cp102Ignition-TCP_[1].pcapng;web-browsing
+T0882-DirectoryRead-IEC104_[2].pcapng;104apci-unnumbered-startdt-con
+T0882-DirectoryRead-IEC104_[2].pcapng; 104apci-supervisory
+T0831-ModifParam-DNP3_[1].pcapng;dnp3-read
+T0882-DirRead-DNP3-FIXED_[1].pcapng;dnp3-read
+bacnet_test[3].pcapng ;bacnet-complex-ack
+dnp3_test_data_part1[3].pcapng ;dnp3-unsolicited-message
+dnp3_test_data_part1[3].pcapng ; dnp3-stop-application
+dnp3_test_data_part1[3].pcapng ;dnp3-disable-unsolicited
+dnp3_test_data_part1[3].pcapng ;dnp3-cold-restart
+dnp3_test_data_part1[3].pcapng ;dnp3-warm-restart
+dnp3_test_data_part1[3].pcapng ;dnp3-disable-unsolicited
+fox_info[3].pcapng ;niagara-fox
+modbus_test_data_part1[3].pcapng ;modbus-write-single-register
+modbus_test_data_part1[3].pcapng ; modbus-encapsulated-transport
+modbus_test_data_part1[3].pcapng ;modbus-report-slave-id
+modicon_test[3].pcapng ;umas-base
+s7_test[3].pcapng ;siemens-s7-setup-communication
+T0814-ICMP_Flood_2-5[1].pcapng ;ping
+T0814-ICMP_Flood_2-10[1].pcapng ;ping
+T0814-TCP_Flood_2-13[1].pcapng ;icmp
+T0831-Impact.pcapng;ping
+T0831-Impact.pcapng; modbus-write-single-register
+T0814-InhibitResponseFunction.pcapng;modbus-read-holding-registers
+T0814-InhibitResponseFunction.pcapng; modbus-write-single-register
+T0814-InhibitResponseFunction_2.pcapng;modbus-write-single-register
+T0814-InhibitResponseFunction_3.pcapng;modbus-write-single-register
+T0888-Discovery.pcapng;bacnet-error-read-property
+T0888-Discovery.pcapng; bacnet-base
+T0888-Discovery.pcapng; bacnet-segment-ack
+T0888-Discovery.pcapng; bacnet-who-has
+T0888-Discovery.pcapng; ping
+T0888-Discovery.pcapng; icmp
+T0888-Discovery.pcapng; web-browsing
+T0822-InitialAccess.pcapng;bacnet-error-read-property
+T0822-InitialAccess.pcapng; bacnet-base
+T0822-InitialAccess.pcapng; bacnet-segment-ack
+T0822-InitialAccess.pcapng; bacnet-who-has
+T0822-InitialAccess.pcapng; ping
+T0822-InitialAccess.pcapng; icmp
+T0888-Discovery_2.pcapng;web-browsing
+T0888-Discovery_2.pcapng;ping
+T0842-Discovery.pcapng;web-browsing
+T0842-Discovery.pcapng;ping
+T0822-InitialAccess_2.pcapng;ms-ds-smbv1

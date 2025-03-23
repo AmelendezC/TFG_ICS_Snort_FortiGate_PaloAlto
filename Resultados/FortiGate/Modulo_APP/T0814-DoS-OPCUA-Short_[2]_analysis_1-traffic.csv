@@ -1,0 +1,14 @@
+appid	sessionid	app	msg	apprisk	srcip	dstip	DeviceID
+44142	4867	OPC.UA_Hello.Message	Operational.Technology: OPC.UA_Hello.Message	elevated	192.168.1.135	192.168.1.144	
+44143	4867	OPC.UA_Acknowledge.Message	Operational.Technology: OPC.UA_Acknowledge.Message	elevated	192.168.1.135	192.168.1.144	
+44145	4867	OPC.UA_Open.Secure.Channel.Request	Operational.Technology: OPC.UA_Open.Secure.Channel.Request	elevated	192.168.1.135	192.168.1.144	
+44799	4867	OPC.UA_Create.Session.Request	Operational.Technology: OPC.UA_Create.Session.Request	elevated	192.168.1.135	192.168.1.144	
+44146	4867	OPC.UA_Secure.Conversation.Message	Operational.Technology: OPC.UA_Secure.Conversation.Message	elevated	192.168.1.135	192.168.1.144	
+44791	4867	OPC.UA_Activate.Session.Request	Operational.Technology: OPC.UA_Activate.Session.Request	elevated	192.168.1.135	192.168.1.144	
+44146	4867	OPC.UA_Secure.Conversation.Message	Operational.Technology: OPC.UA_Secure.Conversation.Message	elevated	192.168.1.135	192.168.1.144	
+44161	4867	OPC.UA_Error.Message	Operational.Technology: OPC.UA_Error.Message	elevated	192.168.1.135	192.168.1.144	
+44161	4867	OPC.UA_Error.Message	Operational.Technology: OPC.UA_Error.Message	elevated	192.168.1.135	192.168.1.144	
+44161	4867	OPC.UA_Error.Message	Operational.Technology: OPC.UA_Error.Message	elevated	192.168.1.135	192.168.1.144	
+44161	4867	OPC.UA_Error.Message	Operational.Technology: OPC.UA_Error.Message	elevated	192.168.1.135	192.168.1.144	
+44161	4867	OPC.UA_Error.Message	Operational.Technology: OPC.UA_Error.Message	elevated	192.168.1.135	192.168.1.144	
+44161	4867	OPC.UA_Error.Message	Operational.Technology: OPC.UA_Error.Message	elevated	192.168.1.135	192.168.1.144	

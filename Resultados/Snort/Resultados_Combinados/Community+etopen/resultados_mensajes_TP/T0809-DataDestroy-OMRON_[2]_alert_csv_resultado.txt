@@ -1,0 +1,11 @@
+Números de paquete distintos encontrados en el archivo T0809-DataDestroy-OMRON_[2]_alert_csv.txt (excluyendo SIDs 2012648 1917):
+86
+210
+238
+202
+198
+193
+192
+195
+194
+Total de números de paquete distintos: 9

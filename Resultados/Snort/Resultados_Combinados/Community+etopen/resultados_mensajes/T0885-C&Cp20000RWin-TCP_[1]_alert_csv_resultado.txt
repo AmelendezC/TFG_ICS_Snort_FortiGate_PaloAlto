@@ -1,0 +1,2 @@
+Números de paquete distintos encontrados en el archivo T0885-C&Cp20000RWin-TCP_[1]_alert_csv.txt:
+Total de números de paquete distintos: 0

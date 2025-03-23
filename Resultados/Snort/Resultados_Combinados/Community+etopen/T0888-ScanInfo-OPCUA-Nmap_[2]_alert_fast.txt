@@ -1,0 +1,22 @@
+08/05-19:49:29.376016 [**] [1:365:11] "PROTOCOL-ICMP PING undefined code" [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.1.241 -> 192.168.1.195
+08/05-19:49:29.379143 [**] [1:408:8] "PROTOCOL-ICMP Echo Reply" [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.1.195 -> 192.168.1.241
+08/05-19:49:29.401441 [**] [1:29456:3] "PROTOCOL-ICMP Unusual PING detected" [**] [Classification: Information Leak] [Priority: 2] {ICMP} 192.168.1.241 -> 192.168.1.195
+08/05-19:49:29.401441 [**] [1:384:8] "PROTOCOL-ICMP PING" [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.1.241 -> 192.168.1.195
+08/05-19:49:29.404586 [**] [1:408:8] "PROTOCOL-ICMP Echo Reply" [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.1.195 -> 192.168.1.241
+08/05-19:49:29.426783 [**] [1:1390:17] "INDICATOR-SHELLCODE x86 inc ebx NOOP" [**] [Classification: Executable code was detected] [Priority: 1] {UDP} 192.168.1.241:51551 -> 192.168.1.195:31454
+08/05-19:49:29.629963 [**] [1:1390:17] "INDICATOR-SHELLCODE x86 inc ebx NOOP" [**] [Classification: Executable code was detected] [Priority: 1] {UDP} 192.168.1.241:51551 -> 192.168.1.195:31454
+08/05-19:49:29.809129 [**] [1:1390:17] "INDICATOR-SHELLCODE x86 inc ebx NOOP" [**] [Classification: Executable code was detected] [Priority: 1] {UDP} 192.168.1.241:51551 -> 192.168.1.195:31454
+08/05-19:49:29.987328 [**] [1:1390:17] "INDICATOR-SHELLCODE x86 inc ebx NOOP" [**] [Classification: Executable code was detected] [Priority: 1] {UDP} 192.168.1.241:51551 -> 192.168.1.195:31454
+08/05-19:49:31.795074 [**] [1:365:11] "PROTOCOL-ICMP PING undefined code" [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.1.241 -> 192.168.1.195
+08/05-19:49:31.798243 [**] [1:408:8] "PROTOCOL-ICMP Echo Reply" [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.1.195 -> 192.168.1.241
+08/05-19:49:31.820426 [**] [1:29456:3] "PROTOCOL-ICMP Unusual PING detected" [**] [Classification: Information Leak] [Priority: 2] {ICMP} 192.168.1.241 -> 192.168.1.195
+08/05-19:49:31.820426 [**] [1:384:8] "PROTOCOL-ICMP PING" [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.1.241 -> 192.168.1.195
+08/05-19:49:31.823256 [**] [1:408:8] "PROTOCOL-ICMP Echo Reply" [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.1.195 -> 192.168.1.241
+08/05-19:49:31.845845 [**] [1:1390:17] "INDICATOR-SHELLCODE x86 inc ebx NOOP" [**] [Classification: Executable code was detected] [Priority: 1] {UDP} 192.168.1.241:51551 -> 192.168.1.195:34532
+08/05-19:49:32.049078 [**] [1:1390:17] "INDICATOR-SHELLCODE x86 inc ebx NOOP" [**] [Classification: Executable code was detected] [Priority: 1] {UDP} 192.168.1.241:51551 -> 192.168.1.195:34532
+08/05-19:49:32.226790 [**] [1:1390:17] "INDICATOR-SHELLCODE x86 inc ebx NOOP" [**] [Classification: Executable code was detected] [Priority: 1] {UDP} 192.168.1.241:51551 -> 192.168.1.195:34532
+08/05-19:49:32.409469 [**] [1:1390:17] "INDICATOR-SHELLCODE x86 inc ebx NOOP" [**] [Classification: Executable code was detected] [Priority: 1] {UDP} 192.168.1.241:51551 -> 192.168.1.195:34532
+08/05-19:49:43.212612 [**] [1:1917:16] "INDICATOR-SCAN UPnP service discover attempt" [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 192.168.1.195:63850 -> 239.255.255.250:1900
+08/05-19:49:44.224997 [**] [1:1917:16] "INDICATOR-SCAN UPnP service discover attempt" [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 192.168.1.195:63850 -> 239.255.255.250:1900
+08/05-19:49:45.226544 [**] [1:1917:16] "INDICATOR-SCAN UPnP service discover attempt" [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 192.168.1.195:63850 -> 239.255.255.250:1900
+08/05-19:49:46.226993 [**] [1:1917:16] "INDICATOR-SCAN UPnP service discover attempt" [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 192.168.1.195:63850 -> 239.255.255.250:1900

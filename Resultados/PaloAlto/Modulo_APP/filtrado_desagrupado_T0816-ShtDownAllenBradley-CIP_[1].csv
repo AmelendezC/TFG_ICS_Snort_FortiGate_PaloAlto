@@ -1,0 +1,5 @@
+app	container_of_app	sessionid	subcategory_of_app	risk_of_app	proto	src_ip	dst_ip
+netbios-ns		6714	infrastructure	2	udp	192.168.56.1	192.168.0.142
+netbios-ns		6715	infrastructure	2	udp	192.168.1.190	192.168.0.142
+netbios-ns		6716	infrastructure	2	udp	192.168.174.1	192.168.0.142
+netbios-ns		6717	infrastructure	2	udp	192.168.232.1	192.168.0.142

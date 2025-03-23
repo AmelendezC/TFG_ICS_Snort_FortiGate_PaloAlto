@@ -1,0 +1,3 @@
+Número total de flujos distintos en T0802-AutoCollect-OPCUA_[2]_alert_fast.txt: 2
+192.168.1.15:52913 -> 239.255.255.250:1900
+192.168.1.15:57525 -> 239.255.255.250:1900

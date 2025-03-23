@@ -1,0 +1,4 @@
+attackid,sessionid,repeated,severity,attack,service,srcip,dstip,subtype,eventtype,url
+11522,24349937,1,"info","Modbus.TCP.Restart.Communications.Option","MODBUS",10.0.0.57,10.0.0.3,"ips","signature","http://www.fortinet.com/ids/VID11522"
+11522,24349937,2,"info","Modbus.TCP.Restart.Communications.Option","MODBUS",10.0.0.57,10.0.0.3,"ips","signature","http://www.fortinet.com/ids/VID11522"
+11522,24349937,2,"info","Modbus.TCP.Restart.Communications.Option","MODBUS",10.0.0.57,10.0.0.3,"ips","signature","http://www.fortinet.com/ids/VID11522"

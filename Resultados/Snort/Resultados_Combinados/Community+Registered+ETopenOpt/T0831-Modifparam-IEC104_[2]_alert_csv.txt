@@ -1,0 +1,95 @@
+05/07-18:25:48.060732, 1, UDP, raw, 198, C2S, 192.168.9.223:52173, 239.255.255.250:1900, 1:1917:16, allow, "INDICATOR-SCAN UPnP service discover attempt", Detection of a Network Scan
+05/07-18:25:48.065157, 2, UDP, raw, 203, C2S, 192.168.9.223:52176, 239.255.255.250:1900, 1:1917:16, allow, "INDICATOR-SCAN UPnP service discover attempt", Detection of a Network Scan
+05/07-18:25:48.067199, 3, UDP, raw, 203, C2S, 192.168.9.223:52179, 239.255.255.250:1900, 1:1917:16, allow, "INDICATOR-SCAN UPnP service discover attempt", Detection of a Network Scan
+05/07-18:25:49.060662, 4, UDP, raw, 198, C2S, 192.168.9.223:52173, 239.255.255.250:1900, 1:1917:16, allow, "INDICATOR-SCAN UPnP service discover attempt", Detection of a Network Scan
+05/07-18:25:49.064415, 5, UDP, raw, 203, C2S, 192.168.9.223:52176, 239.255.255.250:1900, 1:1917:16, allow, "INDICATOR-SCAN UPnP service discover attempt", Detection of a Network Scan
+05/07-18:25:49.066710, 6, UDP, raw, 203, C2S, 192.168.9.223:52179, 239.255.255.250:1900, 1:1917:16, allow, "INDICATOR-SCAN UPnP service discover attempt", Detection of a Network Scan
+05/07-18:25:49.814182, 10, TCP, stream_tcp, 6, C2S, 192.168.9.223:57955, 192.168.9.175:2404, 1:41079:4, allow, "PROTOCOL-SCADA IEC 104 traffic to/from EXTERNAL_NET", Generic Protocol Command Decode
+05/07-18:25:49.814182, 10, TCP, stream_tcp, 6, C2S, 192.168.9.223:57955, 192.168.9.175:2404, 1:41078:4, allow, "PROTOCOL-SCADA IEC 104 traffic to/from EXTERNAL_NET", Generic Protocol Command Decode
+05/07-18:25:49.814182, 10, TCP, stream_tcp, 6, C2S, 192.168.9.223:57955, 192.168.9.175:2404, 1:41047:4, allow, "PROTOCOL-SCADA IEC 104 STARTDT ACT", Generic Protocol Command Decode
+05/07-18:25:49.820804, 11, TCP, stream_tcp, 6, S2C, 192.168.9.175:2404, 192.168.9.223:57955, 1:41048:4, allow, "PROTOCOL-SCADA IEC 104 STARTDT CON", Generic Protocol Command Decode
+05/07-18:25:49.842954, 12, TCP, stream_tcp, 6, C2S, 192.168.9.223:57955, 192.168.9.175:2404, 1:41079:4, allow, "PROTOCOL-SCADA IEC 104 traffic to/from EXTERNAL_NET", Generic Protocol Command Decode
+05/07-18:25:49.842954, 12, TCP, stream_tcp, 6, C2S, 192.168.9.223:57955, 192.168.9.175:2404, 1:41078:4, allow, "PROTOCOL-SCADA IEC 104 traffic to/from EXTERNAL_NET", Generic Protocol Command Decode
+05/07-18:25:49.889224, 14, TCP, stream_tcp, 22, C2S, 192.168.9.223:57955, 192.168.9.175:2404, 1:52192:1, allow, "PROTOCOL-SCADA IEC 104 C_CS_NA_1", Generic Protocol Command Decode
+05/07-18:25:49.889224, 14, TCP, stream_tcp, 22, C2S, 192.168.9.223:57955, 192.168.9.175:2404, 1:52159:1, allow, "PROTOCOL-SCADA IEC 104 M_PS_NA_1", Generic Protocol Command Decode
+05/07-18:25:49.889224, 14, TCP, stream_tcp, 22, C2S, 192.168.9.223:57955, 192.168.9.175:2404, 1:41079:4, allow, "PROTOCOL-SCADA IEC 104 traffic to/from EXTERNAL_NET", Generic Protocol Command Decode
+05/07-18:25:49.889224, 14, TCP, stream_tcp, 16, C2S, 192.168.9.223:57955, 192.168.9.175:2404, 1:52191:1, allow, "PROTOCOL-SCADA IEC 104 C_IC_NA_1", Generic Protocol Command Decode
+05/07-18:25:49.889224, 14, TCP, stream_tcp, 16, C2S, 192.168.9.223:57955, 192.168.9.175:2404, 1:41078:4, allow, "PROTOCOL-SCADA IEC 104 traffic to/from EXTERNAL_NET", Generic Protocol Command Decode
+05/07-18:25:49.889224, 14, TCP, stream_tcp, 16, C2S, 192.168.9.223:57955, 192.168.9.175:2404, 1:41058:4, allow, "PROTOCOL-SCADA IEC 104 Interrogation command", Generic Protocol Command Decode
+05/07-18:25:49.889224, 14, TCP, stream_tcp, 16, C2S, 192.168.9.223:57955, 192.168.9.175:2404, 1:52189:1, allow, "PROTOCOL-SCADA IEC 104 C_CI_NA_1", Generic Protocol Command Decode
+05/07-18:25:49.889224, 14, TCP, stream_tcp, 16, C2S, 192.168.9.223:57955, 192.168.9.175:2404, 1:41075:4, allow, "PROTOCOL-SCADA IEC 104 counter interrogation command", Generic Protocol Command Decode
+05/07-18:25:49.907830, 15, TCP, stream_tcp, 22, S2C, 192.168.9.175:2404, 192.168.9.223:57955, 1:52192:1, allow, "PROTOCOL-SCADA IEC 104 C_CS_NA_1", Generic Protocol Command Decode
+05/07-18:25:49.907830, 15, TCP, stream_tcp, 22, S2C, 192.168.9.175:2404, 192.168.9.223:57955, 1:52159:1, allow, "PROTOCOL-SCADA IEC 104 M_PS_NA_1", Generic Protocol Command Decode
+05/07-18:25:49.907830, 15, TCP, stream_tcp, 22, S2C, 192.168.9.175:2404, 192.168.9.223:57955, 1:41074:4, allow, "PROTOCOL-SCADA IEC 104 clock sync command", Generic Protocol Command Decode
+05/07-18:25:49.954757, 17, TCP, stream_tcp, 16, S2C, 192.168.9.175:2404, 192.168.9.223:57955, 1:52191:1, allow, "PROTOCOL-SCADA IEC 104 C_IC_NA_1", Generic Protocol Command Decode
+05/07-18:25:49.954757, 17, TCP, stream_tcp, 16, S2C, 192.168.9.175:2404, 192.168.9.223:57955, 1:41058:4, allow, "PROTOCOL-SCADA IEC 104 Interrogation command", Generic Protocol Command Decode
+05/07-18:25:49.954757, 17, TCP, stream_tcp, 16, S2C, 192.168.9.175:2404, 192.168.9.223:57955, 1:52150:1, allow, "PROTOCOL-SCADA IEC 104 M_SP_NA_1", Generic Protocol Command Decode
+05/07-18:25:49.954757, 17, TCP, stream_tcp, 16, S2C, 192.168.9.175:2404, 192.168.9.223:57955, 1:41070:4, allow, "PROTOCOL-SCADA IEC 104 Single point information", Generic Protocol Command Decode
+05/07-18:25:49.954757, 17, TCP, stream_tcp, 16, S2C, 192.168.9.175:2404, 192.168.9.223:57955, 1:52151:1, allow, "PROTOCOL-SCADA IEC 104 M_DP_NA_1", Generic Protocol Command Decode
+05/07-18:25:49.954757, 17, TCP, stream_tcp, 16, S2C, 192.168.9.175:2404, 192.168.9.223:57955, 1:41054:4, allow, "PROTOCOL-SCADA IEC 104 Double point information", Generic Protocol Command Decode
+05/07-18:25:49.954757, 17, TCP, stream_tcp, 18, S2C, 192.168.9.175:2404, 192.168.9.223:57955, 1:52155:1, allow, "PROTOCOL-SCADA IEC 104 M_ME_NB_1", Generic Protocol Command Decode
+05/07-18:25:49.954757, 17, TCP, stream_tcp, 18, S2C, 192.168.9.175:2404, 192.168.9.223:57955, 1:41061:4, allow, "PROTOCOL-SCADA IEC 104 Measured value", Generic Protocol Command Decode
+05/07-18:25:49.954757, 17, TCP, stream_tcp, 20, S2C, 192.168.9.175:2404, 192.168.9.223:57955, 1:52158:1, allow, "PROTOCOL-SCADA IEC 104 M_ME_NC_1", Generic Protocol Command Decode
+05/07-18:25:49.954757, 17, TCP, stream_tcp, 18, S2C, 192.168.9.175:2404, 192.168.9.223:57955, 1:52187:1, allow, "PROTOCOL-SCADA IEC 104 P_ME_NA_1", Generic Protocol Command Decode
+05/07-18:25:49.954757, 17, TCP, stream_tcp, 18, S2C, 192.168.9.175:2404, 192.168.9.223:57955, 1:41063:4, allow, "PROTOCOL-SCADA IEC 104 Parameter value", Generic Protocol Command Decode
+05/07-18:25:49.954757, 17, TCP, stream_tcp, 18, S2C, 192.168.9.175:2404, 192.168.9.223:57955, 1:52154:1, allow, "PROTOCOL-SCADA IEC 104 M_ME_NA_1", Generic Protocol Command Decode
+05/07-18:25:50.003769, 19, TCP, stream_tcp, 16, S2C, 192.168.9.175:2404, 192.168.9.223:57955, 1:52191:1, allow, "PROTOCOL-SCADA IEC 104 C_IC_NA_1", Generic Protocol Command Decode
+05/07-18:25:50.003769, 19, TCP, stream_tcp, 16, S2C, 192.168.9.175:2404, 192.168.9.223:57955, 1:41058:4, allow, "PROTOCOL-SCADA IEC 104 Interrogation command", Generic Protocol Command Decode
+05/07-18:25:50.003769, 19, TCP, stream_tcp, 16, S2C, 192.168.9.175:2404, 192.168.9.223:57955, 1:52189:1, allow, "PROTOCOL-SCADA IEC 104 C_CI_NA_1", Generic Protocol Command Decode
+05/07-18:25:50.003769, 19, TCP, stream_tcp, 16, S2C, 192.168.9.175:2404, 192.168.9.223:57955, 1:41075:4, allow, "PROTOCOL-SCADA IEC 104 counter interrogation command", Generic Protocol Command Decode
+05/07-18:25:50.063741, 21, TCP, stream_tcp, 6, C2S, 192.168.9.223:57955, 192.168.9.175:2404, 1:41079:4, allow, "PROTOCOL-SCADA IEC 104 traffic to/from EXTERNAL_NET", Generic Protocol Command Decode
+05/07-18:25:50.063741, 21, TCP, stream_tcp, 6, C2S, 192.168.9.223:57955, 192.168.9.175:2404, 1:41078:4, allow, "PROTOCOL-SCADA IEC 104 traffic to/from EXTERNAL_NET", Generic Protocol Command Decode
+05/07-18:26:00.094111, 30, TCP, stream_tcp, 6, C2S, 192.168.9.223:57955, 192.168.9.175:2404, 1:41079:4, allow, "PROTOCOL-SCADA IEC 104 traffic to/from EXTERNAL_NET", Generic Protocol Command Decode
+05/07-18:26:00.094111, 30, TCP, stream_tcp, 6, C2S, 192.168.9.223:57955, 192.168.9.175:2404, 1:41078:4, allow, "PROTOCOL-SCADA IEC 104 traffic to/from EXTERNAL_NET", Generic Protocol Command Decode
+05/07-18:26:19.923328, 37, TCP, stream_tcp, 6, C2S, 192.168.9.223:57955, 192.168.9.175:2404, 1:41079:4, allow, "PROTOCOL-SCADA IEC 104 traffic to/from EXTERNAL_NET", Generic Protocol Command Decode
+05/07-18:26:19.923328, 37, TCP, stream_tcp, 6, C2S, 192.168.9.223:57955, 192.168.9.175:2404, 1:41078:4, allow, "PROTOCOL-SCADA IEC 104 traffic to/from EXTERNAL_NET", Generic Protocol Command Decode
+05/07-18:26:19.923328, 37, TCP, stream_tcp, 6, C2S, 192.168.9.223:57955, 192.168.9.175:2404, 1:41051:4, allow, "PROTOCOL-SCADA IEC 104 TESTFR ACT", Generic Protocol Command Decode
+05/07-18:26:19.934972, 38, TCP, stream_tcp, 6, S2C, 192.168.9.175:2404, 192.168.9.223:57955, 1:41052:4, allow, "PROTOCOL-SCADA IEC 104 TESTFR CON", Generic Protocol Command Decode
+05/07-18:26:24.136222, 43, TCP, stream_tcp, 16, C2S, 192.168.9.223:57955, 192.168.9.175:2404, 1:52171:1, allow, "PROTOCOL-SCADA IEC 104 C_SC_NA_1", Generic Protocol Command Decode
+05/07-18:26:24.136222, 43, TCP, stream_tcp, 16, C2S, 192.168.9.223:57955, 192.168.9.175:2404, 1:41079:4, allow, "PROTOCOL-SCADA IEC 104 traffic to/from EXTERNAL_NET", Generic Protocol Command Decode
+05/07-18:26:24.136222, 43, TCP, stream_tcp, 16, C2S, 192.168.9.223:57955, 192.168.9.175:2404, 1:41078:4, allow, "PROTOCOL-SCADA IEC 104 traffic to/from EXTERNAL_NET", Generic Protocol Command Decode
+05/07-18:26:24.168715, 44, TCP, stream_tcp, 16, S2C, 192.168.9.175:2404, 192.168.9.223:57955, 1:52171:1, allow, "PROTOCOL-SCADA IEC 104 C_SC_NA_1", Generic Protocol Command Decode
+05/07-18:26:24.168715, 44, TCP, stream_tcp, 16, S2C, 192.168.9.175:2404, 192.168.9.223:57955, 1:41069:4, allow, "PROTOCOL-SCADA IEC 104 Single command", Generic Protocol Command Decode
+05/07-18:26:24.214967, 46, TCP, stream_tcp, 16, S2C, 192.168.9.175:2404, 192.168.9.223:57955, 1:52171:1, allow, "PROTOCOL-SCADA IEC 104 C_SC_NA_1", Generic Protocol Command Decode
+05/07-18:26:24.214967, 46, TCP, stream_tcp, 16, S2C, 192.168.9.175:2404, 192.168.9.223:57955, 1:41069:4, allow, "PROTOCOL-SCADA IEC 104 Single command", Generic Protocol Command Decode
+05/07-18:26:24.214967, 46, TCP, stream_tcp, 16, S2C, 192.168.9.175:2404, 192.168.9.223:57955, 1:52150:1, allow, "PROTOCOL-SCADA IEC 104 M_SP_NA_1", Generic Protocol Command Decode
+05/07-18:26:24.214967, 46, TCP, stream_tcp, 16, S2C, 192.168.9.175:2404, 192.168.9.223:57955, 1:41070:4, allow, "PROTOCOL-SCADA IEC 104 Single point information", Generic Protocol Command Decode
+05/07-18:26:34.185001, 52, TCP, stream_tcp, 6, C2S, 192.168.9.223:57955, 192.168.9.175:2404, 1:41079:4, allow, "PROTOCOL-SCADA IEC 104 traffic to/from EXTERNAL_NET", Generic Protocol Command Decode
+05/07-18:26:34.185001, 52, TCP, stream_tcp, 6, C2S, 192.168.9.223:57955, 192.168.9.175:2404, 1:41078:4, allow, "PROTOCOL-SCADA IEC 104 traffic to/from EXTERNAL_NET", Generic Protocol Command Decode
+05/07-18:26:40.350904, 59, UDP, raw, 153, C2S, 192.168.9.223:65503, 239.255.255.250:1900, 1:1917:16, allow, "INDICATOR-SCAN UPnP service discover attempt", Detection of a Network Scan
+05/07-18:26:54.173293, 66, TCP, stream_tcp, 6, C2S, 192.168.9.223:57955, 192.168.9.175:2404, 1:41079:4, allow, "PROTOCOL-SCADA IEC 104 traffic to/from EXTERNAL_NET", Generic Protocol Command Decode
+05/07-18:26:54.173293, 66, TCP, stream_tcp, 6, C2S, 192.168.9.223:57955, 192.168.9.175:2404, 1:41078:4, allow, "PROTOCOL-SCADA IEC 104 traffic to/from EXTERNAL_NET", Generic Protocol Command Decode
+05/07-18:26:54.173293, 66, TCP, stream_tcp, 6, C2S, 192.168.9.223:57955, 192.168.9.175:2404, 1:41051:4, allow, "PROTOCOL-SCADA IEC 104 TESTFR ACT", Generic Protocol Command Decode
+05/07-18:26:54.179860, 67, TCP, stream_tcp, 6, S2C, 192.168.9.175:2404, 192.168.9.223:57955, 1:41052:4, allow, "PROTOCOL-SCADA IEC 104 TESTFR CON", Generic Protocol Command Decode
+05/07-18:27:14.198472, 75, TCP, stream_tcp, 6, S2C, 192.168.9.175:2404, 192.168.9.223:57955, 1:41051:4, allow, "PROTOCOL-SCADA IEC 104 TESTFR ACT", Generic Protocol Command Decode
+05/07-18:27:14.209386, 76, TCP, stream_tcp, 6, C2S, 192.168.9.223:57955, 192.168.9.175:2404, 1:41079:4, allow, "PROTOCOL-SCADA IEC 104 traffic to/from EXTERNAL_NET", Generic Protocol Command Decode
+05/07-18:27:14.209386, 76, TCP, stream_tcp, 6, C2S, 192.168.9.223:57955, 192.168.9.175:2404, 1:41078:4, allow, "PROTOCOL-SCADA IEC 104 traffic to/from EXTERNAL_NET", Generic Protocol Command Decode
+05/07-18:27:14.209386, 76, TCP, stream_tcp, 6, C2S, 192.168.9.223:57955, 192.168.9.175:2404, 1:41051:4, allow, "PROTOCOL-SCADA IEC 104 TESTFR ACT", Generic Protocol Command Decode
+05/07-18:27:14.214617, 77, TCP, stream_tcp, 6, S2C, 192.168.9.175:2404, 192.168.9.223:57955, 1:41052:4, allow, "PROTOCOL-SCADA IEC 104 TESTFR CON", Generic Protocol Command Decode
+05/07-18:27:14.219440, 78, TCP, stream_tcp, 6, C2S, 192.168.9.223:57955, 192.168.9.175:2404, 1:41079:4, allow, "PROTOCOL-SCADA IEC 104 traffic to/from EXTERNAL_NET", Generic Protocol Command Decode
+05/07-18:27:14.219440, 78, TCP, stream_tcp, 6, C2S, 192.168.9.223:57955, 192.168.9.175:2404, 1:41078:4, allow, "PROTOCOL-SCADA IEC 104 traffic to/from EXTERNAL_NET", Generic Protocol Command Decode
+05/07-18:27:14.219440, 78, TCP, stream_tcp, 6, C2S, 192.168.9.223:57955, 192.168.9.175:2404, 1:41052:4, allow, "PROTOCOL-SCADA IEC 104 TESTFR CON", Generic Protocol Command Decode
+05/07-18:27:30.531938, 87, TCP, stream_tcp, 20, C2S, 192.168.9.223:57955, 192.168.9.175:2404, 1:52176:1, allow, "PROTOCOL-SCADA IEC 104 C_SE_NC_1", Generic Protocol Command Decode
+05/07-18:27:30.531938, 87, TCP, stream_tcp, 20, C2S, 192.168.9.223:57955, 192.168.9.175:2404, 1:41079:4, allow, "PROTOCOL-SCADA IEC 104 traffic to/from EXTERNAL_NET", Generic Protocol Command Decode
+05/07-18:27:30.531938, 87, TCP, stream_tcp, 20, C2S, 192.168.9.223:57955, 192.168.9.175:2404, 1:41078:4, allow, "PROTOCOL-SCADA IEC 104 traffic to/from EXTERNAL_NET", Generic Protocol Command Decode
+05/07-18:27:30.547848, 88, TCP, stream_tcp, 20, S2C, 192.168.9.175:2404, 192.168.9.223:57955, 1:52176:1, allow, "PROTOCOL-SCADA IEC 104 C_SE_NC_1", Generic Protocol Command Decode
+05/07-18:27:30.594687, 90, TCP, stream_tcp, 20, S2C, 192.168.9.175:2404, 192.168.9.223:57955, 1:52176:1, allow, "PROTOCOL-SCADA IEC 104 C_SE_NC_1", Generic Protocol Command Decode
+05/07-18:27:30.594687, 90, TCP, stream_tcp, 20, S2C, 192.168.9.175:2404, 192.168.9.223:57955, 1:52158:1, allow, "PROTOCOL-SCADA IEC 104 M_ME_NC_1", Generic Protocol Command Decode
+05/07-18:27:40.575197, 94, TCP, stream_tcp, 6, C2S, 192.168.9.223:57955, 192.168.9.175:2404, 1:41079:4, allow, "PROTOCOL-SCADA IEC 104 traffic to/from EXTERNAL_NET", Generic Protocol Command Decode
+05/07-18:27:40.575197, 94, TCP, stream_tcp, 6, C2S, 192.168.9.223:57955, 192.168.9.175:2404, 1:41078:4, allow, "PROTOCOL-SCADA IEC 104 traffic to/from EXTERNAL_NET", Generic Protocol Command Decode
+05/07-18:27:46.056590, 99, UDP, raw, 198, C2S, 192.168.9.223:51038, 239.255.255.250:1900, 1:1917:16, allow, "INDICATOR-SCAN UPnP service discover attempt", Detection of a Network Scan
+05/07-18:27:46.063812, 100, UDP, raw, 203, C2S, 192.168.9.223:51044, 239.255.255.250:1900, 1:1917:16, allow, "INDICATOR-SCAN UPnP service discover attempt", Detection of a Network Scan
+05/07-18:27:46.065981, 101, UDP, raw, 203, C2S, 192.168.9.223:51043, 239.255.255.250:1900, 1:1917:16, allow, "INDICATOR-SCAN UPnP service discover attempt", Detection of a Network Scan
+05/07-18:27:47.055611, 102, UDP, raw, 198, C2S, 192.168.9.223:51038, 239.255.255.250:1900, 1:1917:16, allow, "INDICATOR-SCAN UPnP service discover attempt", Detection of a Network Scan
+05/07-18:27:47.064275, 103, UDP, raw, 203, C2S, 192.168.9.223:51044, 239.255.255.250:1900, 1:1917:16, allow, "INDICATOR-SCAN UPnP service discover attempt", Detection of a Network Scan
+05/07-18:27:47.066372, 104, UDP, raw, 203, C2S, 192.168.9.223:51043, 239.255.255.250:1900, 1:1917:16, allow, "INDICATOR-SCAN UPnP service discover attempt", Detection of a Network Scan
+05/07-18:27:48.056644, 106, UDP, raw, 198, C2S, 192.168.9.223:51038, 239.255.255.250:1900, 1:1917:16, allow, "INDICATOR-SCAN UPnP service discover attempt", Detection of a Network Scan
+05/07-18:27:48.064534, 107, UDP, raw, 203, C2S, 192.168.9.223:51044, 239.255.255.250:1900, 1:1917:16, allow, "INDICATOR-SCAN UPnP service discover attempt", Detection of a Network Scan
+05/07-18:27:48.069186, 108, UDP, raw, 203, C2S, 192.168.9.223:51043, 239.255.255.250:1900, 1:1917:16, allow, "INDICATOR-SCAN UPnP service discover attempt", Detection of a Network Scan
+05/07-18:27:49.059831, 109, UDP, raw, 198, C2S, 192.168.9.223:51038, 239.255.255.250:1900, 1:1917:16, allow, "INDICATOR-SCAN UPnP service discover attempt", Detection of a Network Scan
+05/07-18:27:49.065710, 110, UDP, raw, 203, C2S, 192.168.9.223:51044, 239.255.255.250:1900, 1:1917:16, allow, "INDICATOR-SCAN UPnP service discover attempt", Detection of a Network Scan
+05/07-18:27:49.068119, 111, UDP, raw, 203, C2S, 192.168.9.223:51043, 239.255.255.250:1900, 1:1917:16, allow, "INDICATOR-SCAN UPnP service discover attempt", Detection of a Network Scan
+05/07-18:28:00.563326, 121, TCP, stream_tcp, 6, C2S, 192.168.9.223:57955, 192.168.9.175:2404, 1:41079:4, allow, "PROTOCOL-SCADA IEC 104 traffic to/from EXTERNAL_NET", Generic Protocol Command Decode
+05/07-18:28:00.563326, 121, TCP, stream_tcp, 6, C2S, 192.168.9.223:57955, 192.168.9.175:2404, 1:41078:4, allow, "PROTOCOL-SCADA IEC 104 traffic to/from EXTERNAL_NET", Generic Protocol Command Decode
+05/07-18:28:00.563326, 121, TCP, stream_tcp, 6, C2S, 192.168.9.223:57955, 192.168.9.175:2404, 1:41051:4, allow, "PROTOCOL-SCADA IEC 104 TESTFR ACT", Generic Protocol Command Decode
+05/07-18:28:00.568343, 122, TCP, stream_tcp, 6, S2C, 192.168.9.175:2404, 192.168.9.223:57955, 1:41052:4, allow, "PROTOCOL-SCADA IEC 104 TESTFR CON", Generic Protocol Command Decode

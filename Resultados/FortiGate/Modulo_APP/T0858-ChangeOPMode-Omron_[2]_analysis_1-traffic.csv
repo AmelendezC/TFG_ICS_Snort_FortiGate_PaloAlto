@@ -1,0 +1,7 @@
+appid	sessionid	app	msg	apprisk	srcip	dstip	DeviceID
+51608	5723	Omron.FINS_Stop	Operational.Technology: Omron.FINS_Stop	elevated	192.168.1.134	192.168.1.135	
+51607	5723	Omron.FINS_Run	Operational.Technology: Omron.FINS_Run	elevated	192.168.1.134	192.168.1.135	
+51608	5723	Omron.FINS_Stop	Operational.Technology: Omron.FINS_Stop	elevated	192.168.1.134	192.168.1.135	
+51607	5723	Omron.FINS_Run	Operational.Technology: Omron.FINS_Run	elevated	192.168.1.134	192.168.1.135	
+51608	5723	Omron.FINS_Stop	Operational.Technology: Omron.FINS_Stop	elevated	192.168.1.134	192.168.1.135	
+51607	5723	Omron.FINS_Run	Operational.Technology: Omron.FINS_Run	elevated	192.168.1.134	192.168.1.135	

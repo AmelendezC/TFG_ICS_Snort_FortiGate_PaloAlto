@@ -1,0 +1,57 @@
+app	container_of_app	sessionid	subcategory_of_app	risk_of_app	proto	src_ip	dst_ip
+ms-ds-smbv1	ms-ds-smb	22598	storage-backup	3	tcp	192.168.1.135	192.168.1.201
+ms-ds-smbv1	ms-ds-smb	22596	storage-backup	3	tcp	192.168.1.135	192.168.1.201
+ssl		22595	encrypted-tunnel	4	tcp	192.168.1.135	192.168.1.201
+ssl		22593	encrypted-tunnel	4	tcp	192.168.1.135	192.168.1.201
+incomplete		22592	unknown	1	tcp	192.168.1.135	192.168.1.201
+insufficient-data		22601	unknown	1	tcp	192.168.1.135	192.168.1.201
+insufficient-data		22602	unknown	1	tcp	192.168.1.135	192.168.1.201
+insufficient-data		22603	unknown	1	tcp	192.168.1.135	192.168.1.201
+insufficient-data		22604	unknown	1	tcp	192.168.1.135	192.168.1.201
+insufficient-data		22605	unknown	1	tcp	192.168.1.135	192.168.1.201
+insufficient-data		22606	unknown	1	tcp	192.168.1.135	192.168.1.201
+insufficient-data		22607	unknown	1	tcp	192.168.1.135	192.168.1.201
+insufficient-data		22608	unknown	1	tcp	192.168.1.135	192.168.1.201
+insufficient-data		22609	unknown	1	tcp	192.168.1.135	192.168.1.201
+insufficient-data		22611	unknown	1	tcp	192.168.1.135	192.168.1.201
+insufficient-data		22612	unknown	1	tcp	192.168.1.135	192.168.1.201
+insufficient-data		22613	unknown	1	tcp	192.168.1.135	192.168.1.201
+insufficient-data		22616	unknown	1	tcp	192.168.1.135	192.168.1.201
+insufficient-data		22615	unknown	1	tcp	192.168.1.135	192.168.1.201
+insufficient-data		22617	unknown	1	tcp	192.168.1.135	192.168.1.201
+insufficient-data		22610	unknown	1	tcp	192.168.1.135	192.168.1.201
+insufficient-data		22619	unknown	1	tcp	192.168.1.135	192.168.1.201
+insufficient-data		22618	unknown	1	tcp	192.168.1.135	192.168.1.201
+ms-ds-smbv1	ms-ds-smb	22614	storage-backup	3	tcp	192.168.1.135	192.168.1.201
+ms-ds-smbv1	ms-ds-smb	22600	storage-backup	3	tcp	192.168.1.135	192.168.1.201
+ms-ds-smbv1	ms-ds-smb	22640	storage-backup	3	tcp	192.168.1.135	192.168.1.201
+ms-ds-smbv1	ms-ds-smb	22621	storage-backup	3	tcp	192.168.1.135	192.168.1.201
+insufficient-data		22638	unknown	1	tcp	192.168.1.135	192.168.1.201
+insufficient-data		22645	unknown	1	tcp	192.168.1.135	192.168.1.201
+insufficient-data		22644	unknown	1	tcp	192.168.1.135	192.168.1.201
+insufficient-data		22643	unknown	1	tcp	192.168.1.135	192.168.1.201
+insufficient-data		22641	unknown	1	tcp	192.168.1.135	192.168.1.201
+insufficient-data		22639	unknown	1	tcp	192.168.1.135	192.168.1.201
+insufficient-data		22642	unknown	1	tcp	192.168.1.135	192.168.1.201
+insufficient-data		22637	unknown	1	tcp	192.168.1.135	192.168.1.201
+insufficient-data		22636	unknown	1	tcp	192.168.1.135	192.168.1.201
+insufficient-data		22635	unknown	1	tcp	192.168.1.135	192.168.1.201
+insufficient-data		22634	unknown	1	tcp	192.168.1.135	192.168.1.201
+insufficient-data		22633	unknown	1	tcp	192.168.1.135	192.168.1.201
+insufficient-data		22632	unknown	1	tcp	192.168.1.135	192.168.1.201
+insufficient-data		22624	unknown	1	tcp	192.168.1.135	192.168.1.201
+insufficient-data		22631	unknown	1	tcp	192.168.1.135	192.168.1.201
+insufficient-data		22630	unknown	1	tcp	192.168.1.135	192.168.1.201
+insufficient-data		22629	unknown	1	tcp	192.168.1.135	192.168.1.201
+insufficient-data		22628	unknown	1	tcp	192.168.1.135	192.168.1.201
+insufficient-data		22627	unknown	1	tcp	192.168.1.135	192.168.1.201
+insufficient-data		22626	unknown	1	tcp	192.168.1.135	192.168.1.201
+insufficient-data		22625	unknown	1	tcp	192.168.1.135	192.168.1.201
+insufficient-data		22622	unknown	1	tcp	192.168.1.135	192.168.1.201
+insufficient-data		22623	unknown	1	tcp	192.168.1.135	192.168.1.201
+netbios-ns		22597	infrastructure	2	udp	192.168.1.135	192.168.1.201
+netbios-ns		22594	infrastructure	2	udp	192.168.1.135	192.168.1.201
+dns-base	dns	22591	infrastructure	3	udp	fe80::a00:27ff:fe1c:fa65	fe80::1
+ms-ds-smbv1	ms-ds-smb	22599	storage-backup	3	tcp	192.168.1.135	192.168.1.201
+ms-ds-smbv1	ms-ds-smb	22620	storage-backup	3	tcp	192.168.1.135	192.168.1.201
+ms-ds-smbv1	ms-ds-smb	22646	storage-backup	3	tcp	192.168.1.135	192.168.1.201

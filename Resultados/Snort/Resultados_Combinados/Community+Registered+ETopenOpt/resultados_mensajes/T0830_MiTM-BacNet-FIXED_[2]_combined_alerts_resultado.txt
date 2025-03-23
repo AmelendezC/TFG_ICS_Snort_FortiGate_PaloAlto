@@ -1,0 +1,23 @@
+Números de paquete distintos encontrados en el archivo T0830_MiTM-BacNet-FIXED_[2]_combined_alerts.txt:
+4914
+892
+394
+13791
+5367
+7543
+133
+136
+1
+4220
+14533
+5253
+1908
+167
+1306
+3194
+98
+10826
+5400
+1932
+5370
+Total de números de paquete distintos: 21

@@ -1,0 +1,15 @@
+07/02-19:24:30.577860, 7, TCP, stream_tcp, 87, C2S, 192.168.2.87:38551, 192.168.2.91:8088, 1:50447:1, allow, "POLICY-OTHER HTTP request by IPv4 address attempt", Potential Corporate Privacy Violation
+07/02-19:24:30.585921, 17, TCP, stream_tcp, 87, C2S, 192.168.2.87:43749, 192.168.2.91:8088, 1:50447:1, allow, "POLICY-OTHER HTTP request by IPv4 address attempt", Potential Corporate Privacy Violation
+07/02-19:24:34.325349, 124, TCP, raw, 168, S2C, 192.168.2.87:502, 192.168.2.91:60969, 1:15071:5, allow, "PROTOCOL-SCADA Modbus exception returned", Generic Protocol Command Decode
+07/02-19:24:34.624793, 155, TCP, raw, 1500, S2C, 192.168.2.87:502, 192.168.2.91:60969, 1:15071:5, allow, "PROTOCOL-SCADA Modbus exception returned", Generic Protocol Command Decode
+07/02-19:24:34.624793, 169, TCP, stream_tcp, 1460, S2C, 192.168.2.87:502, 192.168.2.91:60969, 1:15071:5, allow, "PROTOCOL-SCADA Modbus exception returned", Generic Protocol Command Decode
+07/02-19:24:34.692859, 212, TCP, raw, 152, S2C, 192.168.2.87:502, 192.168.2.91:60969, 1:15071:5, allow, "PROTOCOL-SCADA Modbus exception returned", Generic Protocol Command Decode
+07/02-19:24:35.134480, 259, TCP, raw, 808, S2C, 192.168.2.87:502, 192.168.2.91:60969, 1:15071:5, allow, "PROTOCOL-SCADA Modbus exception returned", Generic Protocol Command Decode
+07/02-19:24:37.051086, 267, UDP, raw, 203, C2S, 192.168.2.86:55802, 239.255.255.250:1900, 1:1917:16, allow, "INDICATOR-SCAN UPnP service discover attempt", Detection of a Network Scan
+07/02-19:24:37.915445, 272, TCP, raw, 152, S2C, 192.168.2.87:502, 192.168.2.91:60969, 1:15071:5, allow, "PROTOCOL-SCADA Modbus exception returned", Generic Protocol Command Decode
+07/02-19:24:37.977463, 276, TCP, raw, 152, S2C, 192.168.2.87:502, 192.168.2.91:60969, 1:15071:5, allow, "PROTOCOL-SCADA Modbus exception returned", Generic Protocol Command Decode
+07/02-19:24:38.051552, 280, UDP, raw, 203, C2S, 192.168.2.86:55802, 239.255.255.250:1900, 1:1917:16, allow, "INDICATOR-SCAN UPnP service discover attempt", Detection of a Network Scan
+07/02-19:24:39.052280, 281, UDP, raw, 203, C2S, 192.168.2.86:55802, 239.255.255.250:1900, 1:1917:16, allow, "INDICATOR-SCAN UPnP service discover attempt", Detection of a Network Scan
+07/02-19:24:40.052677, 283, UDP, raw, 203, C2S, 192.168.2.86:55802, 239.255.255.250:1900, 1:1917:16, allow, "INDICATOR-SCAN UPnP service discover attempt", Detection of a Network Scan
+07/02-19:24:41.234637, 284, TCP, raw, 152, S2C, 192.168.2.87:502, 192.168.2.91:60969, 1:15071:5, allow, "PROTOCOL-SCADA Modbus exception returned", Generic Protocol Command Decode
+07/02-19:24:46.605156, 299, TCP, raw, 152, S2C, 192.168.2.87:502, 192.168.2.91:60969, 1:15071:5, allow, "PROTOCOL-SCADA Modbus exception returned", Generic Protocol Command Decode

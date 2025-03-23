@@ -1,0 +1,2 @@
+Número total de flujos distintos en T0861-InfoCollect-OPCUA_[2]_alert_csv.txt: 1
+

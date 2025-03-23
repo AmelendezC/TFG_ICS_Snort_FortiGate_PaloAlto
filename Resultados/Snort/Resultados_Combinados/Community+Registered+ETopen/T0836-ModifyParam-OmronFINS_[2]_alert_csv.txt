@@ -1,0 +1,3 @@
+04/24-20:43:35.460002, 7, UDP, raw, 48, C2S, 192.168.1.134:62888, 192.168.1.135:9600, 1:15389:5, allow, "PROTOCOL-SCADA OMRON-FINS memory area write attempt", Generic Protocol Command Decode
+04/24-20:55:54.439029, 8, UDP, raw, 48, C2S, 192.168.1.134:61263, 192.168.1.135:9600, 1:15390:5, allow, "PROTOCOL-SCADA OMRON-FINS memory area fill attempt", Generic Protocol Command Decode
+04/24-21:00:14.291621, 10, UDP, raw, 50, C2S, 192.168.1.134:59386, 192.168.1.135:9600, 1:15391:5, allow, "PROTOCOL-SCADA OMRON-FINS memory area transfer attempt", Generic Protocol Command Decode

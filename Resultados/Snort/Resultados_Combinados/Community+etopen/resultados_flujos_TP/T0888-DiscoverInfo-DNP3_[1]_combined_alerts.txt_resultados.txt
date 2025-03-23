@@ -1,0 +1,2 @@
+Número total de flujos distintos en T0888-DiscoverInfo-DNP3_[1]_combined_alerts.txt (sin los SIDs 2012648 1917): 1
+

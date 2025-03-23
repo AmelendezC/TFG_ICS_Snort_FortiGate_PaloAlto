@@ -1,0 +1,2 @@
+Número total de flujos distintos en T0858-ChangeOPMode-Omron_[2]_alert_fast.txt: 1
+

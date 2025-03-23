@@ -1,0 +1,2 @@
+Número total de flujos distintos en T0846-Discovery-IEC104_[2]_combined_alerts.txt: 1
+192.168.1.134:57621 -> 192.168.1.255:57621

@@ -1,0 +1,7 @@
+appid	sessionid	app	msg	apprisk	srcip	dstip	DeviceID
+48887	4915	Modbus_Func15.Write.MultiCoils.Validation	Operational.Technology: Modbus_Func15.Write.MultiCoils.Validation	elevated	192.168.100.2	192.168.100.3	
+25890	4915	Modbus_Write.Multiple.Coils	Operational.Technology: Modbus_Write.Multiple.Coils	elevated	192.168.100.2	192.168.100.3	
+25890	4915	Modbus_Write.Multiple.Coils	Operational.Technology: Modbus_Write.Multiple.Coils	elevated	192.168.100.2	192.168.100.3	
+25890	4915	Modbus_Write.Multiple.Coils	Operational.Technology: Modbus_Write.Multiple.Coils	elevated	192.168.100.2	192.168.100.3	
+48887	4915	Modbus_Func15.Write.MultiCoils.Validation	Operational.Technology: Modbus_Func15.Write.MultiCoils.Validation	elevated	192.168.100.2	192.168.100.3	
+16938	4915	Modbus	Operational.Technology: Modbus	elevated	192.168.100.2	192.168.100.3	

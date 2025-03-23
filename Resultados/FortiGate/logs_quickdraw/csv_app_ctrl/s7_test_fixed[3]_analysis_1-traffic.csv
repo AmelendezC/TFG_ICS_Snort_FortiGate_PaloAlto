@@ -1,0 +1,12 @@
+appid	sessionid	app	msg	apprisk	srcip	dstip	DeviceID
+42210	24349953	S7.Protocol_Setup.Communication	Operational.Technology: S7.Protocol_Setup.Communication	elevated	192.168.10.201	192.168.10.90	
+42210	24349953	S7.Protocol_Setup.Communication	Operational.Technology: S7.Protocol_Setup.Communication	elevated	192.168.10.201	192.168.10.90	
+42225	24349953	S7.Protocol_CPU.Function.Read.SZL	Operational.Technology: S7.Protocol_CPU.Function.Read.SZL	elevated	192.168.10.201	192.168.10.90	
+42225	24349953	S7.Protocol_CPU.Function.Read.SZL	Operational.Technology: S7.Protocol_CPU.Function.Read.SZL	elevated	192.168.10.201	192.168.10.90	
+42225	24349953	S7.Protocol_CPU.Function.Read.SZL	Operational.Technology: S7.Protocol_CPU.Function.Read.SZL	elevated	192.168.10.201	192.168.10.90	
+10000166	24349953	Siemens.Devices	IoT: Siemens.Devices	low	192.168.10.201	192.168.10.90	
+42225	24349953	S7.Protocol_CPU.Function.Read.SZL	Operational.Technology: S7.Protocol_CPU.Function.Read.SZL	elevated	192.168.10.201	192.168.10.90	
+42225	24349953	S7.Protocol_CPU.Function.Read.SZL	Operational.Technology: S7.Protocol_CPU.Function.Read.SZL	elevated	192.168.10.201	192.168.10.90	
+42225	24349953	S7.Protocol_CPU.Function.Read.SZL	Operational.Technology: S7.Protocol_CPU.Function.Read.SZL	elevated	192.168.10.201	192.168.10.90	
+42210	24349952	S7.Protocol_Setup.Communication	Operational.Technology: S7.Protocol_Setup.Communication	elevated	192.168.10.201	192.168.10.90	
+42210	24349952	S7.Protocol_Setup.Communication	Operational.Technology: S7.Protocol_Setup.Communication	elevated	192.168.10.201	192.168.10.90	

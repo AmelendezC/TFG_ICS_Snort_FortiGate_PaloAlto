@@ -1,0 +1,8 @@
+ID_regla	sessionid	repeatcnt	severity_number	Nombre_regla	thread_category	prot	src_ip	dst_ip	log_subtype	extra_data
+30520	1819	1	1	HTTP OPTIONS Method	info-leak	tcp	192.168.1.156	192.168.1.134	vulnerability	
+94318	1827	1	2	Nmap Aggressive Option Print Detection	hacktool	tcp	192.168.1.156	192.168.1.134	vulnerability	
+35364	1829	1	1	Microsoft Windows SMB Negotiate Request	brute-force	tcp	192.168.1.156	192.168.1.134	vulnerability	
+92546	1846	1	1	IEC-60870-5-104 Traffic Detection	protocol-anomaly	tcp	192.168.1.156	192.168.1.134	vulnerability	
+9999	1818	1	1		N/A	tcp	192.168.1.156	192.168.1.134	url	
+9999	1819	1	1		N/A	tcp	192.168.1.156	192.168.1.134	url	
+9999	1831	1	1		N/A	tcp	192.168.1.156	192.168.1.134	url	

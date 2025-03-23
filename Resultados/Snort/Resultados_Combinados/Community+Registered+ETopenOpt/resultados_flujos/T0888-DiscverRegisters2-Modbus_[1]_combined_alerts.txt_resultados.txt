@@ -1,0 +1,2 @@
+Número total de flujos distintos en T0888-DiscverRegisters2-Modbus_[1]_combined_alerts.txt: 1
+192.168.100.2:38837 -> 192.168.100.3:502

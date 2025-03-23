@@ -1,0 +1,182 @@
+app	container_of_app	sessionid	subcategory_of_app	risk_of_app	proto	src_ip	dst_ip
+icmp		486310	ip-protocol	4	icmp	10.200.1.233	10.200.1.15
+insufficient-data		478672	unknown	1	udp	10.200.1.127	10.200.1.15
+insufficient-data		484414	unknown	1	udp	10.200.1.127	10.200.1.15
+insufficient-data		485685	unknown	1	udp	10.200.1.127	10.200.1.15
+insufficient-data		486290	unknown	1	udp	10.200.1.127	10.200.1.15
+insufficient-data		486040	unknown	1	udp	10.200.1.233	10.200.1.15
+insufficient-data		485993	unknown	1	udp	10.200.1.233	10.200.1.15
+insufficient-data		484485	unknown	1	udp	10.200.1.174	10.200.1.15
+insufficient-data		486254	unknown	1	udp	10.200.1.174	10.200.1.15
+insufficient-data		486306	unknown	1	udp	10.200.1.174	10.200.1.15
+insufficient-data		484890	unknown	1	udp	10.200.1.174	10.200.1.15
+insufficient-data		484187	unknown	1	udp	10.200.1.127	10.200.1.15
+insufficient-data		485660	unknown	1	udp	10.200.1.127	10.200.1.15
+insufficient-data		484470	unknown	1	udp	10.200.1.127	10.200.1.15
+insufficient-data		485457	unknown	1	udp	10.200.1.127	10.200.1.15
+insufficient-data		485808	unknown	1	udp	10.200.1.127	10.200.1.15
+insufficient-data		486058	unknown	1	udp	10.200.1.127	10.200.1.15
+insufficient-data		486062	unknown	1	udp	10.200.1.127	10.200.1.15
+insufficient-data		485944	unknown	1	udp	10.200.1.127	10.200.1.15
+insufficient-data		486036	unknown	1	udp	10.200.1.127	10.200.1.15
+insufficient-data		485946	unknown	1	udp	10.200.1.174	10.200.1.15
+insufficient-data		485996	unknown	1	udp	10.200.1.174	10.200.1.15
+insufficient-data		486039	unknown	1	udp	10.200.1.174	10.200.1.15
+insufficient-data		485763	unknown	1	udp	10.200.1.174	10.200.1.15
+insufficient-data		486059	unknown	1	udp	10.200.1.181	10.200.1.15
+insufficient-data		484859	unknown	1	udp	10.200.1.181	10.200.1.15
+insufficient-data		485715	unknown	1	udp	10.200.1.174	10.200.1.15
+insufficient-data		485565	unknown	1	udp	10.200.1.174	10.200.1.15
+insufficient-data		485982	unknown	1	udp	10.200.1.174	10.200.1.15
+insufficient-data		484818	unknown	1	udp	10.200.1.174	10.200.1.15
+insufficient-data		486365	unknown	1	udp	10.200.1.174	10.200.1.15
+insufficient-data		486023	unknown	1	udp	10.200.1.174	10.200.1.15
+insufficient-data		487383	unknown	1	udp	10.200.1.181	10.200.1.15
+insufficient-data		486388	unknown	1	udp	10.200.1.181	10.200.1.15
+insufficient-data		484419	unknown	1	udp	10.200.1.110	10.200.1.15
+insufficient-data		485782	unknown	1	udp	10.200.1.110	10.200.1.15
+insufficient-data		486073	unknown	1	udp	10.200.1.110	10.200.1.15
+insufficient-data		486106	unknown	1	udp	10.200.1.110	10.200.1.15
+insufficient-data		485872	unknown	1	udp	10.200.1.110	10.200.1.15
+insufficient-data		485860	unknown	1	udp	10.200.1.110	10.200.1.15
+insufficient-data		486042	unknown	1	udp	10.200.1.110	10.200.1.15
+portmapper		486080	infrastructure	3	udp	10.200.1.174	10.200.1.15
+insufficient-data		485849	unknown	1	udp	10.200.1.127	10.200.1.15
+insufficient-data		485817	unknown	1	udp	10.200.1.127	10.200.1.15
+insufficient-data		484422	unknown	1	udp	10.200.1.127	10.200.1.15
+insufficient-data		487121	unknown	1	udp	10.200.1.127	10.200.1.15
+insufficient-data		486884	unknown	1	udp	10.200.1.233	10.200.1.15
+insufficient-data		486121	unknown	1	udp	10.200.1.233	10.200.1.15
+insufficient-data		486096	unknown	1	udp	10.200.1.127	10.200.1.15
+insufficient-data		486140	unknown	1	udp	10.200.1.127	10.200.1.15
+insufficient-data		485883	unknown	1	udp	10.200.1.205	10.200.1.15
+insufficient-data		485850	unknown	1	udp	10.200.1.205	10.200.1.15
+insufficient-data		485968	unknown	1	udp	10.200.1.205	10.200.1.15
+insufficient-data		486133	unknown	1	udp	10.200.1.205	10.200.1.15
+insufficient-data		485913	unknown	1	udp	10.200.1.205	10.200.1.15
+insufficient-data		485941	unknown	1	udp	10.200.1.205	10.200.1.15
+insufficient-data		485716	unknown	1	udp	10.200.1.205	10.200.1.15
+insufficient-data		485974	unknown	1	udp	10.200.1.205	10.200.1.15
+insufficient-data		486088	unknown	1	udp	10.200.1.168	10.200.1.15
+insufficient-data		487104	unknown	1	udp	10.200.1.168	10.200.1.15
+insufficient-data		486207	unknown	1	udp	10.200.1.233	10.200.1.15
+insufficient-data		486064	unknown	1	udp	10.200.1.233	10.200.1.15
+insufficient-data		485730	unknown	1	udp	10.200.1.233	10.200.1.15
+insufficient-data		486261	unknown	1	udp	10.200.1.233	10.200.1.15
+insufficient-data		486115	unknown	1	udp	10.200.1.127	10.200.1.15
+insufficient-data		485899	unknown	1	udp	10.200.1.127	10.200.1.15
+insufficient-data		485980	unknown	1	udp	10.200.1.174	10.200.1.15
+insufficient-data		486072	unknown	1	udp	10.200.1.174	10.200.1.15
+insufficient-data		487528	unknown	1	udp	10.200.1.174	10.200.1.15
+insufficient-data		485816	unknown	1	udp	10.200.1.174	10.200.1.15
+bacnet-complex-ack	bacnet	485518	ics-protocols	1	udp	10.200.1.205	10.200.1.15
+insufficient-data		484895	unknown	1	udp	10.200.1.205	10.200.1.15
+insufficient-data		486008	unknown	1	udp	10.200.1.205	10.200.1.15
+insufficient-data		485684	unknown	1	udp	10.200.1.86	10.200.1.15
+insufficient-data		484943	unknown	1	udp	10.200.1.86	10.200.1.15
+bacnet-complex-ack	bacnet	485690	ics-protocols	1	udp	10.200.1.86	10.200.1.15
+insufficient-data		485902	unknown	1	udp	10.200.1.233	10.200.1.15
+insufficient-data		486041	unknown	1	udp	10.200.1.233	10.200.1.15
+insufficient-data		487047	unknown	1	udp	10.200.1.233	10.200.1.15
+insufficient-data		486004	unknown	1	udp	10.200.1.233	10.200.1.15
+insufficient-data		485719	unknown	1	udp	10.200.1.210	10.200.1.15
+insufficient-data		486028	unknown	1	udp	10.200.1.210	10.200.1.15
+insufficient-data		485992	unknown	1	udp	10.200.1.210	10.200.1.15
+insufficient-data		486124	unknown	1	udp	10.200.1.168	10.200.1.15
+insufficient-data		485893	unknown	1	udp	10.200.1.168	10.200.1.15
+insufficient-data		486037	unknown	1	udp	10.200.1.174	10.200.1.15
+insufficient-data		485889	unknown	1	udp	10.200.1.174	10.200.1.15
+insufficient-data		487340	unknown	1	udp	10.200.1.174	10.200.1.15
+insufficient-data		487339	unknown	1	udp	10.200.1.174	10.200.1.15
+insufficient-data		485965	unknown	1	udp	10.200.1.174	10.200.1.15
+insufficient-data		485717	unknown	1	udp	10.200.1.174	10.200.1.15
+insufficient-data		485800	unknown	1	udp	10.200.1.174	10.200.1.15
+unknown-udp		486013	unknown	1	udp	10.200.1.77	10.200.1.15
+bacnet-complex-ack	bacnet	486118	ics-protocols	1	udp	10.200.1.59	10.200.1.15
+insufficient-data		486095	unknown	1	udp	10.200.1.181	10.200.1.15
+insufficient-data		486006	unknown	1	udp	10.200.1.181	10.200.1.15
+insufficient-data		485501	unknown	1	udp	10.200.1.40	10.200.1.15
+insufficient-data		487013	unknown	1	udp	10.200.1.40	10.200.1.15
+bacnet-base	bacnet	485731	ics-protocols	1	udp	10.200.1.15	10.200.1.40
+insufficient-data		486022	unknown	1	udp	10.200.1.40	10.200.1.15
+insufficient-data		485804	unknown	1	udp	10.200.1.40	10.200.1.15
+insufficient-data		485776	unknown	1	udp	10.200.1.174	10.200.1.15
+insufficient-data		485870	unknown	1	udp	10.200.1.174	10.200.1.15
+insufficient-data		485440	unknown	1	udp	10.200.1.174	10.200.1.15
+insufficient-data		486017	unknown	1	udp	10.200.1.174	10.200.1.15
+insufficient-data		485912	unknown	1	udp	10.200.1.174	10.200.1.15
+insufficient-data		486162	unknown	1	udp	10.200.1.174	10.200.1.15
+insufficient-data		485874	unknown	1	udp	10.200.1.174	10.200.1.15
+insufficient-data		485753	unknown	1	udp	10.200.1.174	10.200.1.15
+insufficient-data		484403	unknown	1	udp	10.200.1.174	10.200.1.15
+insufficient-data		486021	unknown	1	udp	10.200.1.174	10.200.1.15
+insufficient-data		486083	unknown	1	udp	10.200.1.174	10.200.1.15
+insufficient-data		485868	unknown	1	udp	10.200.1.174	10.200.1.15
+bacnet-base	bacnet	485957	ics-protocols	1	udp	10.200.1.77	10.200.1.15
+bacnet-base	bacnet	486130	ics-protocols	1	udp	10.200.1.77	10.200.1.15
+bacnet-i-am	bacnet	484503	ics-protocols	1	udp	10.200.1.15	10.200.1.233
+bacnet-complex-ack	bacnet	485639	ics-protocols	1	udp	10.200.1.174	10.200.1.15
+insufficient-data		485896	unknown	1	udp	10.200.1.181	10.200.1.15
+insufficient-data		485934	unknown	1	udp	10.200.1.181	10.200.1.15
+insufficient-data		485844	unknown	1	udp	10.200.1.181	10.200.1.15
+insufficient-data		485910	unknown	1	udp	10.200.1.86	10.200.1.15
+insufficient-data		486089	unknown	1	udp	10.200.1.86	10.200.1.15
+bacnet-complex-ack	bacnet	485960	ics-protocols	1	udp	10.200.1.86	10.200.1.15
+insufficient-data		485739	unknown	1	udp	10.200.1.86	10.200.1.15
+insufficient-data		485843	unknown	1	udp	10.200.1.86	10.200.1.15
+insufficient-data		485014	unknown	1	udp	10.200.1.86	10.200.1.15
+insufficient-data		485949	unknown	1	udp	10.200.1.86	10.200.1.15
+bacnet-complex-ack	bacnet	487123	ics-protocols	1	udp	10.200.1.86	10.200.1.15
+insufficient-data		487336	unknown	1	udp	10.200.1.86	10.200.1.15
+insufficient-data		486051	unknown	1	udp	10.200.1.86	10.200.1.15
+unknown-udp		485877	unknown	1	udp	10.200.1.174	10.200.1.15
+unknown-udp		487408	unknown	1	udp	10.200.1.168	10.200.1.15
+insufficient-data		485498	unknown	1	udp	10.200.1.127	10.200.1.15
+insufficient-data		486199	unknown	1	udp	10.200.1.127	10.200.1.15
+insufficient-data		486208	unknown	1	udp	10.200.1.127	10.200.1.15
+insufficient-data		486154	unknown	1	udp	10.200.1.127	10.200.1.15
+insufficient-data		486138	unknown	1	udp	10.200.1.127	10.200.1.15
+insufficient-data		486046	unknown	1	udp	10.200.1.127	10.200.1.15
+insufficient-data		486027	unknown	1	udp	10.200.1.127	10.200.1.15
+insufficient-data		486032	unknown	1	udp	10.200.1.127	10.200.1.15
+insufficient-data		486184	unknown	1	udp	10.200.1.127	10.200.1.15
+insufficient-data		486075	unknown	1	udp	10.200.1.127	10.200.1.15
+bacnet-complex-ack	bacnet	486152	ics-protocols	1	udp	10.200.1.251	10.200.1.15
+insufficient-data		487122	unknown	1	udp	10.200.1.168	10.200.1.15
+insufficient-data		486203	unknown	1	udp	10.200.1.168	10.200.1.15
+insufficient-data		486206	unknown	1	udp	10.200.1.210	10.200.1.15
+insufficient-data		485484	unknown	1	udp	10.200.1.210	10.200.1.15
+bacnet-complex-ack	bacnet	485775	ics-protocols	1	udp	10.200.1.127	10.200.1.15
+bacnet-complex-ack	bacnet	486049	ics-protocols	1	udp	10.200.1.54	10.200.1.15
+insufficient-data		487155	unknown	1	udp	10.200.1.181	10.200.1.15
+insufficient-data		485483	unknown	1	udp	10.200.1.181	10.200.1.15
+insufficient-data		486205	unknown	1	udp	10.200.1.181	10.200.1.15
+insufficient-data		485485	unknown	1	udp	10.200.1.181	10.200.1.15
+insufficient-data		486183	unknown	1	udp	10.200.1.233	10.200.1.15
+insufficient-data		486186	unknown	1	udp	10.200.1.233	10.200.1.15
+insufficient-data		486123	unknown	1	udp	10.200.1.168	10.200.1.15
+insufficient-data		486189	unknown	1	udp	10.200.1.233	10.200.1.15
+insufficient-data		485482	unknown	1	udp	10.200.1.233	10.200.1.15
+insufficient-data		485489	unknown	1	udp	10.200.1.233	10.200.1.15
+insufficient-data		486193	unknown	1	udp	10.200.1.233	10.200.1.15
+bacnet-complex-ack	bacnet	485833	ics-protocols	1	udp	10.200.1.233	10.200.1.15
+bacnet-complex-ack	bacnet	485895	ics-protocols	1	udp	10.200.1.169	10.200.1.15
+bacnet-complex-ack	bacnet	485922	ics-protocols	1	udp	10.200.1.181	10.200.1.15
+bacnet-complex-ack	bacnet	486052	ics-protocols	1	udp	10.200.1.58	10.200.1.15
+bacnet-read-property	bacnet	485723	ics-protocols	1	udp	10.200.1.168	10.200.1.15
+bacnet-complex-ack	bacnet	486218	ics-protocols	1	udp	10.200.1.128	10.200.1.15
+bacnet-complex-ack	bacnet	484806	ics-protocols	1	udp	10.200.1.210	10.200.1.15
+bacnet-base	bacnet	486114	ics-protocols	1	udp	10.200.1.77	10.200.1.15
+insufficient-data		486085	unknown	1	udp	10.200.1.15	10.200.1.77
+bacnet-i-am	bacnet	485467	ics-protocols	1	udp	10.200.1.15	10.200.1.127
+bacnet-i-am	bacnet	484341	ics-protocols	1	udp	10.200.1.15	10.200.1.232
+bacnet-base	bacnet	486324	ics-protocols	1	udp	104.130.52.9	10.200.1.15
+bacnet-complex-ack	bacnet	486018	ics-protocols	1	udp	10.200.1.166	10.200.1.15
+bacnet-complex-ack	bacnet	485978	ics-protocols	1	udp	10.200.1.124	10.200.1.15
+web-browsing		482024	internet-utility	4	tcp	10.200.1.193	10.50.1.52
+web-browsing		485265	internet-utility	4	tcp	10.200.1.193	10.50.1.52
+web-browsing		485635	internet-utility	4	tcp	10.200.1.193	10.50.1.52
+web-browsing		484619	internet-utility	4	tcp	10.200.1.86	10.50.1.52
+web-browsing		484581	internet-utility	4	tcp	10.200.1.86	10.50.1.52
+web-browsing		484603	internet-utility	4	tcp	10.200.1.86	10.50.1.52
+web-browsing		483778	internet-utility	4	tcp	10.200.1.86	10.50.1.52

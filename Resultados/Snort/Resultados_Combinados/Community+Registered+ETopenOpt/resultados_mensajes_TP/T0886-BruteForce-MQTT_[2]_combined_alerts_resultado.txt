@@ -1,0 +1,2 @@
+Números de paquete distintos encontrados en el archivo T0886-BruteForce-MQTT_[2]_combined_alerts.txt (excluyendo SIDs 1917|24303|57155|40517|2002752|2002749|2009207|2009208|2009206|2012648|2100527):
+Total de números de paquete distintos: 0

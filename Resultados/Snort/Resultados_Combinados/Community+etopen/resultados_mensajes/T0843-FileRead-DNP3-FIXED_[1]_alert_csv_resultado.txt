@@ -1,0 +1,18 @@
+Números de paquete distintos encontrados en el archivo T0843-FileRead-DNP3-FIXED_[1]_alert_csv.txt:
+80
+88
+78
+70
+74
+555
+639
+636
+661
+583
+93
+97
+686
+608
+717
+66
+Total de números de paquete distintos: 16

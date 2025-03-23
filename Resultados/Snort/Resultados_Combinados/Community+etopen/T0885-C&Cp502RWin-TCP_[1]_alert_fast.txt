@@ -1,0 +1,4 @@
+05/08-12:23:12.117732 [**] [1:1917:16] "INDICATOR-SCAN UPnP service discover attempt" [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 192.168.2.86:54066 -> 239.255.255.250:1900
+05/08-12:23:13.118964 [**] [1:1917:16] "INDICATOR-SCAN UPnP service discover attempt" [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 192.168.2.86:54066 -> 239.255.255.250:1900
+05/08-12:23:14.119785 [**] [1:1917:16] "INDICATOR-SCAN UPnP service discover attempt" [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 192.168.2.86:54066 -> 239.255.255.250:1900
+05/08-12:23:15.121065 [**] [1:1917:16] "INDICATOR-SCAN UPnP service discover attempt" [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 192.168.2.86:54066 -> 239.255.255.250:1900

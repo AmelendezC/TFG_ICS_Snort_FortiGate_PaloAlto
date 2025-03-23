@@ -1,0 +1,8 @@
+appid	sessionid	app	msg	apprisk	srcip	dstip	DeviceID
+25873	5579	Modbus_Read.Input.Registers	Operational.Technology: Modbus_Read.Input.Registers	elevated	192.168.100.2	192.168.100.3	
+48884	5579	Modbus_Func04.Read.Input.Validation	Operational.Technology: Modbus_Func04.Read.Input.Validation	elevated	192.168.100.2	192.168.100.3	
+25873	5579	Modbus_Read.Input.Registers	Operational.Technology: Modbus_Read.Input.Registers	elevated	192.168.100.2	192.168.100.3	
+25873	5579	Modbus_Read.Input.Registers	Operational.Technology: Modbus_Read.Input.Registers	elevated	192.168.100.2	192.168.100.3	
+41282	5579	Modbus_Read.Input.Registers.Error	Operational.Technology: Modbus_Read.Input.Registers.Error	elevated	192.168.100.2	192.168.100.3	
+40034	5579	Modbus_Exception.Illegal.Function	Operational.Technology: Modbus_Exception.Illegal.Function	elevated	192.168.100.2	192.168.100.3	
+40034	5579	Modbus_Exception.Illegal.Function	Operational.Technology: Modbus_Exception.Illegal.Function	elevated	192.168.100.2	192.168.100.3	

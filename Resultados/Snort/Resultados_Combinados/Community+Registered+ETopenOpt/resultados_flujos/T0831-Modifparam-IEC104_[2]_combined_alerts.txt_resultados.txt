@@ -1,0 +1,3 @@
+Número total de flujos distintos en T0831-Modifparam-IEC104_[2]_combined_alerts.txt: 2
+192.168.9.175:2404 -> 192.168.9.223:57955
+192.168.9.175:57621 -> 192.168.9.223:57621

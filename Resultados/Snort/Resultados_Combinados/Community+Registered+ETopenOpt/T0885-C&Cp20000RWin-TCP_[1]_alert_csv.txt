@@ -1,0 +1,3 @@
+06/05-20:37:05.720841, 7, TCP, raw, 7292, C2S, 192.168.2.87:45727, 192.168.2.92:912, 1:18659:10, allow, "PROTOCOL-SCADA RealWin 2.1 SCPC_INITIALIZE overflow attempt", Attempted Administrator Privilege Gain
+06/05-20:37:05.807906, 41, TCP, stream_tcp, 20440, S2C, 192.168.2.87:20000, 192.168.2.92:1104, 1:58160:1, allow, "INDICATOR-SHELLCODE Metasploit windows/meterpreter stage transfer attempt", Executable code was detected
+06/05-20:37:05.807906, 41, TCP, raw, 20480, S2C, 192.168.2.87:20000, 192.168.2.92:1104, 1:58160:1, allow, "INDICATOR-SHELLCODE Metasploit windows/meterpreter stage transfer attempt", Executable code was detected

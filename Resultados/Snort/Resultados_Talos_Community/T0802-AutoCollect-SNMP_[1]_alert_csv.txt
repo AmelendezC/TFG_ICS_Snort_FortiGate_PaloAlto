@@ -1,0 +1,90 @@
+04/14-19:27:32.226167, 13, UDP, raw, 71, C2S, 192.168.1.190:59887, 192.168.1.191:161, 1:1411:21, allow, "PROTOCOL-SNMP public access udp", Attempted Information Leak
+04/14-19:27:32.226167, 13, UDP, raw, 71, C2S, 192.168.1.190:59887, 192.168.1.191:161, 1:1417:18, allow, "PROTOCOL-SNMP request udp", Attempted Information Leak
+04/14-19:27:32.261135, 17, UDP, raw, 71, C2S, 192.168.1.190:59887, 192.168.1.191:161, 1:1411:21, allow, "PROTOCOL-SNMP public access udp", Attempted Information Leak
+04/14-19:27:32.261135, 17, UDP, raw, 71, C2S, 192.168.1.190:59887, 192.168.1.191:161, 1:1417:18, allow, "PROTOCOL-SNMP request udp", Attempted Information Leak
+04/14-19:27:32.273521, 19, UDP, raw, 71, C2S, 192.168.1.190:59887, 192.168.1.191:161, 1:1411:21, allow, "PROTOCOL-SNMP public access udp", Attempted Information Leak
+04/14-19:27:32.273521, 19, UDP, raw, 71, C2S, 192.168.1.190:59887, 192.168.1.191:161, 1:1417:18, allow, "PROTOCOL-SNMP request udp", Attempted Information Leak
+04/14-19:27:32.289585, 21, UDP, raw, 71, C2S, 192.168.1.190:59887, 192.168.1.191:161, 1:1411:21, allow, "PROTOCOL-SNMP public access udp", Attempted Information Leak
+04/14-19:27:32.289585, 21, UDP, raw, 71, C2S, 192.168.1.190:59887, 192.168.1.191:161, 1:1417:18, allow, "PROTOCOL-SNMP request udp", Attempted Information Leak
+04/14-19:27:32.305577, 23, UDP, raw, 71, C2S, 192.168.1.190:59887, 192.168.1.191:161, 1:1411:21, allow, "PROTOCOL-SNMP public access udp", Attempted Information Leak
+04/14-19:27:32.305577, 23, UDP, raw, 71, C2S, 192.168.1.190:59887, 192.168.1.191:161, 1:1417:18, allow, "PROTOCOL-SNMP request udp", Attempted Information Leak
+04/14-19:27:32.321420, 25, UDP, raw, 72, C2S, 192.168.1.190:59887, 192.168.1.191:161, 1:1411:21, allow, "PROTOCOL-SNMP public access udp", Attempted Information Leak
+04/14-19:27:32.321420, 25, UDP, raw, 72, C2S, 192.168.1.190:59887, 192.168.1.191:161, 1:1417:18, allow, "PROTOCOL-SNMP request udp", Attempted Information Leak
+04/14-19:27:32.337330, 27, UDP, raw, 72, C2S, 192.168.1.190:59887, 192.168.1.191:161, 1:1411:21, allow, "PROTOCOL-SNMP public access udp", Attempted Information Leak
+04/14-19:27:32.337330, 27, UDP, raw, 72, C2S, 192.168.1.190:59887, 192.168.1.191:161, 1:1417:18, allow, "PROTOCOL-SNMP request udp", Attempted Information Leak
+04/14-19:27:32.353270, 29, UDP, raw, 71, C2S, 192.168.1.190:59887, 192.168.1.191:161, 1:1411:21, allow, "PROTOCOL-SNMP public access udp", Attempted Information Leak
+04/14-19:27:32.353270, 29, UDP, raw, 71, C2S, 192.168.1.190:59887, 192.168.1.191:161, 1:1417:18, allow, "PROTOCOL-SNMP request udp", Attempted Information Leak
+04/14-19:27:32.369238, 31, UDP, raw, 71, C2S, 192.168.1.190:59887, 192.168.1.191:161, 1:1411:21, allow, "PROTOCOL-SNMP public access udp", Attempted Information Leak
+04/14-19:27:32.369238, 31, UDP, raw, 71, C2S, 192.168.1.190:59887, 192.168.1.191:161, 1:1417:18, allow, "PROTOCOL-SNMP request udp", Attempted Information Leak
+04/14-19:27:32.384242, 33, UDP, raw, 71, C2S, 192.168.1.190:59887, 192.168.1.191:161, 1:1411:21, allow, "PROTOCOL-SNMP public access udp", Attempted Information Leak
+04/14-19:27:32.384242, 33, UDP, raw, 71, C2S, 192.168.1.190:59887, 192.168.1.191:161, 1:1417:18, allow, "PROTOCOL-SNMP request udp", Attempted Information Leak
+04/14-19:27:32.400124, 35, UDP, raw, 71, C2S, 192.168.1.190:59887, 192.168.1.191:161, 1:1411:21, allow, "PROTOCOL-SNMP public access udp", Attempted Information Leak
+04/14-19:27:32.400124, 35, UDP, raw, 71, C2S, 192.168.1.190:59887, 192.168.1.191:161, 1:1417:18, allow, "PROTOCOL-SNMP request udp", Attempted Information Leak
+04/14-19:27:32.416148, 37, UDP, raw, 71, C2S, 192.168.1.190:59887, 192.168.1.191:161, 1:1411:21, allow, "PROTOCOL-SNMP public access udp", Attempted Information Leak
+04/14-19:27:32.416148, 37, UDP, raw, 71, C2S, 192.168.1.190:59887, 192.168.1.191:161, 1:1417:18, allow, "PROTOCOL-SNMP request udp", Attempted Information Leak
+04/14-19:27:32.432150, 39, UDP, raw, 71, C2S, 192.168.1.190:59887, 192.168.1.191:161, 1:1411:21, allow, "PROTOCOL-SNMP public access udp", Attempted Information Leak
+04/14-19:27:32.432150, 39, UDP, raw, 71, C2S, 192.168.1.190:59887, 192.168.1.191:161, 1:1417:18, allow, "PROTOCOL-SNMP request udp", Attempted Information Leak
+04/14-19:27:32.448019, 41, UDP, raw, 71, C2S, 192.168.1.190:59887, 192.168.1.191:161, 1:1411:21, allow, "PROTOCOL-SNMP public access udp", Attempted Information Leak
+04/14-19:27:32.448019, 41, UDP, raw, 71, C2S, 192.168.1.190:59887, 192.168.1.191:161, 1:1417:18, allow, "PROTOCOL-SNMP request udp", Attempted Information Leak
+04/14-19:27:32.464020, 43, UDP, raw, 71, C2S, 192.168.1.190:59887, 192.168.1.191:161, 1:1411:21, allow, "PROTOCOL-SNMP public access udp", Attempted Information Leak
+04/14-19:27:32.464020, 43, UDP, raw, 71, C2S, 192.168.1.190:59887, 192.168.1.191:161, 1:1417:18, allow, "PROTOCOL-SNMP request udp", Attempted Information Leak
+04/14-19:27:32.480165, 45, UDP, raw, 195, C2S, 192.168.1.190:59887, 192.168.1.191:161, 1:1411:21, allow, "PROTOCOL-SNMP public access udp", Attempted Information Leak
+04/14-19:27:32.480165, 45, UDP, raw, 195, C2S, 192.168.1.190:59887, 192.168.1.191:161, 1:1417:18, allow, "PROTOCOL-SNMP request udp", Attempted Information Leak
+04/14-19:27:32.495126, 47, UDP, raw, 204, C2S, 192.168.1.190:59887, 192.168.1.191:161, 1:1411:21, allow, "PROTOCOL-SNMP public access udp", Attempted Information Leak
+04/14-19:27:32.495126, 47, UDP, raw, 204, C2S, 192.168.1.190:59887, 192.168.1.191:161, 1:1417:18, allow, "PROTOCOL-SNMP request udp", Attempted Information Leak
+04/14-19:27:32.511049, 49, UDP, raw, 204, C2S, 192.168.1.190:59887, 192.168.1.191:161, 1:1411:21, allow, "PROTOCOL-SNMP public access udp", Attempted Information Leak
+04/14-19:27:32.511049, 49, UDP, raw, 204, C2S, 192.168.1.190:59887, 192.168.1.191:161, 1:1417:18, allow, "PROTOCOL-SNMP request udp", Attempted Information Leak
+04/14-19:27:32.526975, 51, UDP, raw, 204, C2S, 192.168.1.190:59887, 192.168.1.191:161, 1:1411:21, allow, "PROTOCOL-SNMP public access udp", Attempted Information Leak
+04/14-19:27:32.526975, 51, UDP, raw, 204, C2S, 192.168.1.190:59887, 192.168.1.191:161, 1:1417:18, allow, "PROTOCOL-SNMP request udp", Attempted Information Leak
+04/14-19:27:32.543065, 53, UDP, raw, 204, C2S, 192.168.1.190:59887, 192.168.1.191:161, 1:1411:21, allow, "PROTOCOL-SNMP public access udp", Attempted Information Leak
+04/14-19:27:32.543065, 53, UDP, raw, 204, C2S, 192.168.1.190:59887, 192.168.1.191:161, 1:1417:18, allow, "PROTOCOL-SNMP request udp", Attempted Information Leak
+04/14-19:27:32.559050, 55, UDP, raw, 204, C2S, 192.168.1.190:59887, 192.168.1.191:161, 1:1411:21, allow, "PROTOCOL-SNMP public access udp", Attempted Information Leak
+04/14-19:27:32.559050, 55, UDP, raw, 204, C2S, 192.168.1.190:59887, 192.168.1.191:161, 1:1417:18, allow, "PROTOCOL-SNMP request udp", Attempted Information Leak
+04/14-19:27:32.575123, 57, UDP, raw, 204, C2S, 192.168.1.190:59887, 192.168.1.191:161, 1:1411:21, allow, "PROTOCOL-SNMP public access udp", Attempted Information Leak
+04/14-19:27:32.575123, 57, UDP, raw, 204, C2S, 192.168.1.190:59887, 192.168.1.191:161, 1:1417:18, allow, "PROTOCOL-SNMP request udp", Attempted Information Leak
+04/14-19:27:32.591010, 59, UDP, raw, 204, C2S, 192.168.1.190:59887, 192.168.1.191:161, 1:1411:21, allow, "PROTOCOL-SNMP public access udp", Attempted Information Leak
+04/14-19:27:32.591010, 59, UDP, raw, 204, C2S, 192.168.1.190:59887, 192.168.1.191:161, 1:1417:18, allow, "PROTOCOL-SNMP request udp", Attempted Information Leak
+04/14-19:27:32.606913, 61, UDP, raw, 204, C2S, 192.168.1.190:59887, 192.168.1.191:161, 1:1411:21, allow, "PROTOCOL-SNMP public access udp", Attempted Information Leak
+04/14-19:27:32.606913, 61, UDP, raw, 204, C2S, 192.168.1.190:59887, 192.168.1.191:161, 1:1417:18, allow, "PROTOCOL-SNMP request udp", Attempted Information Leak
+04/14-19:27:32.622823, 63, UDP, raw, 117, C2S, 192.168.1.190:59887, 192.168.1.191:161, 1:1411:21, allow, "PROTOCOL-SNMP public access udp", Attempted Information Leak
+04/14-19:27:32.622823, 63, UDP, raw, 117, C2S, 192.168.1.190:59887, 192.168.1.191:161, 1:1417:18, allow, "PROTOCOL-SNMP request udp", Attempted Information Leak
+04/14-19:27:32.637637, 65, UDP, raw, 145, C2S, 192.168.1.190:59887, 192.168.1.191:161, 1:1411:21, allow, "PROTOCOL-SNMP public access udp", Attempted Information Leak
+04/14-19:27:32.637637, 65, UDP, raw, 145, C2S, 192.168.1.190:59887, 192.168.1.191:161, 1:1417:18, allow, "PROTOCOL-SNMP request udp", Attempted Information Leak
+04/14-19:27:32.653752, 67, UDP, raw, 117, C2S, 192.168.1.190:59887, 192.168.1.191:161, 1:1411:21, allow, "PROTOCOL-SNMP public access udp", Attempted Information Leak
+04/14-19:27:32.653752, 67, UDP, raw, 117, C2S, 192.168.1.190:59887, 192.168.1.191:161, 1:1417:18, allow, "PROTOCOL-SNMP request udp", Attempted Information Leak
+04/14-19:27:32.668630, 69, UDP, raw, 141, C2S, 192.168.1.190:59887, 192.168.1.191:161, 1:1411:21, allow, "PROTOCOL-SNMP public access udp", Attempted Information Leak
+04/14-19:27:32.668630, 69, UDP, raw, 141, C2S, 192.168.1.190:59887, 192.168.1.191:161, 1:1417:18, allow, "PROTOCOL-SNMP request udp", Attempted Information Leak
+04/14-19:27:32.684783, 71, UDP, raw, 145, C2S, 192.168.1.190:59887, 192.168.1.191:161, 1:1411:21, allow, "PROTOCOL-SNMP public access udp", Attempted Information Leak
+04/14-19:27:32.684783, 71, UDP, raw, 145, C2S, 192.168.1.190:59887, 192.168.1.191:161, 1:1417:18, allow, "PROTOCOL-SNMP request udp", Attempted Information Leak
+04/14-19:27:32.700445, 73, UDP, raw, 132, C2S, 192.168.1.190:59887, 192.168.1.191:161, 1:1411:21, allow, "PROTOCOL-SNMP public access udp", Attempted Information Leak
+04/14-19:27:32.700445, 73, UDP, raw, 132, C2S, 192.168.1.190:59887, 192.168.1.191:161, 1:1417:18, allow, "PROTOCOL-SNMP request udp", Attempted Information Leak
+04/14-19:27:32.716567, 75, UDP, raw, 184, C2S, 192.168.1.190:59887, 192.168.1.191:161, 1:1411:21, allow, "PROTOCOL-SNMP public access udp", Attempted Information Leak
+04/14-19:27:32.716567, 75, UDP, raw, 184, C2S, 192.168.1.190:59887, 192.168.1.191:161, 1:1417:18, allow, "PROTOCOL-SNMP request udp", Attempted Information Leak
+04/14-19:27:32.732481, 77, UDP, raw, 200, C2S, 192.168.1.190:59887, 192.168.1.191:161, 1:1411:21, allow, "PROTOCOL-SNMP public access udp", Attempted Information Leak
+04/14-19:27:32.732481, 77, UDP, raw, 200, C2S, 192.168.1.190:59887, 192.168.1.191:161, 1:1417:18, allow, "PROTOCOL-SNMP request udp", Attempted Information Leak
+04/14-19:27:32.748289, 79, UDP, raw, 87, C2S, 192.168.1.190:59887, 192.168.1.191:161, 1:1411:21, allow, "PROTOCOL-SNMP public access udp", Attempted Information Leak
+04/14-19:27:32.748289, 79, UDP, raw, 87, C2S, 192.168.1.190:59887, 192.168.1.191:161, 1:1417:18, allow, "PROTOCOL-SNMP request udp", Attempted Information Leak
+04/14-19:27:32.764218, 81, UDP, raw, 99, C2S, 192.168.1.190:59887, 192.168.1.191:161, 1:1411:21, allow, "PROTOCOL-SNMP public access udp", Attempted Information Leak
+04/14-19:27:32.764218, 81, UDP, raw, 99, C2S, 192.168.1.190:59887, 192.168.1.191:161, 1:1417:18, allow, "PROTOCOL-SNMP request udp", Attempted Information Leak
+04/14-19:27:32.780157, 83, UDP, raw, 101, C2S, 192.168.1.190:59887, 192.168.1.191:161, 1:1411:21, allow, "PROTOCOL-SNMP public access udp", Attempted Information Leak
+04/14-19:27:32.780157, 83, UDP, raw, 101, C2S, 192.168.1.190:59887, 192.168.1.191:161, 1:1417:18, allow, "PROTOCOL-SNMP request udp", Attempted Information Leak
+04/14-19:27:32.796324, 85, UDP, raw, 153, C2S, 192.168.1.190:59887, 192.168.1.191:161, 1:1411:21, allow, "PROTOCOL-SNMP public access udp", Attempted Information Leak
+04/14-19:27:32.796324, 85, UDP, raw, 153, C2S, 192.168.1.190:59887, 192.168.1.191:161, 1:1417:18, allow, "PROTOCOL-SNMP request udp", Attempted Information Leak
+04/14-19:27:32.812235, 87, UDP, raw, 74, C2S, 192.168.1.190:59887, 192.168.1.191:161, 1:1411:21, allow, "PROTOCOL-SNMP public access udp", Attempted Information Leak
+04/14-19:27:32.812235, 87, UDP, raw, 74, C2S, 192.168.1.190:59887, 192.168.1.191:161, 1:1417:18, allow, "PROTOCOL-SNMP request udp", Attempted Information Leak
+04/14-19:27:32.828069, 89, UDP, raw, 74, C2S, 192.168.1.190:59887, 192.168.1.191:161, 1:1411:21, allow, "PROTOCOL-SNMP public access udp", Attempted Information Leak
+04/14-19:27:32.828069, 89, UDP, raw, 74, C2S, 192.168.1.190:59887, 192.168.1.191:161, 1:1417:18, allow, "PROTOCOL-SNMP request udp", Attempted Information Leak
+04/14-19:27:32.843996, 91, UDP, raw, 74, C2S, 192.168.1.190:59887, 192.168.1.191:161, 1:1411:21, allow, "PROTOCOL-SNMP public access udp", Attempted Information Leak
+04/14-19:27:32.843996, 91, UDP, raw, 74, C2S, 192.168.1.190:59887, 192.168.1.191:161, 1:1417:18, allow, "PROTOCOL-SNMP request udp", Attempted Information Leak
+04/14-19:27:32.859965, 93, UDP, raw, 74, C2S, 192.168.1.190:59887, 192.168.1.191:161, 1:1411:21, allow, "PROTOCOL-SNMP public access udp", Attempted Information Leak
+04/14-19:27:32.859965, 93, UDP, raw, 74, C2S, 192.168.1.190:59887, 192.168.1.191:161, 1:1417:18, allow, "PROTOCOL-SNMP request udp", Attempted Information Leak
+04/14-19:27:32.874941, 95, UDP, raw, 74, C2S, 192.168.1.190:59887, 192.168.1.191:161, 1:1411:21, allow, "PROTOCOL-SNMP public access udp", Attempted Information Leak
+04/14-19:27:32.874941, 95, UDP, raw, 74, C2S, 192.168.1.190:59887, 192.168.1.191:161, 1:1417:18, allow, "PROTOCOL-SNMP request udp", Attempted Information Leak
+04/14-19:27:32.890856, 97, UDP, raw, 74, C2S, 192.168.1.190:59887, 192.168.1.191:161, 1:1411:21, allow, "PROTOCOL-SNMP public access udp", Attempted Information Leak
+04/14-19:27:32.890856, 97, UDP, raw, 74, C2S, 192.168.1.190:59887, 192.168.1.191:161, 1:1417:18, allow, "PROTOCOL-SNMP request udp", Attempted Information Leak
+04/14-19:27:32.906865, 99, UDP, raw, 121, C2S, 192.168.1.190:59887, 192.168.1.191:161, 1:1411:21, allow, "PROTOCOL-SNMP public access udp", Attempted Information Leak
+04/14-19:27:32.906865, 99, UDP, raw, 121, C2S, 192.168.1.190:59887, 192.168.1.191:161, 1:1417:18, allow, "PROTOCOL-SNMP request udp", Attempted Information Leak
+04/14-19:27:32.922861, 101, UDP, raw, 89, C2S, 192.168.1.190:59887, 192.168.1.191:161, 1:1411:21, allow, "PROTOCOL-SNMP public access udp", Attempted Information Leak
+04/14-19:27:32.922861, 101, UDP, raw, 89, C2S, 192.168.1.190:59887, 192.168.1.191:161, 1:1417:18, allow, "PROTOCOL-SNMP request udp", Attempted Information Leak
+04/14-19:27:32.938780, 103, UDP, raw, 137, C2S, 192.168.1.190:59887, 192.168.1.191:161, 1:1411:21, allow, "PROTOCOL-SNMP public access udp", Attempted Information Leak
+04/14-19:27:32.938780, 103, UDP, raw, 137, C2S, 192.168.1.190:59887, 192.168.1.191:161, 1:1417:18, allow, "PROTOCOL-SNMP request udp", Attempted Information Leak

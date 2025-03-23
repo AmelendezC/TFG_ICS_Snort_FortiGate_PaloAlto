@@ -1,0 +1,10 @@
+01/27-22:44:42.811637 [**] [1:1394:17] "INDICATOR-SHELLCODE x86 inc ecx NOOP" [**] [Classification: Executable code was detected] [Priority: 1] {UDP} 10.4.14.102:58722 -> 10.130.130.130:9600
+01/27-22:44:42.813407 [**] [1:1390:17] "INDICATOR-SHELLCODE x86 inc ebx NOOP" [**] [Classification: Executable code was detected] [Priority: 1] {UDP} 10.4.14.102:58722 -> 10.130.130.130:9600
+01/27-22:44:42.813430 [**] [1:1390:17] "INDICATOR-SHELLCODE x86 inc ebx NOOP" [**] [Classification: Executable code was detected] [Priority: 1] {UDP} 10.4.14.102:58722 -> 10.130.130.130:9600
+01/27-22:44:42.813454 [**] [1:1390:17] "INDICATOR-SHELLCODE x86 inc ebx NOOP" [**] [Classification: Executable code was detected] [Priority: 1] {UDP} 10.4.14.102:58722 -> 10.130.130.130:9600
+01/27-22:44:42.813475 [**] [1:1390:17] "INDICATOR-SHELLCODE x86 inc ebx NOOP" [**] [Classification: Executable code was detected] [Priority: 1] {UDP} 10.4.14.102:58722 -> 10.130.130.130:9600
+01/27-22:44:42.813545 [**] [1:1390:17] "INDICATOR-SHELLCODE x86 inc ebx NOOP" [**] [Classification: Executable code was detected] [Priority: 1] {UDP} 10.4.14.102:58722 -> 10.130.130.130:9600
+01/27-22:44:42.813660 [**] [1:1394:17] "INDICATOR-SHELLCODE x86 inc ecx NOOP" [**] [Classification: Executable code was detected] [Priority: 1] {UDP} 10.4.14.102:58722 -> 10.130.130.130:9600
+01/27-22:44:42.813822 [**] [1:1394:17] "INDICATOR-SHELLCODE x86 inc ecx NOOP" [**] [Classification: Executable code was detected] [Priority: 1] {UDP} 10.4.14.102:58722 -> 10.130.130.130:9600
+01/27-22:44:42.813822 [**] [1:1390:17] "INDICATOR-SHELLCODE x86 inc ebx NOOP" [**] [Classification: Executable code was detected] [Priority: 1] {UDP} 10.4.14.102:58722 -> 10.130.130.130:9600
+01/27-22:44:42.814314 [**] [1:1394:17] "INDICATOR-SHELLCODE x86 inc ecx NOOP" [**] [Classification: Executable code was detected] [Priority: 1] {UDP} 10.4.14.102:58722 -> 10.130.130.130:9600

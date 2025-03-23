@@ -1,0 +1,2 @@
+Número total de flujos distintos en T0888-ScanInfo-MQTT_[2]_alert_csv.txt: 0
+No se encontraron flujos sin los SIDs especificados.

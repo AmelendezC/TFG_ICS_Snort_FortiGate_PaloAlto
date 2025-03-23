@@ -1,0 +1,7 @@
+04/18-22:17:52.621232 [**] [1:402:16] "PROTOCOL-ICMP destination unreachable port unreachable packet detected" [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.1.144 -> 192.168.1.133
+04/18-22:17:54.136662 [**] [1:402:16] "PROTOCOL-ICMP destination unreachable port unreachable packet detected" [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.1.144 -> 192.168.1.133
+04/18-22:17:55.645002 [**] [1:402:16] "PROTOCOL-ICMP destination unreachable port unreachable packet detected" [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.1.144 -> 192.168.1.133
+04/18-22:18:01.527633 [**] [1:1417:18] "PROTOCOL-SNMP request udp" [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 192.168.1.144:39425 -> 192.168.1.133:161
+04/18-22:18:18.985589 [**] [1:402:16] "PROTOCOL-ICMP destination unreachable port unreachable packet detected" [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.1.144 -> 192.168.1.133
+04/18-22:18:20.505110 [**] [1:402:16] "PROTOCOL-ICMP destination unreachable port unreachable packet detected" [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.1.144 -> 192.168.1.133
+04/18-22:18:22.002569 [**] [1:402:16] "PROTOCOL-ICMP destination unreachable port unreachable packet detected" [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.1.144 -> 192.168.1.133

@@ -1,0 +1,2 @@
+attackid,sessionid,repeated,severity,attack,service,srcip,dstip,subtype,eventtype,url
+52730,4865,1,"high","Omron.PLC.Series.Unrestricted.Lock.DoS","udp/9600",10.4.14.102,10.130.130.130,"ips","signature","http://www.fortinet.com/ids/VID52730"

@@ -1,0 +1,15 @@
+appid	sessionid	app	msg	apprisk	srcip	dstip	DeviceID
+17017	4888	NetBIOS.Name.Service	Network.Service: NetBIOS.Name.Service	elevated	192.168.1.133	192.168.1.144	
+45418	4887	EtherNet.IP_Register.Session	Operational.Technology: EtherNet.IP_Register.Session	elevated	192.168.1.144	192.168.1.133	
+44199	4887	CIP_Get.Attributes.All	Operational.Technology: CIP_Get.Attributes.All	elevated	192.168.1.144	192.168.1.133	
+45361	4887	CIP_Response.Success	Operational.Technology: CIP_Response.Success	elevated	192.168.1.144	192.168.1.133	
+10000158	4887	CIP.Devices	IoT: CIP.Devices	low	192.168.1.144	192.168.1.133	
+10002579	4887	RockwellAutomation.RSLinx	OT: RockwellAutomation.RSLinx	low	192.168.1.144	192.168.1.133	
+16206	4889	ICMP	Network.Service: ICMP	elevated	192.168.1.144	192.168.1.133	
+44192	4887	CIP	Operational.Technology: CIP	elevated	192.168.1.144	192.168.1.133	
+45418	4891	EtherNet.IP_Register.Session	Operational.Technology: EtherNet.IP_Register.Session	elevated	192.168.1.144	192.168.1.133	
+44199	4891	CIP_Get.Attributes.All	Operational.Technology: CIP_Get.Attributes.All	elevated	192.168.1.144	192.168.1.133	
+45361	4891	CIP_Response.Success	Operational.Technology: CIP_Response.Success	elevated	192.168.1.144	192.168.1.133	
+10000158	4891	CIP.Devices	IoT: CIP.Devices	low	192.168.1.144	192.168.1.133	
+10002579	4891	RockwellAutomation.RSLinx	OT: RockwellAutomation.RSLinx	low	192.168.1.144	192.168.1.133	
+34793	4890	SNMP_SetRequest	Network.Service: SNMP_SetRequest	elevated	192.168.1.144	192.168.1.133	

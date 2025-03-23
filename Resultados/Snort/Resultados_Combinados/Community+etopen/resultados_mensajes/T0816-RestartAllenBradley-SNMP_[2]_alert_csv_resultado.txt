@@ -1,0 +1,9 @@
+Números de paquete distintos encontrados en el archivo T0816-RestartAllenBradley-SNMP_[2]_alert_csv.txt:
+35
+37
+33
+19
+13
+11
+15
+Total de números de paquete distintos: 7

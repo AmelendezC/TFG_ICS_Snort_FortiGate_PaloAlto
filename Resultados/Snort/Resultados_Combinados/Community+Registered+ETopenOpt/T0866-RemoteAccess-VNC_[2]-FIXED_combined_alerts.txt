@@ -1,0 +1,9 @@
+1,2002752,1 04/04-00:11:06.721729  [**] [1:2002752:4] ET POLICY Reserved Internal IP Traffic [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.1.135:45957 -> 192.168.1.200:5900
+1,2002749,1 04/04-00:11:06.721729  [**] [1:2002749:14] ET POLICY Unallocated IP Space Traffic - Bogon Nets [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.1.135:45957 -> 192.168.1.200:5900
+2,2002752,1 04/04-00:11:06.721771  [**] [1:2002752:4] ET POLICY Reserved Internal IP Traffic [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.1.200:5900 -> 192.168.1.135:45957
+2,2002749,1 04/04-00:11:06.721771  [**] [1:2002749:14] ET POLICY Unallocated IP Space Traffic - Bogon Nets [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.1.200:5900 -> 192.168.1.135:45957
+4,2100560,1 04/04-00:11:06.722881  [**] [1:2100560:7] GPL POLICY VNC server response [**] [Classification: Misc activity] [Priority: 3] {TCP} 192.168.1.200:5900 -> 192.168.1.135:45957
+6,2100560,1 04/04-00:11:06.723620  [**] [1:2100560:7] GPL POLICY VNC server response [**] [Classification: Misc activity] [Priority: 3] {TCP} 192.168.1.135:45957 -> 192.168.1.200:5900
+631,2035480,1 04/04-00:11:43.191466  [**] [1:2035480:3] ET INFO PE EXE Download over raw TCP [**] [Classification: Misc activity] [Priority: 3] {TCP} 192.168.1.135:4444 -> 192.168.1.200:51170
+631,2000419,1 04/04-00:11:43.191466  [**] [1:2000419:20] ET POLICY PE EXE or DLL Windows file download Non-HTTP [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {TCP} 192.168.1.135:4444 -> 192.168.1.200:51170
+763,2025644,1 04/04-00:11:43.193435  [**] [1:2025644:1] ET TROJAN Possible Metasploit Payload Common Construct Bind_API (from server) [**] [Classification: A Network Trojan was detected] [Priority: 1] {TCP} 192.168.1.135:4444 -> 192.168.1.200:51170

@@ -1,0 +1,3 @@
+app	container_of_app	sessionid	subcategory_of_app	risk_of_app	proto	src_ip	dst_ip
+incomplete		4574	unknown	1	tcp	10.1.1.167	10.1.1.164
+cip-ethernet-ip-list-identity	cip-ethernet-ip	4575	ics-protocols	1	tcp	10.1.1.167	10.1.1.164

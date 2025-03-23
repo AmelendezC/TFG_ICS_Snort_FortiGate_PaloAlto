@@ -1,0 +1,4 @@
+Número total de flujos distintos en T0836-ModifyParam-OmronFINS_[2]_combined_alerts.txt: 3
+192.168.1.134:61263 -> 192.168.1.135:9600
+192.168.1.134:62888 -> 192.168.1.135:9600
+192.168.1.134:65528 -> 192.168.1.135:9600

@@ -1,0 +1,10 @@
+1,2002752,1 06/05-20:37:02.544559  [**] [1:2002752:4] ET POLICY Reserved Internal IP Traffic [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 192.168.2.86:137 -> 192.168.2.255:137
+1,2002749,1 06/05-20:37:02.544559  [**] [1:2002749:14] ET POLICY Unallocated IP Space Traffic - Bogon Nets [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 192.168.2.86:137 -> 192.168.2.255:137
+4,2002752,1 06/05-20:37:05.710761  [**] [1:2002752:4] ET POLICY Reserved Internal IP Traffic [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.2.87:45727 -> 192.168.2.92:912
+4,2002749,1 06/05-20:37:05.710761  [**] [1:2002749:14] ET POLICY Unallocated IP Space Traffic - Bogon Nets [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.2.87:45727 -> 192.168.2.92:912
+5,2002752,1 06/05-20:37:05.713306  [**] [1:2002752:4] ET POLICY Reserved Internal IP Traffic [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.2.92:912 -> 192.168.2.87:45727
+5,2002749,1 06/05-20:37:05.713306  [**] [1:2002749:14] ET POLICY Unallocated IP Space Traffic - Bogon Nets [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.2.92:912 -> 192.168.2.87:45727
+7,2011976,1 06/05-20:37:05.720841  [**] [1:2011976:1] ET SCADA RealWin SCADA System Buffer Overflow [**] [Classification: Attempted Denial of Service] [Priority: 2] {TCP} 192.168.2.87:45727 -> 192.168.2.92:912
+15,2035480,1 06/05-20:37:05.796108  [**] [1:2035480:3] ET INFO PE EXE Download over raw TCP [**] [Classification: Misc activity] [Priority: 3] {TCP} 192.168.2.87:20000 -> 192.168.2.92:1104
+15,2000419,1 06/05-20:37:05.796108  [**] [1:2000419:20] ET POLICY PE EXE or DLL Windows file download Non-HTTP [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {TCP} 192.168.2.87:20000 -> 192.168.2.92:1104
+41,2025644,1 06/05-20:37:05.807906  [**] [1:2025644:1] ET TROJAN Possible Metasploit Payload Common Construct Bind_API (from server) [**] [Classification: A Network Trojan was detected] [Priority: 1] {TCP} 192.168.2.87:20000 -> 192.168.2.92:1104

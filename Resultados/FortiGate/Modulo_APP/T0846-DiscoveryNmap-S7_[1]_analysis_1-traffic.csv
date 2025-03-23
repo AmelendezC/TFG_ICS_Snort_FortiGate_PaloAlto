@@ -1,0 +1,15 @@
+appid	sessionid	app	msg	apprisk	srcip	dstip	DeviceID
+16195	5687	DNS	Network.Service: DNS	elevated	192.168.0.142	192.168.0.1	
+42210	5689	S7.Protocol_Setup.Communication	Operational.Technology: S7.Protocol_Setup.Communication	elevated	192.168.0.142	192.168.0.64	
+42210	5689	S7.Protocol_Setup.Communication	Operational.Technology: S7.Protocol_Setup.Communication	elevated	192.168.0.142	192.168.0.64	
+42225	5689	S7.Protocol_CPU.Function.Read.SZL	Operational.Technology: S7.Protocol_CPU.Function.Read.SZL	elevated	192.168.0.142	192.168.0.64	
+42225	5689	S7.Protocol_CPU.Function.Read.SZL	Operational.Technology: S7.Protocol_CPU.Function.Read.SZL	elevated	192.168.0.142	192.168.0.64	
+42225	5689	S7.Protocol_CPU.Function.Read.SZL	Operational.Technology: S7.Protocol_CPU.Function.Read.SZL	elevated	192.168.0.142	192.168.0.64	
+10000166	5689	Siemens.Devices	IoT: Siemens.Devices	low	192.168.0.142	192.168.0.64	
+42225	5689	S7.Protocol_CPU.Function.Read.SZL	Operational.Technology: S7.Protocol_CPU.Function.Read.SZL	elevated	192.168.0.142	192.168.0.64	
+42225	5689	S7.Protocol_CPU.Function.Read.SZL	Operational.Technology: S7.Protocol_CPU.Function.Read.SZL	elevated	192.168.0.142	192.168.0.64	
+42225	5689	S7.Protocol_CPU.Function.Read.SZL	Operational.Technology: S7.Protocol_CPU.Function.Read.SZL	elevated	192.168.0.142	192.168.0.64	
+10000166	5689	Siemens.Devices	IoT: Siemens.Devices	low	192.168.0.142	192.168.0.64	
+42225	5689	S7.Protocol_CPU.Function.Read.SZL	Operational.Technology: S7.Protocol_CPU.Function.Read.SZL	elevated	192.168.0.142	192.168.0.64	
+42225	5689	S7.Protocol_CPU.Function.Read.SZL	Operational.Technology: S7.Protocol_CPU.Function.Read.SZL	elevated	192.168.0.142	192.168.0.64	
+42225	5689	S7.Protocol_CPU.Function.Read.SZL	Operational.Technology: S7.Protocol_CPU.Function.Read.SZL	elevated	192.168.0.142	192.168.0.64	

@@ -1,0 +1,6 @@
+Números de paquete distintos encontrados en el archivo T0888-DiscoverInfo-DNP3_[1]_alert_csv.txt:
+ 93
+ 97
+ 99
+ 103
+Total de números de paquete distintos: 4

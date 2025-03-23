@@ -1,0 +1,13 @@
+appid	sessionid	app	msg	apprisk	srcip	dstip	DeviceID
+45418	4869	EtherNet.IP_Register.Session	Operational.Technology: EtherNet.IP_Register.Session	elevated	192.168.0.142	192.168.0.64	
+17017	4871	NetBIOS.Name.Service	Network.Service: NetBIOS.Name.Service	elevated	192.168.1.190	192.168.0.142	
+16206	4873	ICMP	Network.Service: ICMP	elevated	192.168.0.142	192.168.1.190	
+16206	4875	ICMP	Network.Service: ICMP	elevated	192.168.0.142	192.168.174.1	
+16206	4877	ICMP	Network.Service: ICMP	elevated	192.168.0.142	192.168.232.1	
+44194	4869	CIP_CM.Forward.Open	Operational.Technology: CIP_CM.Forward.Open	elevated	192.168.0.142	192.168.0.64	
+45361	4869	CIP_Response.Success	Operational.Technology: CIP_Response.Success	elevated	192.168.0.142	192.168.0.64	
+53036	4869	PCCC_Protected.Typed.Logical.Read.With.Three.Address.Fields	Operational.Technology: PCCC_Protected.Typed.Logical.Read.With.Three.Address.Fields	elevated	192.168.0.142	192.168.0.64	
+17017	4870	NetBIOS.Name.Service	Network.Service: NetBIOS.Name.Service	elevated	192.168.56.1	192.168.0.142	
+16206	4872	ICMP	Network.Service: ICMP	elevated	192.168.0.142	192.168.56.1	
+17017	4874	NetBIOS.Name.Service	Network.Service: NetBIOS.Name.Service	elevated	192.168.174.1	192.168.0.142	
+17017	4876	NetBIOS.Name.Service	Network.Service: NetBIOS.Name.Service	elevated	192.168.232.1	192.168.0.142	

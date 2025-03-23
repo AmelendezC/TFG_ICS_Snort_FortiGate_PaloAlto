@@ -1,0 +1,21 @@
+Números de paquete distintos encontrados en el archivo T0831-Modifparam-IEC104_[2]_alert_csv.txt:
+111
+110
+59
+6
+5
+4
+3
+2
+1
+108
+109
+106
+107
+104
+102
+103
+100
+101
+99
+Total de números de paquete distintos: 19

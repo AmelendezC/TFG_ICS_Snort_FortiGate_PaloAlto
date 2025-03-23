@@ -1,0 +1,94 @@
+13,2101411,1 04/14-19:27:32.226167  [**] [1:2101411:12] GPL SNMP public access udp [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 192.168.1.190:59887 -> 192.168.1.191:161
+13,2101417,1 04/14-19:27:32.226167  [**] [1:2101417:11] GPL SNMP request udp [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 192.168.1.190:59887 -> 192.168.1.191:161
+13,2002752,1 04/14-19:27:32.226167  [**] [1:2002752:4] ET POLICY Reserved Internal IP Traffic [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 192.168.1.190:59887 -> 192.168.1.191:161
+13,2002749,1 04/14-19:27:32.226167  [**] [1:2002749:14] ET POLICY Unallocated IP Space Traffic - Bogon Nets [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 192.168.1.190:59887 -> 192.168.1.191:161
+16,2002752,1 04/14-19:27:32.226751  [**] [1:2002752:4] ET POLICY Reserved Internal IP Traffic [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 192.168.1.191:161 -> 192.168.1.190:59887
+16,2002749,1 04/14-19:27:32.226751  [**] [1:2002749:14] ET POLICY Unallocated IP Space Traffic - Bogon Nets [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 192.168.1.191:161 -> 192.168.1.190:59887
+17,2101411,1 04/14-19:27:32.261135  [**] [1:2101411:12] GPL SNMP public access udp [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 192.168.1.190:59887 -> 192.168.1.191:161
+17,2101417,1 04/14-19:27:32.261135  [**] [1:2101417:11] GPL SNMP request udp [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 192.168.1.190:59887 -> 192.168.1.191:161
+19,2101411,1 04/14-19:27:32.273521  [**] [1:2101411:12] GPL SNMP public access udp [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 192.168.1.190:59887 -> 192.168.1.191:161
+19,2101417,1 04/14-19:27:32.273521  [**] [1:2101417:11] GPL SNMP request udp [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 192.168.1.190:59887 -> 192.168.1.191:161
+21,2101411,1 04/14-19:27:32.289585  [**] [1:2101411:12] GPL SNMP public access udp [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 192.168.1.190:59887 -> 192.168.1.191:161
+21,2101417,1 04/14-19:27:32.289585  [**] [1:2101417:11] GPL SNMP request udp [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 192.168.1.190:59887 -> 192.168.1.191:161
+23,2101411,1 04/14-19:27:32.305577  [**] [1:2101411:12] GPL SNMP public access udp [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 192.168.1.190:59887 -> 192.168.1.191:161
+23,2101417,1 04/14-19:27:32.305577  [**] [1:2101417:11] GPL SNMP request udp [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 192.168.1.190:59887 -> 192.168.1.191:161
+25,2101411,1 04/14-19:27:32.321420  [**] [1:2101411:12] GPL SNMP public access udp [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 192.168.1.190:59887 -> 192.168.1.191:161
+25,2101417,1 04/14-19:27:32.321420  [**] [1:2101417:11] GPL SNMP request udp [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 192.168.1.190:59887 -> 192.168.1.191:161
+27,2101411,1 04/14-19:27:32.337330  [**] [1:2101411:12] GPL SNMP public access udp [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 192.168.1.190:59887 -> 192.168.1.191:161
+27,2101417,1 04/14-19:27:32.337330  [**] [1:2101417:11] GPL SNMP request udp [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 192.168.1.190:59887 -> 192.168.1.191:161
+29,2101411,1 04/14-19:27:32.353270  [**] [1:2101411:12] GPL SNMP public access udp [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 192.168.1.190:59887 -> 192.168.1.191:161
+29,2101417,1 04/14-19:27:32.353270  [**] [1:2101417:11] GPL SNMP request udp [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 192.168.1.190:59887 -> 192.168.1.191:161
+31,2101411,1 04/14-19:27:32.369238  [**] [1:2101411:12] GPL SNMP public access udp [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 192.168.1.190:59887 -> 192.168.1.191:161
+31,2101417,1 04/14-19:27:32.369238  [**] [1:2101417:11] GPL SNMP request udp [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 192.168.1.190:59887 -> 192.168.1.191:161
+33,2101411,1 04/14-19:27:32.384242  [**] [1:2101411:12] GPL SNMP public access udp [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 192.168.1.190:59887 -> 192.168.1.191:161
+33,2101417,1 04/14-19:27:32.384242  [**] [1:2101417:11] GPL SNMP request udp [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 192.168.1.190:59887 -> 192.168.1.191:161
+35,2101411,1 04/14-19:27:32.400124  [**] [1:2101411:12] GPL SNMP public access udp [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 192.168.1.190:59887 -> 192.168.1.191:161
+35,2101417,1 04/14-19:27:32.400124  [**] [1:2101417:11] GPL SNMP request udp [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 192.168.1.190:59887 -> 192.168.1.191:161
+37,2101411,1 04/14-19:27:32.416148  [**] [1:2101411:12] GPL SNMP public access udp [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 192.168.1.190:59887 -> 192.168.1.191:161
+37,2101417,1 04/14-19:27:32.416148  [**] [1:2101417:11] GPL SNMP request udp [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 192.168.1.190:59887 -> 192.168.1.191:161
+39,2101411,1 04/14-19:27:32.432150  [**] [1:2101411:12] GPL SNMP public access udp [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 192.168.1.190:59887 -> 192.168.1.191:161
+39,2101417,1 04/14-19:27:32.432150  [**] [1:2101417:11] GPL SNMP request udp [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 192.168.1.190:59887 -> 192.168.1.191:161
+41,2101411,1 04/14-19:27:32.448019  [**] [1:2101411:12] GPL SNMP public access udp [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 192.168.1.190:59887 -> 192.168.1.191:161
+41,2101417,1 04/14-19:27:32.448019  [**] [1:2101417:11] GPL SNMP request udp [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 192.168.1.190:59887 -> 192.168.1.191:161
+43,2101411,1 04/14-19:27:32.464020  [**] [1:2101411:12] GPL SNMP public access udp [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 192.168.1.190:59887 -> 192.168.1.191:161
+43,2101417,1 04/14-19:27:32.464020  [**] [1:2101417:11] GPL SNMP request udp [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 192.168.1.190:59887 -> 192.168.1.191:161
+45,2101411,1 04/14-19:27:32.480165  [**] [1:2101411:12] GPL SNMP public access udp [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 192.168.1.190:59887 -> 192.168.1.191:161
+45,2101417,1 04/14-19:27:32.480165  [**] [1:2101417:11] GPL SNMP request udp [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 192.168.1.190:59887 -> 192.168.1.191:161
+47,2101411,1 04/14-19:27:32.495126  [**] [1:2101411:12] GPL SNMP public access udp [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 192.168.1.190:59887 -> 192.168.1.191:161
+47,2101417,1 04/14-19:27:32.495126  [**] [1:2101417:11] GPL SNMP request udp [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 192.168.1.190:59887 -> 192.168.1.191:161
+49,2101411,1 04/14-19:27:32.511049  [**] [1:2101411:12] GPL SNMP public access udp [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 192.168.1.190:59887 -> 192.168.1.191:161
+49,2101417,1 04/14-19:27:32.511049  [**] [1:2101417:11] GPL SNMP request udp [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 192.168.1.190:59887 -> 192.168.1.191:161
+51,2101411,1 04/14-19:27:32.526975  [**] [1:2101411:12] GPL SNMP public access udp [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 192.168.1.190:59887 -> 192.168.1.191:161
+51,2101417,1 04/14-19:27:32.526975  [**] [1:2101417:11] GPL SNMP request udp [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 192.168.1.190:59887 -> 192.168.1.191:161
+53,2101411,1 04/14-19:27:32.543065  [**] [1:2101411:12] GPL SNMP public access udp [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 192.168.1.190:59887 -> 192.168.1.191:161
+53,2101417,1 04/14-19:27:32.543065  [**] [1:2101417:11] GPL SNMP request udp [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 192.168.1.190:59887 -> 192.168.1.191:161
+55,2101411,1 04/14-19:27:32.559050  [**] [1:2101411:12] GPL SNMP public access udp [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 192.168.1.190:59887 -> 192.168.1.191:161
+55,2101417,1 04/14-19:27:32.559050  [**] [1:2101417:11] GPL SNMP request udp [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 192.168.1.190:59887 -> 192.168.1.191:161
+57,2101411,1 04/14-19:27:32.575123  [**] [1:2101411:12] GPL SNMP public access udp [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 192.168.1.190:59887 -> 192.168.1.191:161
+57,2101417,1 04/14-19:27:32.575123  [**] [1:2101417:11] GPL SNMP request udp [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 192.168.1.190:59887 -> 192.168.1.191:161
+59,2101411,1 04/14-19:27:32.591010  [**] [1:2101411:12] GPL SNMP public access udp [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 192.168.1.190:59887 -> 192.168.1.191:161
+59,2101417,1 04/14-19:27:32.591010  [**] [1:2101417:11] GPL SNMP request udp [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 192.168.1.190:59887 -> 192.168.1.191:161
+61,2101411,1 04/14-19:27:32.606913  [**] [1:2101411:12] GPL SNMP public access udp [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 192.168.1.190:59887 -> 192.168.1.191:161
+61,2101417,1 04/14-19:27:32.606913  [**] [1:2101417:11] GPL SNMP request udp [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 192.168.1.190:59887 -> 192.168.1.191:161
+63,2101411,1 04/14-19:27:32.622823  [**] [1:2101411:12] GPL SNMP public access udp [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 192.168.1.190:59887 -> 192.168.1.191:161
+63,2101417,1 04/14-19:27:32.622823  [**] [1:2101417:11] GPL SNMP request udp [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 192.168.1.190:59887 -> 192.168.1.191:161
+65,2101411,1 04/14-19:27:32.637637  [**] [1:2101411:12] GPL SNMP public access udp [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 192.168.1.190:59887 -> 192.168.1.191:161
+65,2101417,1 04/14-19:27:32.637637  [**] [1:2101417:11] GPL SNMP request udp [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 192.168.1.190:59887 -> 192.168.1.191:161
+67,2101411,1 04/14-19:27:32.653752  [**] [1:2101411:12] GPL SNMP public access udp [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 192.168.1.190:59887 -> 192.168.1.191:161
+67,2101417,1 04/14-19:27:32.653752  [**] [1:2101417:11] GPL SNMP request udp [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 192.168.1.190:59887 -> 192.168.1.191:161
+69,2101411,1 04/14-19:27:32.668630  [**] [1:2101411:12] GPL SNMP public access udp [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 192.168.1.190:59887 -> 192.168.1.191:161
+69,2101417,1 04/14-19:27:32.668630  [**] [1:2101417:11] GPL SNMP request udp [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 192.168.1.190:59887 -> 192.168.1.191:161
+71,2101411,1 04/14-19:27:32.684783  [**] [1:2101411:12] GPL SNMP public access udp [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 192.168.1.190:59887 -> 192.168.1.191:161
+71,2101417,1 04/14-19:27:32.684783  [**] [1:2101417:11] GPL SNMP request udp [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 192.168.1.190:59887 -> 192.168.1.191:161
+73,2101411,1 04/14-19:27:32.700445  [**] [1:2101411:12] GPL SNMP public access udp [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 192.168.1.190:59887 -> 192.168.1.191:161
+73,2101417,1 04/14-19:27:32.700445  [**] [1:2101417:11] GPL SNMP request udp [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 192.168.1.190:59887 -> 192.168.1.191:161
+75,2101411,1 04/14-19:27:32.716567  [**] [1:2101411:12] GPL SNMP public access udp [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 192.168.1.190:59887 -> 192.168.1.191:161
+75,2101417,1 04/14-19:27:32.716567  [**] [1:2101417:11] GPL SNMP request udp [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 192.168.1.190:59887 -> 192.168.1.191:161
+77,2101411,1 04/14-19:27:32.732481  [**] [1:2101411:12] GPL SNMP public access udp [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 192.168.1.190:59887 -> 192.168.1.191:161
+77,2101417,1 04/14-19:27:32.732481  [**] [1:2101417:11] GPL SNMP request udp [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 192.168.1.190:59887 -> 192.168.1.191:161
+79,2101411,1 04/14-19:27:32.748289  [**] [1:2101411:12] GPL SNMP public access udp [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 192.168.1.190:59887 -> 192.168.1.191:161
+79,2101417,1 04/14-19:27:32.748289  [**] [1:2101417:11] GPL SNMP request udp [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 192.168.1.190:59887 -> 192.168.1.191:161
+81,2101411,1 04/14-19:27:32.764218  [**] [1:2101411:12] GPL SNMP public access udp [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 192.168.1.190:59887 -> 192.168.1.191:161
+81,2101417,1 04/14-19:27:32.764218  [**] [1:2101417:11] GPL SNMP request udp [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 192.168.1.190:59887 -> 192.168.1.191:161
+83,2101411,1 04/14-19:27:32.780157  [**] [1:2101411:12] GPL SNMP public access udp [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 192.168.1.190:59887 -> 192.168.1.191:161
+83,2101417,1 04/14-19:27:32.780157  [**] [1:2101417:11] GPL SNMP request udp [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 192.168.1.190:59887 -> 192.168.1.191:161
+85,2101411,1 04/14-19:27:32.796324  [**] [1:2101411:12] GPL SNMP public access udp [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 192.168.1.190:59887 -> 192.168.1.191:161
+85,2101417,1 04/14-19:27:32.796324  [**] [1:2101417:11] GPL SNMP request udp [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 192.168.1.190:59887 -> 192.168.1.191:161
+87,2101411,1 04/14-19:27:32.812235  [**] [1:2101411:12] GPL SNMP public access udp [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 192.168.1.190:59887 -> 192.168.1.191:161
+87,2101417,1 04/14-19:27:32.812235  [**] [1:2101417:11] GPL SNMP request udp [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 192.168.1.190:59887 -> 192.168.1.191:161
+89,2101411,1 04/14-19:27:32.828069  [**] [1:2101411:12] GPL SNMP public access udp [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 192.168.1.190:59887 -> 192.168.1.191:161
+89,2101417,1 04/14-19:27:32.828069  [**] [1:2101417:11] GPL SNMP request udp [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 192.168.1.190:59887 -> 192.168.1.191:161
+91,2101411,1 04/14-19:27:32.843996  [**] [1:2101411:12] GPL SNMP public access udp [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 192.168.1.190:59887 -> 192.168.1.191:161
+91,2101417,1 04/14-19:27:32.843996  [**] [1:2101417:11] GPL SNMP request udp [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 192.168.1.190:59887 -> 192.168.1.191:161
+93,2101411,1 04/14-19:27:32.859965  [**] [1:2101411:12] GPL SNMP public access udp [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 192.168.1.190:59887 -> 192.168.1.191:161
+93,2101417,1 04/14-19:27:32.859965  [**] [1:2101417:11] GPL SNMP request udp [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 192.168.1.190:59887 -> 192.168.1.191:161
+95,2101411,1 04/14-19:27:32.874941  [**] [1:2101411:12] GPL SNMP public access udp [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 192.168.1.190:59887 -> 192.168.1.191:161
+95,2101417,1 04/14-19:27:32.874941  [**] [1:2101417:11] GPL SNMP request udp [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 192.168.1.190:59887 -> 192.168.1.191:161
+97,2101411,1 04/14-19:27:32.890856  [**] [1:2101411:12] GPL SNMP public access udp [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 192.168.1.190:59887 -> 192.168.1.191:161
+97,2101417,1 04/14-19:27:32.890856  [**] [1:2101417:11] GPL SNMP request udp [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 192.168.1.190:59887 -> 192.168.1.191:161
+99,2101411,1 04/14-19:27:32.906865  [**] [1:2101411:12] GPL SNMP public access udp [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 192.168.1.190:59887 -> 192.168.1.191:161
+99,2101417,1 04/14-19:27:32.906865  [**] [1:2101417:11] GPL SNMP request udp [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 192.168.1.190:59887 -> 192.168.1.191:161
+101,2101411,1 04/14-19:27:32.922861  [**] [1:2101411:12] GPL SNMP public access udp [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 192.168.1.190:59887 -> 192.168.1.191:161
+101,2101417,1 04/14-19:27:32.922861  [**] [1:2101417:11] GPL SNMP request udp [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 192.168.1.190:59887 -> 192.168.1.191:161
+103,2101411,1 04/14-19:27:32.938780  [**] [1:2101411:12] GPL SNMP public access udp [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 192.168.1.190:59887 -> 192.168.1.191:161
+103,2101417,1 04/14-19:27:32.938780  [**] [1:2101417:11] GPL SNMP request udp [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 192.168.1.190:59887 -> 192.168.1.191:161

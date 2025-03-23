@@ -1,0 +1,5 @@
+Números de paquete distintos encontrados en el archivo T0836-ModifyParam-OmronFINS_[2]_combined_alerts.txt:
+8
+7
+1
+Total de números de paquete distintos: 3

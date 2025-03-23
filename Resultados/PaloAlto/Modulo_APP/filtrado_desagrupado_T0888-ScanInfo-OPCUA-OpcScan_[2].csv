@@ -1,0 +1,13 @@
+app	container_of_app	sessionid	subcategory_of_app	risk_of_app	proto	src_ip	dst_ip
+incomplete		642275	unknown	1	tcp	192.168.1.241	192.168.1.195
+incomplete		642476	unknown	1	tcp	192.168.1.241	192.168.1.195
+incomplete		642372	unknown	1	tcp	192.168.1.241	192.168.1.195
+incomplete		641335	unknown	1	tcp	192.168.1.241	192.168.1.195
+incomplete		637592	unknown	1	tcp	192.168.1.241	192.168.1.195
+incomplete		642350	unknown	1	tcp	192.168.1.241	192.168.1.195
+insufficient-data		642430	unknown	1	tcp	192.168.1.241	192.168.1.195
+insufficient-data		642297	unknown	1	tcp	192.168.1.241	192.168.1.195
+opc-ua-close	opc	642399	ics-protocols	2	tcp	192.168.1.241	192.168.1.195
+opc-ua-create-session-req	opc	641334	ics-protocols	2	tcp	192.168.1.241	192.168.1.195
+opc-ua-create-session-req	opc	642379	ics-protocols	2	tcp	192.168.1.241	192.168.1.195
+incomplete		642339	unknown	1	tcp	192.168.1.241	192.168.1.195

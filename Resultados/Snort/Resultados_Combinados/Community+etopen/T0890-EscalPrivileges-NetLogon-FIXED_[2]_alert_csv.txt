@@ -1,0 +1,2 @@
+03/26-12:30:26.700765, 14, UDP, raw, 153, C2S, 192.168.1.71:41058, 239.255.255.250:1900, 1:1917:16, allow, "INDICATOR-SCAN UPnP service discover attempt", Detection of a Network Scan
+03/26-12:30:44.987308, 4865, UDP, raw, 153, C2S, 192.168.1.39:62276, 239.255.255.250:1900, 1:1917:16, allow, "INDICATOR-SCAN UPnP service discover attempt", Detection of a Network Scan

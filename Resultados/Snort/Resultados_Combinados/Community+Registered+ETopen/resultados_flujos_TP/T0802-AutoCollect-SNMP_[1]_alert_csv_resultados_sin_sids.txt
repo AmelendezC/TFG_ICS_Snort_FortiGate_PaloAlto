@@ -1,0 +1,2 @@
+Número total de flujos distintos en T0802-AutoCollect-SNMP_[1]_alert_csv.txt: 1
+192.168.1.190:59887 -> 192.168.1.191:161

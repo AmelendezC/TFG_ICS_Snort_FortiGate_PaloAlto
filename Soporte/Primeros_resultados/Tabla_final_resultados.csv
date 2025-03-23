@@ -1,0 +1,8 @@
+﻿Tecnica;Nombre_pcap;Nº de ataques contenidos;Nº de ataques detectado por snort;% Deteccion Snort;Nº de ataques detectados por FG;% Deteccion FG
+Execution;T0858-ChangeOPMode-Omron.pcapng;3;3;100;0;0
+Inhabit Response Function;T0816-ShtDownAllenBradley-CIP.pcapng;1;1;100;0;0
+Command and Control;T0885-C&Cp502Ignition-HTTP.pcapng;1;1;100;0;0
+Initial Access;T0866-VulnAccess-SMBv1.pcapng;2;0;0;2;100
+;;;;;;
+;;;;;;
+Nota: T0858-ChangeOPMode-Omron.pcapng--> fichero log FG aparece vacío;;;;;;

@@ -1,0 +1,2 @@
+Números de paquete distintos encontrados en el archivo T0831-Modifparam-IEC104_[2]-FIXED_alert_csv.txt:
+Total de números de paquete distintos: 0

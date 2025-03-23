@@ -1,0 +1,2 @@
+attackid,sessionid,repeated,severity,attack,service,srcip,dstip,subtype,eventtype,url
+49359,4917,1,"medium","Siemens.S7-300.S7-400.S7comm.PLCs.DoS","tcp/102",192.168.1.241,192.168.1.195,"ips","signature","http://www.fortinet.com/ids/VID49359"

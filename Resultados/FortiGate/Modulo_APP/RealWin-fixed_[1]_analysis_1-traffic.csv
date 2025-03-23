@@ -1,0 +1,6 @@
+appid	sessionid	app	msg	apprisk	srcip	dstip	DeviceID
+32609	4840	IP.Multicast	Network.Service: IP.Multicast	elevated	192.168.1.35	224.0.0.252	
+32609	4842	IP.Multicast	Network.Service: IP.Multicast	elevated	192.168.1.35	239.255.255.250	
+32609	4839	IP.Multicast	Network.Service: IP.Multicast	elevated	192.168.1.1	224.0.0.1	
+32609	4841	IP.Multicast	Network.Service: IP.Multicast	elevated	192.168.1.35	224.0.0.251	
+16083	4844	UPnP	Network.Service: UPnP	elevated	192.168.1.61	239.255.255.250	

@@ -1,0 +1,435 @@
+--------------------------------------------------
+o")~   Snort++ 3.2.2.0
+--------------------------------------------------
+Loading /usr/local/snort/etc/snort/snort.lua:
+Loading snort_defaults.lua:
+Finished snort_defaults.lua:
+Loading file_magic.lua:
+Finished file_magic.lua:
+	active
+	alerts
+	daq
+	decode
+	host_tracker
+	hosts
+	network
+	search_engine
+	so_proxy
+	stream
+	stream_icmp
+	stream_tcp
+	output
+	stream_user
+	stream_file
+	arp_spoof
+	dns
+	normalizer
+	alert_fast
+	alert_csv
+	ips
+	trace
+	js_norm
+	file_id
+	ftp_client
+	ftp_server
+	smtp
+	port_scan
+	gtp_inspect
+	dce_http_server
+	dce_http_proxy
+	dce_udp
+	dce_tcp
+	dce_smb
+	s7commplus
+	modbus
+	mms
+	iec104
+	dnp3
+	cip
+	telnet
+	ssl
+	ssh
+	sip
+	rpc_decode
+	pop
+	netflow
+	imap
+	back_orifice
+	stream_udp
+	stream_ip
+	ftp_data
+	http_inspect
+	http2_inspect
+	file_policy
+	appid
+	wizard
+	binder
+	host_cache
+	references
+	classifications
+	packets
+	process
+Finished /usr/local/snort/etc/snort/snort.lua:
+Loading file_id.rules_file:
+Loading file_magic.rules:
+Finished file_magic.rules:
+Finished file_id.rules_file:
+Loading ips.rules:
+Loading /usr/local/snort/rules/3200/includes.rules:
+Loading snort3-app-detect.rules:
+Finished snort3-app-detect.rules:
+Loading snort3-browser-chrome.rules:
+Finished snort3-browser-chrome.rules:
+Loading snort3-browser-firefox.rules:
+Finished snort3-browser-firefox.rules:
+Loading snort3-browser-ie.rules:
+Finished snort3-browser-ie.rules:
+Loading snort3-browser-other.rules:
+Finished snort3-browser-other.rules:
+Loading snort3-browser-plugins.rules:
+Finished snort3-browser-plugins.rules:
+Loading snort3-browser-webkit.rules:
+Finished snort3-browser-webkit.rules:
+Loading snort3-content-replace.rules:
+Finished snort3-content-replace.rules:
+Loading snort3-exploit-kit.rules:
+Finished snort3-exploit-kit.rules:
+Loading snort3-file-executable.rules:
+Finished snort3-file-executable.rules:
+Loading snort3-file-flash.rules:
+Finished snort3-file-flash.rules:
+Loading snort3-file-identify.rules:
+Finished snort3-file-identify.rules:
+Loading snort3-file-image.rules:
+Finished snort3-file-image.rules:
+Loading snort3-file-java.rules:
+Finished snort3-file-java.rules:
+Loading snort3-file-multimedia.rules:
+Finished snort3-file-multimedia.rules:
+Loading snort3-file-office.rules:
+Finished snort3-file-office.rules:
+Loading snort3-file-other.rules:
+Finished snort3-file-other.rules:
+Loading snort3-file-pdf.rules:
+Finished snort3-file-pdf.rules:
+Loading snort3-indicator-compromise.rules:
+Finished snort3-indicator-compromise.rules:
+Loading snort3-indicator-obfuscation.rules:
+Finished snort3-indicator-obfuscation.rules:
+Loading snort3-indicator-scan.rules:
+Finished snort3-indicator-scan.rules:
+Loading snort3-indicator-shellcode.rules:
+Finished snort3-indicator-shellcode.rules:
+Loading snort3-malware-backdoor.rules:
+Finished snort3-malware-backdoor.rules:
+Loading snort3-malware-cnc.rules:
+Finished snort3-malware-cnc.rules:
+Loading snort3-malware-other.rules:
+Finished snort3-malware-other.rules:
+Loading snort3-malware-tools.rules:
+Finished snort3-malware-tools.rules:
+Loading snort3-netbios.rules:
+Finished snort3-netbios.rules:
+Loading snort3-os-linux.rules:
+Finished snort3-os-linux.rules:
+Loading snort3-os-mobile.rules:
+Finished snort3-os-mobile.rules:
+Loading snort3-os-other.rules:
+Finished snort3-os-other.rules:
+Loading snort3-os-solaris.rules:
+Finished snort3-os-solaris.rules:
+Loading snort3-os-windows.rules:
+Finished snort3-os-windows.rules:
+Loading snort3-policy-multimedia.rules:
+Finished snort3-policy-multimedia.rules:
+Loading snort3-policy-other.rules:
+Finished snort3-policy-other.rules:
+Loading snort3-policy-social.rules:
+Finished snort3-policy-social.rules:
+Loading snort3-policy-spam.rules:
+Finished snort3-policy-spam.rules:
+Loading snort3-protocol-dns.rules:
+Finished snort3-protocol-dns.rules:
+Loading snort3-protocol-finger.rules:
+Finished snort3-protocol-finger.rules:
+Loading snort3-protocol-ftp.rules:
+Finished snort3-protocol-ftp.rules:
+Loading snort3-protocol-icmp.rules:
+Finished snort3-protocol-icmp.rules:
+Loading snort3-protocol-imap.rules:
+Finished snort3-protocol-imap.rules:
+Loading snort3-protocol-nntp.rules:
+Finished snort3-protocol-nntp.rules:
+Loading snort3-protocol-other.rules:
+Finished snort3-protocol-other.rules:
+Loading snort3-protocol-pop.rules:
+Finished snort3-protocol-pop.rules:
+Loading snort3-protocol-rpc.rules:
+Finished snort3-protocol-rpc.rules:
+Loading snort3-protocol-scada.rules:
+Finished snort3-protocol-scada.rules:
+Loading snort3-protocol-services.rules:
+Finished snort3-protocol-services.rules:
+Loading snort3-protocol-snmp.rules:
+Finished snort3-protocol-snmp.rules:
+Loading snort3-protocol-telnet.rules:
+Finished snort3-protocol-telnet.rules:
+Loading snort3-protocol-tftp.rules:
+Finished snort3-protocol-tftp.rules:
+Loading snort3-protocol-voip.rules:
+Finished snort3-protocol-voip.rules:
+Loading snort3-pua-adware.rules:
+Finished snort3-pua-adware.rules:
+Loading snort3-pua-other.rules:
+Finished snort3-pua-other.rules:
+Loading snort3-pua-p2p.rules:
+Finished snort3-pua-p2p.rules:
+Loading snort3-pua-toolbars.rules:
+Finished snort3-pua-toolbars.rules:
+Loading snort3-server-apache.rules:
+Finished snort3-server-apache.rules:
+Loading snort3-server-iis.rules:
+Finished snort3-server-iis.rules:
+Loading snort3-server-mail.rules:
+Finished snort3-server-mail.rules:
+Loading snort3-server-mssql.rules:
+Finished snort3-server-mssql.rules:
+Loading snort3-server-mysql.rules:
+Finished snort3-server-mysql.rules:
+Loading snort3-server-oracle.rules:
+Finished snort3-server-oracle.rules:
+Loading snort3-server-other.rules:
+Finished snort3-server-other.rules:
+Loading snort3-server-samba.rules:
+Finished snort3-server-samba.rules:
+Loading snort3-server-webapp.rules:
+Finished snort3-server-webapp.rules:
+Loading snort3-sql.rules:
+Finished snort3-sql.rules:
+Loading snort3-x11.rules:
+Finished snort3-x11.rules:
+Finished /usr/local/snort/rules/3200/includes.rules:
+Finished ips.rules:
+--------------------------------------------------
+ips policies rule stats
+              id  loaded  shared enabled    file
+               0   45889       0   45889    /usr/local/snort/etc/snort/snort.lua
+--------------------------------------------------
+rule counts
+       total rules loaded: 45889
+               text rules: 45889
+            option chains: 45889
+            chain headers: 1551
+                 flowbits: 712
+     flowbits not checked: 69
+--------------------------------------------------
+port rule counts
+             tcp     udp    icmp      ip
+     any    1818     391     471     298
+     src    1240     157       0       0
+     dst    5302    1005       0       0
+    both     109      54       0       0
+   total    8469    1607     471     298
+--------------------------------------------------
+service rule counts          to-srv  to-cli
+                      bgp:        5       1
+                   dcerpc:     1341     804
+                     dhcp:       37      10
+                     dnp3:        0       6
+                      dns:      276     117
+                     drda:        5       0
+                     file:      684     695
+                  file_id:      219     219
+                      ftp:      196      24
+                 ftp-data:      769   10696
+                   gopher:        0       1
+                     http:    14820   14101
+                    http2:    14820   14101
+                    http3:    14820   14101
+                    ident:        1       0
+                     igmp:        1       1
+                     imap:      815   10947
+                      irc:       40      14
+                     ircd:        9       3
+                 java_rmi:       55       3
+                 kerberos:       33       6
+                     ldap:       47       6
+                      ldp:        1       0
+                   modbus:       34      10
+                    mysql:       67       7
+              netbios-dgm:       11      11
+               netbios-ns:       15       5
+              netbios-ssn:     1233     785
+                  netware:        2       0
+                     nntp:        2       2
+                      ntp:       36       7
+                  openvpn:       16      16
+                     pop3:      774   10950
+               postgresql:        8       0
+                  printer:        6       0
+                   radius:        3       2
+                      rdp:       10      20
+                     rtmp:        1       4
+                      rtp:        1       1
+                     rtsp:       17       2
+                      sip:      338      44
+                     smtp:     9851     720
+                     snmp:       49      10
+                     ssdp:       13       0
+                      ssh:       10       4
+                      ssl:      204     221
+                   sunrpc:      130       9
+                   syslog:        4       0
+                 teamview:        1       2
+                   telnet:       61      15
+                     tftp:       11       6
+                      vnc:        1       1
+               vnc-server:       12      10
+                     wins:        3       0
+                    total:    61918   78720
+--------------------------------------------------
+fast pattern groups
+                      src: 510
+                      dst: 1630
+                      any: 8
+                to_server: 131
+                to_client: 98
+--------------------------------------------------
+search engine (ac_bnfa)
+                instances: 1303
+                 patterns: 156722
+            pattern chars: 3828484
+               num states: 2930118
+         num match states: 417964
+             memory scale: MB
+             total memory: 94.7472
+           pattern memory: 9.62835
+        match list memory: 50.1908
+        transition memory: 34.7689
+        fast pattern only: 105808
+appid: MaxRss diff: 128
+appid: patterns loaded: 300
+--------------------------------------------------
+pcap DAQ configured to read-file.
+Commencing packet processing
+++ [0] ./T0831-Modifparam-IEC104_[2]-FIXED.pcapng
+-- [0] ./T0831-Modifparam-IEC104_[2]-FIXED.pcapng
+--------------------------------------------------
+Packet Statistics
+--------------------------------------------------
+daq
+                    pcaps: 1
+                 received: 70
+                 analyzed: 70
+                    allow: 70
+                 rx_bytes: 4460
+--------------------------------------------------
+codec
+                    total: 70          	(100.000%)
+                      eth: 70          	(100.000%)
+                     ipv4: 70          	(100.000%)
+                      tcp: 70          	(100.000%)
+--------------------------------------------------
+Module Statistics
+--------------------------------------------------
+ac_bnfa
+                 searches: 106
+                  matches: 253
+                    bytes: 1072
+--------------------------------------------------
+ac_full
+                 searches: 2
+                  matches: 4
+                    bytes: 12
+--------------------------------------------------
+appid
+                  packets: 70
+        processed_packets: 70
+           total_sessions: 1
+       service_cache_adds: 1
+             bytes_in_use: 152
+             items_in_use: 1
+--------------------------------------------------
+binder
+                new_flows: 1
+                 inspects: 1
+--------------------------------------------------
+detection
+                 analyzed: 70
+               hard_evals: 83
+             raw_searches: 20
+          cooked_searches: 86
+             pkt_searches: 106
+                   alerts: 82
+             total_alerts: 82
+                   logged: 82
+           cont_creations: 1300
+               cont_flows: 1
+               cont_evals: 1170
+             cont_matches: 2
+          cont_mismatches: 1168
+             cont_max_num: 130
+      cont_match_distance: 2
+   cont_mismatch_distance: 1168
+                buf_dumps: 844
+--------------------------------------------------
+iec104
+                 sessions: 1
+                   frames: 43
+  max_concurrent_sessions: 1
+--------------------------------------------------
+ips_actions
+                    alert: 82
+--------------------------------------------------
+pcre
+               pcre_rules: 11836
+              pcre_native: 11836
+--------------------------------------------------
+port_scan
+                  packets: 70
+                 trackers: 2
+--------------------------------------------------
+search_engine
+               max_queued: 11
+            total_flushed: 250
+            total_inserts: 253
+             total_unique: 250
+     non_qualified_events: 293
+         qualified_events: 40
+--------------------------------------------------
+stream
+                    flows: 1
+--------------------------------------------------
+stream_tcp
+                 sessions: 1
+                      max: 1
+                  created: 1
+                 released: 1
+             instantiated: 1
+                   setups: 1
+             syn_trackers: 1
+              segs_queued: 30
+            segs_released: 30
+                segs_used: 30
+          rebuilt_packets: 43
+            rebuilt_bytes: 526
+                     syns: 1
+                 syn_acks: 1
+                 max_segs: 1
+                max_bytes: 138
+        keep_alive_probes: 10
+--------------------------------------------------
+Appid Statistics
+--------------------------------------------------
+detected apps and services
+              Application: Services   Clients    Users      Payloads   Misc       Referred  
+                  unknown: 1          0          0          0          0          0         
+--------------------------------------------------
+Summary Statistics
+--------------------------------------------------
+timing
+                  runtime: 00:00:00
+                  seconds: 0.049967
+                 pkts/sec: 1401
+                Mbits/sec: 1
+o")~   Snort exiting

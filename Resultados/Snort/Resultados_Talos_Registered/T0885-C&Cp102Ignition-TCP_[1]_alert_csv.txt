@@ -1,0 +1,2 @@
+07/02-19:22:51.148526, 5, TCP, stream_tcp, 87, C2S, 192.168.2.87:42069, 192.168.2.91:8088, 1:50447:1, allow, "POLICY-OTHER HTTP request by IPv4 address attempt", Potential Corporate Privacy Violation
+07/02-19:22:51.157873, 15, TCP, stream_tcp, 87, C2S, 192.168.2.87:36493, 192.168.2.91:8088, 1:50447:1, allow, "POLICY-OTHER HTTP request by IPv4 address attempt", Potential Corporate Privacy Violation

@@ -1,0 +1,5 @@
+app	container_of_app	sessionid	subcategory_of_app	risk_of_app	proto	src_ip	dst_ip
+web-browsing		6841	internet-utility	4	tcp	192.168.2.87	192.168.2.91
+web-browsing		6842	internet-utility	4	tcp	192.168.2.87	192.168.2.91
+incomplete		6843	unknown	1	tcp	192.168.2.87	192.168.2.91
+insufficient-data		6844	unknown	1	tcp	192.168.2.91	192.168.2.87

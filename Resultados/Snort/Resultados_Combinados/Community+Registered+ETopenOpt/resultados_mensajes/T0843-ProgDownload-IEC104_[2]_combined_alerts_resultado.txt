@@ -1,0 +1,12 @@
+Números de paquete distintos encontrados en el archivo T0843-ProgDownload-IEC104_[2]_combined_alerts.txt:
+37
+38
+9
+6
+4
+2
+1
+4000
+11
+3999
+Total de números de paquete distintos: 10

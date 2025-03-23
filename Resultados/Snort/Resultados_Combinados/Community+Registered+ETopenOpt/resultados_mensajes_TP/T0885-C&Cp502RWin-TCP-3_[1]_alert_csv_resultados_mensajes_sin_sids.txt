@@ -1,0 +1,14 @@
+Números de paquete distintos encontrados en el archivo T0885-C&Cp502RWin-TCP-3_[1]_alert_csv.txt:
+ 7
+ 19
+ 42
+ 56
+ 86
+ 91
+ 113
+ 140
+ 146
+ 151
+ 178
+ 197
+Total de números de paquete distintos: 12

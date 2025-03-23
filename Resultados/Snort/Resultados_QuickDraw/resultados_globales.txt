@@ -1,0 +1,520 @@
+Resultados para ataque-initial-access-RealWin-Server.pcapng-FIX_[1]_combined_alerts.txt:
+==================================
+SIDs distintos y cuántas veces se repite cada uno:
+Número total de alertas: 0
+Número de flujos detectados: 0
+Número de mensajes de red con ataques: 0
+----------------------------------
+
+Resultados para C&C-port80-RealWin-Server.pcapng-FIX_[1]_combined_alerts.txt:
+==================================
+SIDs distintos y cuántas veces se repite cada uno:
+Número total de alertas: 0
+Número de flujos detectados: 0
+Número de mensajes de red con ataques: 0
+----------------------------------
+
+Resultados para RealWin-fixed_[1]_combined_alerts.txt:
+==================================
+SIDs distintos y cuántas veces se repite cada uno:
+Número total de alertas: 0
+Número de flujos detectados: 0
+Número de mensajes de red con ataques: 0
+----------------------------------
+
+Resultados para T0802-AutoCollect-OPCUA_[2]_combined_alerts.txt:
+==================================
+SIDs distintos y cuántas veces se repite cada uno:
+Número total de alertas: 0
+Número de flujos detectados: 0
+Número de mensajes de red con ataques: 0
+----------------------------------
+
+Resultados para T0802-AutoCollect-SNMP_[1]_combined_alerts.txt:
+==================================
+SIDs distintos y cuántas veces se repite cada uno:
+Número total de alertas: 0
+Número de flujos detectados: 0
+Número de mensajes de red con ataques: 0
+----------------------------------
+
+Resultados para T0809-DataDestroy-OMRON_[2]_combined_alerts.txt:
+==================================
+SIDs distintos y cuántas veces se repite cada uno:
+      3 1111404
+      3 1111402
+Número total de alertas: 6
+Número de flujos detectados: 1
+Número de mensajes de red con ataques: 3
+----------------------------------
+
+Resultados para T0814-DoS-OPCUA-Short_[2]_combined_alerts.txt:
+==================================
+SIDs distintos y cuántas veces se repite cada uno:
+Número total de alertas: 0
+Número de flujos detectados: 0
+Número de mensajes de red con ataques: 0
+----------------------------------
+
+Resultados para T0814-DoS-PCC_[1]_combined_alerts.txt:
+==================================
+SIDs distintos y cuántas veces se repite cada uno:
+Número total de alertas: 0
+Número de flujos detectados: 0
+Número de mensajes de red con ataques: 0
+----------------------------------
+
+Resultados para T0816-RestartAllenBradley-SNMP_[2]_combined_alerts.txt:
+==================================
+SIDs distintos y cuántas veces se repite cada uno:
+Número total de alertas: 0
+Número de flujos detectados: 0
+Número de mensajes de red con ataques: 0
+----------------------------------
+
+Resultados para T0816-ShtDownAllenBradley-CIP_[1]_combined_alerts.txt:
+==================================
+SIDs distintos y cuántas veces se repite cada uno:
+Número total de alertas: 0
+Número de flujos detectados: 0
+Número de mensajes de red con ataques: 0
+----------------------------------
+
+Resultados para T0816-ShutDown-Modbus_[1]_combined_alerts.txt:
+==================================
+SIDs distintos y cuántas veces se repite cada uno:
+      1 1111007
+Número total de alertas: 1
+Número de flujos detectados: 1
+Número de mensajes de red con ataques: 1
+----------------------------------
+
+Resultados para T0816-StopCommand-S7Comm_[2]_combined_alerts.txt:
+==================================
+SIDs distintos y cuántas veces se repite cada uno:
+Número total de alertas: 0
+Número de flujos detectados: 0
+Número de mensajes de red con ataques: 0
+----------------------------------
+
+Resultados para T0830_MiTM-BacNet-FIXED_[2]_combined_alerts.txt:
+==================================
+SIDs distintos y cuántas veces se repite cada uno:
+      3 1111705
+      3 1111704
+Número total de alertas: 6
+Número de flujos detectados: 1
+Número de mensajes de red con ataques: 3
+----------------------------------
+
+Resultados para T0831-ModifParam-DNP3-FIXED_[1]_combined_alerts.txt:
+==================================
+SIDs distintos y cuántas veces se repite cada uno:
+    226 1111202
+    108 1111206
+      4 1111207
+Número total de alertas: 338
+Número de flujos detectados: 1
+Número de mensajes de red con ataques: 333
+----------------------------------
+
+Resultados para T0831-Modifparam-IEC104_[2]_combined_alerts.txt:
+==================================
+SIDs distintos y cuántas veces se repite cada uno:
+Número total de alertas: 0
+Número de flujos detectados: 0
+Número de mensajes de red con ataques: 0
+----------------------------------
+
+Resultados para T0831-Modifparam-IEC104_[2]-FIXED_combined_alerts.txt:
+==================================
+SIDs distintos y cuántas veces se repite cada uno:
+Número total de alertas: 0
+Número de flujos detectados: 0
+Número de mensajes de red con ataques: 0
+----------------------------------
+
+Resultados para T0836-ModifParam-Modbus_[1]_combined_alerts.txt:
+==================================
+SIDs distintos y cuántas veces se repite cada uno:
+      1 1111007
+Número total de alertas: 1
+Número de flujos detectados: 1
+Número de mensajes de red con ataques: 1
+----------------------------------
+
+Resultados para T0836-ModifParam-S7_[1]_combined_alerts.txt:
+==================================
+SIDs distintos y cuántas veces se repite cada uno:
+Número total de alertas: 0
+Número de flujos detectados: 0
+Número de mensajes de red con ataques: 0
+----------------------------------
+
+Resultados para T0836-ModifyParam-OmronFINS_[2]_combined_alerts.txt:
+==================================
+SIDs distintos y cuántas veces se repite cada uno:
+Número total de alertas: 0
+Número de flujos detectados: 0
+Número de mensajes de red con ataques: 0
+----------------------------------
+
+Resultados para T0843-FileDownload-Modbus_[1]_combined_alerts.txt:
+==================================
+SIDs distintos y cuántas veces se repite cada uno:
+      2 1111006
+Número total de alertas: 2
+Número de flujos detectados: 2
+Número de mensajes de red con ataques: 2
+----------------------------------
+
+Resultados para T0843-FileRead-DNP3-FIXED_[1]_combined_alerts.txt:
+==================================
+SIDs distintos y cuántas veces se repite cada uno:
+    620 1111202
+    308 1111206
+      2 1111207
+      1 1111210
+      1 1111209
+      1 1111208
+      1 1111205
+      1 1111201
+Número total de alertas: 935
+Número de flujos detectados: 1
+Número de mensajes de red con ataques: 900
+----------------------------------
+
+Resultados para T0843-FileUpload-Modbus_[1]_combined_alerts.txt:
+==================================
+SIDs distintos y cuántas veces se repite cada uno:
+      1 1111007
+      1 1111006
+Número total de alertas: 2
+Número de flujos detectados: 2
+Número de mensajes de red con ataques: 2
+----------------------------------
+
+Resultados para T0843-FileWrite-DNP3-FIXED_[1]_combined_alerts.txt:
+==================================
+SIDs distintos y cuántas veces se repite cada uno:
+    126 1111202
+     57 1111206
+      5 1111207
+      2 1111208
+Número total de alertas: 190
+Número de flujos detectados: 1
+Número de mensajes de red con ataques: 181
+----------------------------------
+
+Resultados para T0843-ProgDownload-IEC104_[2]_combined_alerts.txt:
+==================================
+SIDs distintos y cuántas veces se repite cada uno:
+Número total de alertas: 0
+Número de flujos detectados: 0
+Número de mensajes de red con ataques: 0
+----------------------------------
+
+Resultados para T0846-DiscoverMetasp-Modbus_[1]_combined_alerts.txt:
+==================================
+SIDs distintos y cuántas veces se repite cada uno:
+      1 1111006
+Número total de alertas: 1
+Número de flujos detectados: 1
+Número de mensajes de red con ataques: 1
+----------------------------------
+
+Resultados para T0846-Discovery-BacNet-2_[2]_combined_alerts.txt:
+==================================
+SIDs distintos y cuántas veces se repite cada uno:
+      9 1111705
+      9 1111704
+      1 1111709
+      1 1111708
+      1 1111703
+      1 1111702
+      1 1111701
+Número total de alertas: 23
+Número de flujos detectados: 1
+Número de mensajes de red con ataques: 13
+----------------------------------
+
+Resultados para T0846-Discovery-BacNet_[2]_combined_alerts.txt:
+==================================
+SIDs distintos y cuántas veces se repite cada uno:
+      9 1111705
+      9 1111704
+Número total de alertas: 18
+Número de flujos detectados: 1
+Número de mensajes de red con ataques: 9
+----------------------------------
+
+Resultados para T0846-Discovery-IEC104_[2]_combined_alerts.txt:
+==================================
+SIDs distintos y cuántas veces se repite cada uno:
+Número total de alertas: 0
+Número de flujos detectados: 0
+Número de mensajes de red con ataques: 0
+----------------------------------
+
+Resultados para T0846-DiscoveryNmap-Modbus_[1]_combined_alerts.txt:
+==================================
+SIDs distintos y cuántas veces se repite cada uno:
+      2 1111006
+Número total de alertas: 2
+Número de flujos detectados: 2
+Número de mensajes de red con ataques: 2
+----------------------------------
+
+Resultados para T0846-DiscoveryNmap-S7_[1]_combined_alerts.txt:
+==================================
+SIDs distintos y cuántas veces se repite cada uno:
+Número total de alertas: 0
+Número de flujos detectados: 0
+Número de mensajes de red con ataques: 0
+----------------------------------
+
+Resultados para T0848-RogueMaster-DNP3-FIXED_[1]_combined_alerts.txt:
+==================================
+SIDs distintos y cuántas veces se repite cada uno:
+    428 1111202
+    205 1111206
+      3 1111207
+      2 1111208
+      2 1111205
+      1 1111210
+Número total de alertas: 641
+Número de flujos detectados: 1
+Número de mensajes de red con ataques: 635
+----------------------------------
+
+Resultados para T0848-RogueMaster-IEC-104_[2]_combined_alerts.txt:
+==================================
+SIDs distintos y cuántas veces se repite cada uno:
+Número total de alertas: 0
+Número de flujos detectados: 0
+Número de mensajes de red con ataques: 0
+----------------------------------
+
+Resultados para T0858-ChangeOPMode-Omron_[2]_combined_alerts.txt:
+==================================
+SIDs distintos y cuántas veces se repite cada uno:
+Número total de alertas: 0
+Número de flujos detectados: 0
+Número de mensajes de red con ataques: 0
+----------------------------------
+
+Resultados para T0861-InfoCollect-OPCUA_[2]_combined_alerts.txt:
+==================================
+SIDs distintos y cuántas veces se repite cada uno:
+Número total de alertas: 0
+Número de flujos detectados: 0
+Número de mensajes de red con ataques: 0
+----------------------------------
+
+Resultados para T0866-RemoteAccess-VNC_[2]_combined_alerts.txt:
+==================================
+SIDs distintos y cuántas veces se repite cada uno:
+Número total de alertas: 0
+Número de flujos detectados: 0
+Número de mensajes de red con ataques: 0
+----------------------------------
+
+Resultados para T0866-RemoteAccess-VNC_[2]-FIXED_combined_alerts.txt:
+==================================
+SIDs distintos y cuántas veces se repite cada uno:
+Número total de alertas: 0
+Número de flujos detectados: 0
+Número de mensajes de red con ataques: 0
+----------------------------------
+
+Resultados para T0866-VulnAccess-SMBv1_[2]_combined_alerts.txt:
+==================================
+SIDs distintos y cuántas veces se repite cada uno:
+Número total de alertas: 0
+Número de flujos detectados: 0
+Número de mensajes de red con ataques: 0
+----------------------------------
+
+Resultados para T0882-DirectoryRead-IEC104_[2]_combined_alerts.txt:
+==================================
+SIDs distintos y cuántas veces se repite cada uno:
+Número total de alertas: 0
+Número de flujos detectados: 0
+Número de mensajes de red con ataques: 0
+----------------------------------
+
+Resultados para T0882-DirRead-DNP3-FIXED_[1]_combined_alerts.txt:
+==================================
+SIDs distintos y cuántas veces se repite cada uno:
+    108 1111202
+     52 1111206
+      2 1111208
+Número total de alertas: 162
+Número de flujos detectados: 1
+Número de mensajes de red con ataques: 159
+----------------------------------
+
+Resultados para T0885-C&Cp102Ignition-TCP_[1]_combined_alerts.txt:
+==================================
+SIDs distintos y cuántas veces se repite cada uno:
+Número total de alertas: 0
+Número de flujos detectados: 0
+Número de mensajes de red con ataques: 0
+----------------------------------
+
+Resultados para T0885-C&Cp20000RWin-TCP_[1]_combined_alerts.txt:
+==================================
+SIDs distintos y cuántas veces se repite cada uno:
+    117 1111202
+Número total de alertas: 117
+Número de flujos detectados: 1
+Número de mensajes de red con ataques: 117
+----------------------------------
+
+Resultados para T0885-C&Cp502Ignition-HTTP_[1]_combined_alerts.txt:
+==================================
+SIDs distintos y cuántas veces se repite cada uno:
+Número total de alertas: 0
+Número de flujos detectados: 0
+Número de mensajes de red con ataques: 0
+----------------------------------
+
+Resultados para T0885-C&Cp502RWin-TCP_[1]_combined_alerts.txt:
+==================================
+SIDs distintos y cuántas veces se repite cada uno:
+Número total de alertas: 0
+Número de flujos detectados: 0
+Número de mensajes de red con ataques: 0
+----------------------------------
+
+Resultados para T0885-C&Cp502RWin-TCP-2_[1]_combined_alerts.txt:
+==================================
+SIDs distintos y cuántas veces se repite cada uno:
+Número total de alertas: 0
+Número de flujos detectados: 0
+Número de mensajes de red con ataques: 0
+----------------------------------
+
+Resultados para T0885-C&Cp502RWin-TCP-3_[1]_combined_alerts.txt:
+==================================
+SIDs distintos y cuántas veces se repite cada uno:
+Número total de alertas: 0
+Número de flujos detectados: 0
+Número de mensajes de red con ataques: 0
+----------------------------------
+
+Resultados para T0886-BruteForce-MQTT_[2]_combined_alerts.txt:
+==================================
+SIDs distintos y cuántas veces se repite cada uno:
+Número total de alertas: 0
+Número de flujos detectados: 0
+Número de mensajes de red con ataques: 0
+----------------------------------
+
+Resultados para T0888-DiscoverInfo-DNP3_[1]_combined_alerts.txt:
+==================================
+SIDs distintos y cuántas veces se repite cada uno:
+     58 1111202
+     26 1111206
+      2 1111207
+Número total de alertas: 86
+Número de flujos detectados: 1
+Número de mensajes de red con ataques: 86
+----------------------------------
+
+Resultados para T0888-DiscverCoils-Modbus_[1]_combined_alerts.txt:
+==================================
+SIDs distintos y cuántas veces se repite cada uno:
+      1 1111006
+Número total de alertas: 1
+Número de flujos detectados: 1
+Número de mensajes de red con ataques: 1
+----------------------------------
+
+Resultados para T0888-DiscverFindID-Modbus_[1]_combined_alerts.txt:
+==================================
+SIDs distintos y cuántas veces se repite cada uno:
+     17 1111006
+Número total de alertas: 17
+Número de flujos detectados: 17
+Número de mensajes de red con ataques: 17
+----------------------------------
+
+Resultados para T0888-DiscverRegisters2-Modbus_[1]_combined_alerts.txt:
+==================================
+SIDs distintos y cuántas veces se repite cada uno:
+      1 1111006
+Número total de alertas: 1
+Número de flujos detectados: 1
+Número de mensajes de red con ataques: 1
+----------------------------------
+
+Resultados para T0888-DiscverRegisters-Modbus_[1]_combined_alerts.txt:
+==================================
+SIDs distintos y cuántas veces se repite cada uno:
+      1 1111006
+Número total de alertas: 1
+Número de flujos detectados: 1
+Número de mensajes de red con ataques: 1
+----------------------------------
+
+Resultados para T0888-ScanInfo-ENIP_[2]_combined_alerts.txt:
+==================================
+SIDs distintos y cuántas veces se repite cada uno:
+Número total de alertas: 0
+Número de flujos detectados: 0
+Número de mensajes de red con ataques: 0
+----------------------------------
+
+Resultados para T0888-ScanInfo-MQTT_[2]_combined_alerts.txt:
+==================================
+SIDs distintos y cuántas veces se repite cada uno:
+Número total de alertas: 0
+Número de flujos detectados: 0
+Número de mensajes de red con ataques: 0
+----------------------------------
+
+Resultados para T0888-ScanInfo-MQTT-noAuth_[2]_combined_alerts.txt:
+==================================
+SIDs distintos y cuántas veces se repite cada uno:
+Número total de alertas: 0
+Número de flujos detectados: 0
+Número de mensajes de red con ataques: 0
+----------------------------------
+
+Resultados para T0888-ScanInfo-OmronFINS_[2]_combined_alerts.txt:
+==================================
+SIDs distintos y cuántas veces se repite cada uno:
+      1 1111404
+      1 1111403
+      1 1111402
+      1 1111401
+Número total de alertas: 4
+Número de flujos detectados: 2
+Número de mensajes de red con ataques: 2
+----------------------------------
+
+Resultados para T0888-ScanInfo-OPCUA-Nmap_[2]_combined_alerts.txt:
+==================================
+SIDs distintos y cuántas veces se repite cada uno:
+Número total de alertas: 0
+Número de flujos detectados: 0
+Número de mensajes de red con ataques: 0
+----------------------------------
+
+Resultados para T0888-ScanInfo-OPCUA-OpcScan_[2]_combined_alerts.txt:
+==================================
+SIDs distintos y cuántas veces se repite cada uno:
+Número total de alertas: 0
+Número de flujos detectados: 0
+Número de mensajes de red con ataques: 0
+----------------------------------
+
+Resultados para T0890-EscalPrivileges-NetLogon-FIXED_[2]_combined_alerts.txt:
+==================================
+SIDs distintos y cuántas veces se repite cada uno:
+Número total de alertas: 0
+Número de flujos detectados: 0
+Número de mensajes de red con ataques: 0
+----------------------------------
+

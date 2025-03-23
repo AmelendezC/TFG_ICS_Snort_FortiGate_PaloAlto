@@ -1,0 +1,62 @@
+08/05-19:49:29.376016, 298, ICMP, raw, 148, C2S, 192.168.1.241:0, 192.168.1.195:0, 1:365:11, allow, "PROTOCOL-ICMP PING undefined code", Misc activity
+08/05-19:49:29.379143, 299, ICMP, raw, 148, S2C, 192.168.1.195:0, 192.168.1.241:0, 1:408:8, allow, "PROTOCOL-ICMP Echo Reply", Misc activity
+08/05-19:49:29.401441, 300, ICMP, raw, 178, C2S, 192.168.1.241:0, 192.168.1.195:0, 1:29456:3, allow, "PROTOCOL-ICMP Unusual PING detected", Information Leak
+08/05-19:49:29.401441, 300, ICMP, raw, 178, C2S, 192.168.1.241:0, 192.168.1.195:0, 1:384:8, allow, "PROTOCOL-ICMP PING", Misc activity
+08/05-19:49:29.404586, 301, ICMP, raw, 178, S2C, 192.168.1.195:0, 192.168.1.241:0, 1:408:8, allow, "PROTOCOL-ICMP Echo Reply", Misc activity
+08/05-19:49:29.426783, 302, UDP, raw, 328, C2S, 192.168.1.241:51551, 192.168.1.195:31454, 1:1390:17, allow, "INDICATOR-SHELLCODE x86 inc ebx NOOP", Executable code was detected
+08/05-19:49:29.502995, 307, TCP, raw, 60, C2S, 192.168.1.241:51489, 192.168.1.195:4840, 1:51066:1, allow, "POLICY-OTHER TCP SYN packet and URG set attempt", Generic Protocol Command Decode
+08/05-19:49:29.502995, 307, TCP, raw, 60, C2S, 192.168.1.241:51489, 192.168.1.195:4840, 1:51065:1, allow, "POLICY-OTHER TCP FIN packet and URG set attempt", Generic Protocol Command Decode
+08/05-19:49:29.502995, 307, TCP, raw, 60, C2S, 192.168.1.241:51489, 192.168.1.195:4840, 1:24378:4, allow, "POLICY-OTHER TCP packet with urgent flag attempt", Generic Protocol Command Decode
+08/05-19:49:29.604541, 311, TCP, raw, 60, C2S, 192.168.1.241:51493, 192.168.1.195:43613, 1:51065:1, allow, "POLICY-OTHER TCP FIN packet and URG set attempt", Generic Protocol Command Decode
+08/05-19:49:29.604541, 311, TCP, raw, 60, C2S, 192.168.1.241:51493, 192.168.1.195:43613, 1:24378:4, allow, "POLICY-OTHER TCP packet with urgent flag attempt", Generic Protocol Command Decode
+08/05-19:49:29.629963, 312, UDP, raw, 328, C2S, 192.168.1.241:51551, 192.168.1.195:31454, 1:1390:17, allow, "INDICATOR-SHELLCODE x86 inc ebx NOOP", Executable code was detected
+08/05-19:49:29.681668, 314, TCP, raw, 60, C2S, 192.168.1.241:51489, 192.168.1.195:4840, 1:51066:1, allow, "POLICY-OTHER TCP SYN packet and URG set attempt", Generic Protocol Command Decode
+08/05-19:49:29.681668, 314, TCP, raw, 60, C2S, 192.168.1.241:51489, 192.168.1.195:4840, 1:51065:1, allow, "POLICY-OTHER TCP FIN packet and URG set attempt", Generic Protocol Command Decode
+08/05-19:49:29.681668, 314, TCP, raw, 60, C2S, 192.168.1.241:51489, 192.168.1.195:4840, 1:24378:4, allow, "POLICY-OTHER TCP packet with urgent flag attempt", Generic Protocol Command Decode
+08/05-19:49:29.783223, 318, TCP, raw, 60, C2S, 192.168.1.241:51493, 192.168.1.195:43613, 1:51065:1, allow, "POLICY-OTHER TCP FIN packet and URG set attempt", Generic Protocol Command Decode
+08/05-19:49:29.783223, 318, TCP, raw, 60, C2S, 192.168.1.241:51493, 192.168.1.195:43613, 1:24378:4, allow, "POLICY-OTHER TCP packet with urgent flag attempt", Generic Protocol Command Decode
+08/05-19:49:29.809129, 319, UDP, raw, 328, C2S, 192.168.1.241:51551, 192.168.1.195:31454, 1:1390:17, allow, "INDICATOR-SHELLCODE x86 inc ebx NOOP", Executable code was detected
+08/05-19:49:29.860363, 321, TCP, raw, 60, C2S, 192.168.1.241:51489, 192.168.1.195:4840, 1:51066:1, allow, "POLICY-OTHER TCP SYN packet and URG set attempt", Generic Protocol Command Decode
+08/05-19:49:29.860363, 321, TCP, raw, 60, C2S, 192.168.1.241:51489, 192.168.1.195:4840, 1:51065:1, allow, "POLICY-OTHER TCP FIN packet and URG set attempt", Generic Protocol Command Decode
+08/05-19:49:29.860363, 321, TCP, raw, 60, C2S, 192.168.1.241:51489, 192.168.1.195:4840, 1:24378:4, allow, "POLICY-OTHER TCP packet with urgent flag attempt", Generic Protocol Command Decode
+08/05-19:49:29.961900, 325, TCP, raw, 60, C2S, 192.168.1.241:51493, 192.168.1.195:43613, 1:51065:1, allow, "POLICY-OTHER TCP FIN packet and URG set attempt", Generic Protocol Command Decode
+08/05-19:49:29.961900, 325, TCP, raw, 60, C2S, 192.168.1.241:51493, 192.168.1.195:43613, 1:24378:4, allow, "POLICY-OTHER TCP packet with urgent flag attempt", Generic Protocol Command Decode
+08/05-19:49:29.987328, 326, UDP, raw, 328, C2S, 192.168.1.241:51551, 192.168.1.195:31454, 1:1390:17, allow, "INDICATOR-SHELLCODE x86 inc ebx NOOP", Executable code was detected
+08/05-19:49:30.039158, 328, TCP, raw, 60, C2S, 192.168.1.241:51489, 192.168.1.195:4840, 1:51066:1, allow, "POLICY-OTHER TCP SYN packet and URG set attempt", Generic Protocol Command Decode
+08/05-19:49:30.039158, 328, TCP, raw, 60, C2S, 192.168.1.241:51489, 192.168.1.195:4840, 1:51065:1, allow, "POLICY-OTHER TCP FIN packet and URG set attempt", Generic Protocol Command Decode
+08/05-19:49:30.039158, 328, TCP, raw, 60, C2S, 192.168.1.241:51489, 192.168.1.195:4840, 1:24378:4, allow, "POLICY-OTHER TCP packet with urgent flag attempt", Generic Protocol Command Decode
+08/05-19:49:30.141758, 332, TCP, raw, 60, C2S, 192.168.1.241:51493, 192.168.1.195:43613, 1:51065:1, allow, "POLICY-OTHER TCP FIN packet and URG set attempt", Generic Protocol Command Decode
+08/05-19:49:30.141758, 332, TCP, raw, 60, C2S, 192.168.1.241:51493, 192.168.1.195:43613, 1:24378:4, allow, "POLICY-OTHER TCP packet with urgent flag attempt", Generic Protocol Command Decode
+08/05-19:49:31.795074, 351, ICMP, raw, 148, C2S, 192.168.1.241:0, 192.168.1.195:0, 1:365:11, allow, "PROTOCOL-ICMP PING undefined code", Misc activity
+08/05-19:49:31.798243, 352, ICMP, raw, 148, S2C, 192.168.1.195:0, 192.168.1.241:0, 1:408:8, allow, "PROTOCOL-ICMP Echo Reply", Misc activity
+08/05-19:49:31.820426, 353, ICMP, raw, 178, C2S, 192.168.1.241:0, 192.168.1.195:0, 1:29456:3, allow, "PROTOCOL-ICMP Unusual PING detected", Information Leak
+08/05-19:49:31.820426, 353, ICMP, raw, 178, C2S, 192.168.1.241:0, 192.168.1.195:0, 1:384:8, allow, "PROTOCOL-ICMP PING", Misc activity
+08/05-19:49:31.823256, 354, ICMP, raw, 178, S2C, 192.168.1.195:0, 192.168.1.241:0, 1:408:8, allow, "PROTOCOL-ICMP Echo Reply", Misc activity
+08/05-19:49:31.845845, 355, UDP, raw, 328, C2S, 192.168.1.241:51551, 192.168.1.195:34532, 1:1390:17, allow, "INDICATOR-SHELLCODE x86 inc ebx NOOP", Executable code was detected
+08/05-19:49:31.921976, 360, TCP, raw, 60, C2S, 192.168.1.241:51489, 192.168.1.195:4840, 1:51066:1, allow, "POLICY-OTHER TCP SYN packet and URG set attempt", Generic Protocol Command Decode
+08/05-19:49:31.921976, 360, TCP, raw, 60, C2S, 192.168.1.241:51489, 192.168.1.195:4840, 1:51065:1, allow, "POLICY-OTHER TCP FIN packet and URG set attempt", Generic Protocol Command Decode
+08/05-19:49:31.921976, 360, TCP, raw, 60, C2S, 192.168.1.241:51489, 192.168.1.195:4840, 1:24378:4, allow, "POLICY-OTHER TCP packet with urgent flag attempt", Generic Protocol Command Decode
+08/05-19:49:32.023556, 364, TCP, raw, 60, C2S, 192.168.1.241:51493, 192.168.1.195:30490, 1:51065:1, allow, "POLICY-OTHER TCP FIN packet and URG set attempt", Generic Protocol Command Decode
+08/05-19:49:32.023556, 364, TCP, raw, 60, C2S, 192.168.1.241:51493, 192.168.1.195:30490, 1:24378:4, allow, "POLICY-OTHER TCP packet with urgent flag attempt", Generic Protocol Command Decode
+08/05-19:49:32.049078, 365, UDP, raw, 328, C2S, 192.168.1.241:51551, 192.168.1.195:34532, 1:1390:17, allow, "INDICATOR-SHELLCODE x86 inc ebx NOOP", Executable code was detected
+08/05-19:49:32.099673, 367, TCP, raw, 60, C2S, 192.168.1.241:51489, 192.168.1.195:4840, 1:51066:1, allow, "POLICY-OTHER TCP SYN packet and URG set attempt", Generic Protocol Command Decode
+08/05-19:49:32.099673, 367, TCP, raw, 60, C2S, 192.168.1.241:51489, 192.168.1.195:4840, 1:51065:1, allow, "POLICY-OTHER TCP FIN packet and URG set attempt", Generic Protocol Command Decode
+08/05-19:49:32.099673, 367, TCP, raw, 60, C2S, 192.168.1.241:51489, 192.168.1.195:4840, 1:24378:4, allow, "POLICY-OTHER TCP packet with urgent flag attempt", Generic Protocol Command Decode
+08/05-19:49:32.201490, 371, TCP, raw, 60, C2S, 192.168.1.241:51493, 192.168.1.195:30490, 1:51065:1, allow, "POLICY-OTHER TCP FIN packet and URG set attempt", Generic Protocol Command Decode
+08/05-19:49:32.201490, 371, TCP, raw, 60, C2S, 192.168.1.241:51493, 192.168.1.195:30490, 1:24378:4, allow, "POLICY-OTHER TCP packet with urgent flag attempt", Generic Protocol Command Decode
+08/05-19:49:32.226790, 372, UDP, raw, 328, C2S, 192.168.1.241:51551, 192.168.1.195:34532, 1:1390:17, allow, "INDICATOR-SHELLCODE x86 inc ebx NOOP", Executable code was detected
+08/05-19:49:32.277616, 374, TCP, raw, 60, C2S, 192.168.1.241:51489, 192.168.1.195:4840, 1:51066:1, allow, "POLICY-OTHER TCP SYN packet and URG set attempt", Generic Protocol Command Decode
+08/05-19:49:32.277616, 374, TCP, raw, 60, C2S, 192.168.1.241:51489, 192.168.1.195:4840, 1:51065:1, allow, "POLICY-OTHER TCP FIN packet and URG set attempt", Generic Protocol Command Decode
+08/05-19:49:32.277616, 374, TCP, raw, 60, C2S, 192.168.1.241:51489, 192.168.1.195:4840, 1:24378:4, allow, "POLICY-OTHER TCP packet with urgent flag attempt", Generic Protocol Command Decode
+08/05-19:49:32.383917, 378, TCP, raw, 60, C2S, 192.168.1.241:51493, 192.168.1.195:30490, 1:51065:1, allow, "POLICY-OTHER TCP FIN packet and URG set attempt", Generic Protocol Command Decode
+08/05-19:49:32.383917, 378, TCP, raw, 60, C2S, 192.168.1.241:51493, 192.168.1.195:30490, 1:24378:4, allow, "POLICY-OTHER TCP packet with urgent flag attempt", Generic Protocol Command Decode
+08/05-19:49:32.409469, 379, UDP, raw, 328, C2S, 192.168.1.241:51551, 192.168.1.195:34532, 1:1390:17, allow, "INDICATOR-SHELLCODE x86 inc ebx NOOP", Executable code was detected
+08/05-19:49:32.461152, 381, TCP, raw, 60, C2S, 192.168.1.241:51489, 192.168.1.195:4840, 1:51066:1, allow, "POLICY-OTHER TCP SYN packet and URG set attempt", Generic Protocol Command Decode
+08/05-19:49:32.461152, 381, TCP, raw, 60, C2S, 192.168.1.241:51489, 192.168.1.195:4840, 1:51065:1, allow, "POLICY-OTHER TCP FIN packet and URG set attempt", Generic Protocol Command Decode
+08/05-19:49:32.461152, 381, TCP, raw, 60, C2S, 192.168.1.241:51489, 192.168.1.195:4840, 1:24378:4, allow, "POLICY-OTHER TCP packet with urgent flag attempt", Generic Protocol Command Decode
+08/05-19:49:32.562696, 385, TCP, raw, 60, C2S, 192.168.1.241:51493, 192.168.1.195:30490, 1:51065:1, allow, "POLICY-OTHER TCP FIN packet and URG set attempt", Generic Protocol Command Decode
+08/05-19:49:32.562696, 385, TCP, raw, 60, C2S, 192.168.1.241:51493, 192.168.1.195:30490, 1:24378:4, allow, "POLICY-OTHER TCP packet with urgent flag attempt", Generic Protocol Command Decode
+08/05-19:49:43.212612, 401, UDP, raw, 202, C2S, 192.168.1.195:63850, 239.255.255.250:1900, 1:1917:16, allow, "INDICATOR-SCAN UPnP service discover attempt", Detection of a Network Scan
+08/05-19:49:44.224997, 402, UDP, raw, 202, C2S, 192.168.1.195:63850, 239.255.255.250:1900, 1:1917:16, allow, "INDICATOR-SCAN UPnP service discover attempt", Detection of a Network Scan
+08/05-19:49:45.226544, 403, UDP, raw, 202, C2S, 192.168.1.195:63850, 239.255.255.250:1900, 1:1917:16, allow, "INDICATOR-SCAN UPnP service discover attempt", Detection of a Network Scan
+08/05-19:49:46.226993, 404, UDP, raw, 202, C2S, 192.168.1.195:63850, 239.255.255.250:1900, 1:1917:16, allow, "INDICATOR-SCAN UPnP service discover attempt", Detection of a Network Scan

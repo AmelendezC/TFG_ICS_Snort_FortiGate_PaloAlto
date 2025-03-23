@@ -1,0 +1,5 @@
+ID_regla	sessionid	repeatcnt	severity_number	Nombre_regla	thread_category	prot	src_ip	dst_ip	log_subtype	extra_data
+31670	6767	2	1	SCADA ICCP COTP Connection Attempt	info-leak	tcp	192.168.0.142	192.168.0.64	vulnerability	
+31670	6767	2	1	SCADA ICCP COTP Connection Attempt	info-leak	tcp	192.168.0.142	192.168.0.64	vulnerability	
+31671	6767	2	2	SCADA ICCP Unauthorized COTP Connection Established	info-leak	tcp	192.168.0.142	192.168.0.64	vulnerability	
+31671	6767	2	2	SCADA ICCP Unauthorized COTP Connection Established	info-leak	tcp	192.168.0.142	192.168.0.64	vulnerability	

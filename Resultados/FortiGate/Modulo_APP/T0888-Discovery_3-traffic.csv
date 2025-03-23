@@ -1,0 +1,12 @@
+appid	sessionid	app	msg	apprisk	srcip	dstip	DeviceID
+24466	75322	Ping	Network.Service: Ping	elevated	10.200.1.252	10.50.1.10	
+24466	75450	Ping	Network.Service: Ping	elevated	10.200.1.159	10.50.1.10	
+24466	75453	Ping	Network.Service: Ping	elevated	10.200.1.159	10.50.1.10	
+16206	75467	ICMP	Network.Service: ICMP	elevated	10.200.1.159	10.50.1.10	
+16206	75470	ICMP	Network.Service: ICMP	elevated	10.200.1.159	10.50.1.10	
+24466	75520	Ping	Network.Service: Ping	elevated	10.200.1.166	10.50.1.10	
+24466	75519	Ping	Network.Service: Ping	elevated	10.200.1.166	10.50.1.10	
+24466	75550	Ping	Network.Service: Ping	elevated	10.200.1.159	10.50.1.10	
+24466	75555	Ping	Network.Service: Ping	elevated	10.200.1.159	10.50.1.10	
+16206	75663	ICMP	Network.Service: ICMP	elevated	10.200.1.159	10.50.1.10	
+16206	75671	ICMP	Network.Service: ICMP	elevated	10.200.1.159	10.50.1.10	

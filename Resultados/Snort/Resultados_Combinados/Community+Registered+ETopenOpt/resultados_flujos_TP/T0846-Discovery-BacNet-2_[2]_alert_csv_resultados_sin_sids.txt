@@ -1,0 +1,2 @@
+Número total de flujos distintos en T0846-Discovery-BacNet-2_[2]_alert_csv.txt: 0
+No se encontraron flujos sin los SIDs especificados.

@@ -1,0 +1,365 @@
+app	container_of_app	sessionid	subcategory_of_app	risk_of_app	proto	src_ip	dst_ip
+msrpc-base	msrpc	23076	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23077	auth-service	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23078	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23080	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23079	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23081	auth-service	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23082	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23084	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23083	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23085	auth-service	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23086	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23088	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23090	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23092	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23094	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23096	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23098	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23091	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23089	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23093	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23097	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23099	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23095	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23087	auth-service	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23100	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23102	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23104	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23106	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23108	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23110	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23112	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23114	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23122	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23120	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23118	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23116	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23139	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23143	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23133	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23163	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23151	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23161	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23159	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23157	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23155	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23153	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23149	auth-service	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23164	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23166	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23168	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23170	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23172	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23174	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23176	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23178	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23180	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23182	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23184	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23186	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23188	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23190	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23192	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23194	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23167	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23175	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23177	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23169	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23171	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23173	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23165	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23181	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23179	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23183	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23187	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23185	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23191	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23189	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23193	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23195	auth-service	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23196	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23198	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23200	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23202	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23204	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23206	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23208	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23210	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23218	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23216	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23214	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23212	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23145	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23147	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23141	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23137	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23135	auth-service	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23162	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23160	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23158	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23156	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23154	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23152	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23150	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23148	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23146	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23144	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23142	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23140	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23138	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23136	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23134	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23132	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23131	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23129	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23115	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23121	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23117	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23123	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23119	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23125	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23127	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23111	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23101	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23107	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23109	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23113	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23103	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23105	auth-service	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23130	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23128	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23126	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23124	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23249	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23247	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23237	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23245	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23243	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23235	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23239	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23241	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23253	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23259	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23257	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23251	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23255	auth-service	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23260	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23262	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23264	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23266	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23268	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23270	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23272	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23274	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23276	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23278	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23280	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23282	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23284	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23286	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23288	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23290	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23263	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23261	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23277	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23267	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23275	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23273	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23269	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23265	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23271	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23279	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23291	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23289	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23287	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23285	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23281	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23283	auth-service	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23292	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23294	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23296	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23298	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23300	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23302	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23304	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23306	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23314	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23312	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23310	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23308	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23231	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23229	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23233	auth-service	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23258	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23256	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23254	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23252	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23250	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23248	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23246	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23244	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23242	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23240	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23238	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23236	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23234	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23232	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23230	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23228	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23211	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23221	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23223	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23225	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23227	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23213	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23215	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23219	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23217	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23209	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23201	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23203	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23199	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23205	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23207	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23197	auth-service	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23226	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23224	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23222	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23220	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23325	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23327	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23335	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23329	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23333	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23337	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23343	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23331	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23339	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23341	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23351	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23345	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23347	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23349	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23353	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23355	auth-service	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23356	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23358	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23360	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23362	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23364	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23366	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23368	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23370	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23372	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23374	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23376	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23378	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23380	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23382	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23384	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23386	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23357	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23359	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23369	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23365	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23363	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23367	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23361	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23381	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23379	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23387	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23375	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23385	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23383	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23373	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23377	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23371	auth-service	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23388	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23390	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23392	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23394	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23396	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23398	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23400	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23402	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23410	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23408	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23406	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23404	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23354	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23352	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23350	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23348	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23346	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23344	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23342	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23340	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23338	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23336	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23334	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23332	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23330	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23328	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23326	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23324	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23311	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23313	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23309	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23315	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23317	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23319	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23321	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23323	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23303	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23293	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23301	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23305	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23299	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23307	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23295	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23297	auth-service	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23322	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23320	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23318	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23316	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23435	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23439	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23437	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23427	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23423	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23421	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23429	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23431	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23425	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23433	auth-service	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23438	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23436	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23434	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23432	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23430	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23428	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23426	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23424	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23422	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23420	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23415	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23417	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23419	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23409	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23407	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23405	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23411	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23413	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23399	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23397	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23391	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23401	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23395	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23403	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23389	auth-service	2	tcp	192.168.1.135	192.168.1.200
+ms-netlogon		23393	auth-service	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23418	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23416	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23414	infrastructure	2	tcp	192.168.1.135	192.168.1.200
+msrpc-base	msrpc	23412	infrastructure	2	tcp	192.168.1.135	192.168.1.200

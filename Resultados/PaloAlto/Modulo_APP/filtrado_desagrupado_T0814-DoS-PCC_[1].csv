@@ -1,0 +1,6 @@
+app	container_of_app	sessionid	subcategory_of_app	risk_of_app	proto	src_ip	dst_ip
+pccc-cip-prot-typed-log-read	cip-ethernet-ip	6693	ics-protocols	1	tcp	192.168.0.142	192.168.0.64
+netbios-ns		6694	infrastructure	2	udp	192.168.56.1	192.168.0.142
+netbios-ns		6695	infrastructure	2	udp	192.168.1.190	192.168.0.142
+netbios-ns		6696	infrastructure	2	udp	192.168.174.1	192.168.0.142
+netbios-ns		6697	infrastructure	2	udp	192.168.232.1	192.168.0.142

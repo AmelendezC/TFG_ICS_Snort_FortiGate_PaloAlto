@@ -1,0 +1,5 @@
+appid	sessionid	app	msg	apprisk	srcip	dstip	DeviceID
+51609	6809	Omron.FINS_Controller.Data.Read	Operational.Technology: Omron.FINS_Controller.Data.Read	elevated	10.1.1.173	10.1.1.164	
+10000000	6809	Omron.Devices	IoT: Omron.Devices	low	10.1.1.173	10.1.1.164	
+44542	6806	Omron.FINS	Operational.Technology: Omron.FINS	elevated	10.1.1.173	10.1.1.164	
+51609	6806	Omron.FINS_Controller.Data.Read	Operational.Technology: Omron.FINS_Controller.Data.Read	elevated	10.1.1.173	10.1.1.164	

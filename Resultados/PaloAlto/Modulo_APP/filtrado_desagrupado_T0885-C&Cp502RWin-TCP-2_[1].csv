@@ -1,0 +1,3 @@
+app	container_of_app	sessionid	subcategory_of_app	risk_of_app	proto	src_ip	dst_ip
+cip-ethernet-ip-send-rr-data	cip-ethernet-ip	6652	ics-protocols	1	tcp	192.168.1.144	192.168.1.133
+insufficient-data		6790	unknown	1	tcp	192.168.2.92	192.168.2.87

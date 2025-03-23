@@ -1,0 +1,22 @@
+08/05-19:49:29.376016, 298, ICMP, raw, 148, C2S, 192.168.1.241:0, 192.168.1.195:0, 1:365:11, allow, "PROTOCOL-ICMP PING undefined code", Misc activity
+08/05-19:49:29.379143, 299, ICMP, raw, 148, S2C, 192.168.1.195:0, 192.168.1.241:0, 1:408:8, allow, "PROTOCOL-ICMP Echo Reply", Misc activity
+08/05-19:49:29.401441, 300, ICMP, raw, 178, C2S, 192.168.1.241:0, 192.168.1.195:0, 1:29456:3, allow, "PROTOCOL-ICMP Unusual PING detected", Information Leak
+08/05-19:49:29.401441, 300, ICMP, raw, 178, C2S, 192.168.1.241:0, 192.168.1.195:0, 1:384:8, allow, "PROTOCOL-ICMP PING", Misc activity
+08/05-19:49:29.404586, 301, ICMP, raw, 178, S2C, 192.168.1.195:0, 192.168.1.241:0, 1:408:8, allow, "PROTOCOL-ICMP Echo Reply", Misc activity
+08/05-19:49:29.426783, 302, UDP, raw, 328, C2S, 192.168.1.241:51551, 192.168.1.195:31454, 1:1390:17, allow, "INDICATOR-SHELLCODE x86 inc ebx NOOP", Executable code was detected
+08/05-19:49:29.629963, 312, UDP, raw, 328, C2S, 192.168.1.241:51551, 192.168.1.195:31454, 1:1390:17, allow, "INDICATOR-SHELLCODE x86 inc ebx NOOP", Executable code was detected
+08/05-19:49:29.809129, 319, UDP, raw, 328, C2S, 192.168.1.241:51551, 192.168.1.195:31454, 1:1390:17, allow, "INDICATOR-SHELLCODE x86 inc ebx NOOP", Executable code was detected
+08/05-19:49:29.987328, 326, UDP, raw, 328, C2S, 192.168.1.241:51551, 192.168.1.195:31454, 1:1390:17, allow, "INDICATOR-SHELLCODE x86 inc ebx NOOP", Executable code was detected
+08/05-19:49:31.795074, 351, ICMP, raw, 148, C2S, 192.168.1.241:0, 192.168.1.195:0, 1:365:11, allow, "PROTOCOL-ICMP PING undefined code", Misc activity
+08/05-19:49:31.798243, 352, ICMP, raw, 148, S2C, 192.168.1.195:0, 192.168.1.241:0, 1:408:8, allow, "PROTOCOL-ICMP Echo Reply", Misc activity
+08/05-19:49:31.820426, 353, ICMP, raw, 178, C2S, 192.168.1.241:0, 192.168.1.195:0, 1:29456:3, allow, "PROTOCOL-ICMP Unusual PING detected", Information Leak
+08/05-19:49:31.820426, 353, ICMP, raw, 178, C2S, 192.168.1.241:0, 192.168.1.195:0, 1:384:8, allow, "PROTOCOL-ICMP PING", Misc activity
+08/05-19:49:31.823256, 354, ICMP, raw, 178, S2C, 192.168.1.195:0, 192.168.1.241:0, 1:408:8, allow, "PROTOCOL-ICMP Echo Reply", Misc activity
+08/05-19:49:31.845845, 355, UDP, raw, 328, C2S, 192.168.1.241:51551, 192.168.1.195:34532, 1:1390:17, allow, "INDICATOR-SHELLCODE x86 inc ebx NOOP", Executable code was detected
+08/05-19:49:32.049078, 365, UDP, raw, 328, C2S, 192.168.1.241:51551, 192.168.1.195:34532, 1:1390:17, allow, "INDICATOR-SHELLCODE x86 inc ebx NOOP", Executable code was detected
+08/05-19:49:32.226790, 372, UDP, raw, 328, C2S, 192.168.1.241:51551, 192.168.1.195:34532, 1:1390:17, allow, "INDICATOR-SHELLCODE x86 inc ebx NOOP", Executable code was detected
+08/05-19:49:32.409469, 379, UDP, raw, 328, C2S, 192.168.1.241:51551, 192.168.1.195:34532, 1:1390:17, allow, "INDICATOR-SHELLCODE x86 inc ebx NOOP", Executable code was detected
+08/05-19:49:43.212612, 401, UDP, raw, 202, C2S, 192.168.1.195:63850, 239.255.255.250:1900, 1:1917:16, allow, "INDICATOR-SCAN UPnP service discover attempt", Detection of a Network Scan
+08/05-19:49:44.224997, 402, UDP, raw, 202, C2S, 192.168.1.195:63850, 239.255.255.250:1900, 1:1917:16, allow, "INDICATOR-SCAN UPnP service discover attempt", Detection of a Network Scan
+08/05-19:49:45.226544, 403, UDP, raw, 202, C2S, 192.168.1.195:63850, 239.255.255.250:1900, 1:1917:16, allow, "INDICATOR-SCAN UPnP service discover attempt", Detection of a Network Scan
+08/05-19:49:46.226993, 404, UDP, raw, 202, C2S, 192.168.1.195:63850, 239.255.255.250:1900, 1:1917:16, allow, "INDICATOR-SCAN UPnP service discover attempt", Detection of a Network Scan

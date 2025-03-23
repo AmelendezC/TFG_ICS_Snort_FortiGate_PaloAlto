@@ -1,0 +1,4 @@
+app	container_of_app	sessionid	subcategory_of_app	risk_of_app	proto	src_ip	dst_ip
+104apci-unnumbered-startdt-con	iec-60870-5-104	6872	ics-protocols	1	tcp	192.168.1.129	192.168.1.130
+104apci-supervisory	iec-60870-5-104	6870	ics-protocols	2	tcp	192.168.1.129	192.168.1.130
+spotify		6871	audio-streaming	3	udp	192.168.1.129	192.168.1.130

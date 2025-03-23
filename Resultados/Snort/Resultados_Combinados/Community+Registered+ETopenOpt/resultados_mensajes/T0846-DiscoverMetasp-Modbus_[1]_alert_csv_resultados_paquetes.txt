@@ -1,0 +1,4 @@
+Números de paquete distintos encontrados en el archivo T0846-DiscoverMetasp-Modbus_[1]_alert_csv.txt:
+ 4
+ 6
+Total de números de paquete distintos: 2

@@ -1,0 +1,1 @@
+04/04-00:11:06.723620, 6, TCP, raw, 64, C2S, 192.168.1.135:45957, 192.168.1.200:5900, 1:560:9, allow, "APP-DETECT VNC server response", Misc activity

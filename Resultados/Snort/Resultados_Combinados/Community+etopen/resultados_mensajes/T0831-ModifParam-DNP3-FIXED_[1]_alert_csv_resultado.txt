@@ -1,0 +1,10 @@
+Números de paquete distintos encontrados en el archivo T0831-ModifParam-DNP3-FIXED_[1]_alert_csv.txt:
+243
+242
+247
+238
+234
+230
+255
+251
+Total de números de paquete distintos: 8

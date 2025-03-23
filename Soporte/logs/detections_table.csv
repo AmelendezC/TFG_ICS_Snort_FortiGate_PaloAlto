@@ -1,0 +1,4 @@
+Nombre pcapng,nº entradas trafico legitimo,nº entradas de trafico de ataque,nº total de flujos identificados,nº de alertas
+T0885-C&Cp102Ignition-TCP_[1].log,2,2,2,0
+T0885-C&Cp502Ignition-HTTP_[1].log,3,4,5,0
+T0885-C&Cp502RWin-TCP_[1].log,0,2,2,0

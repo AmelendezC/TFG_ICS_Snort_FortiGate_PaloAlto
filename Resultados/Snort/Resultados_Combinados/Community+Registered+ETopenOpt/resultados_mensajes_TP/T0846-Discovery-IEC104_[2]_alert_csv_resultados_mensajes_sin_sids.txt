@@ -1,0 +1,6 @@
+Números de paquete distintos encontrados en el archivo T0846-Discovery-IEC104_[2]_alert_csv.txt:
+ 285
+ 288
+ 290
+ 292
+Total de números de paquete distintos: 4

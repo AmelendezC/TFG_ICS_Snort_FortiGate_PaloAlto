@@ -1,0 +1,6 @@
+app	container_of_app	sessionid	subcategory_of_app	risk_of_app	proto	src_ip	dst_ip
+incomplete		4586	unknown	1	tcp	10.1.1.173	10.1.1.164
+omron-fins-controller-data-read	omron-fins	4587	ics-protocols	1	tcp	10.1.1.173	10.1.1.164
+insufficient-data		4588	unknown	1	udp	10.1.1.173	10.1.1.164
+insufficient-data		4589	unknown	1	udp	10.1.1.173	10.1.1.164
+omron-fins-controller-data-read	omron-fins	4590	ics-protocols	1	udp	10.1.1.173	10.1.1.164

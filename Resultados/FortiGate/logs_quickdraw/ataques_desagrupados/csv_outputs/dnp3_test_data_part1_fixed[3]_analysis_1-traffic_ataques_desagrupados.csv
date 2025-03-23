@@ -1,0 +1,5 @@
+attackid,sessionid,repeated,severity,attack,service,srcip,dstip,subtype,eventtype,url
+11509,24349924,1,"info","DNP3.Broadcast.Request.Authorized.Client","DNP3",10.0.0.8,10.0.0.3,"ips","signature","http://www.fortinet.com/ids/VID11509"
+11509,24349926,1,"info","DNP3.Broadcast.Request.Authorized.Client","DNP3",10.0.0.9,10.0.0.3,"ips","signature","http://www.fortinet.com/ids/VID11509"
+11509,24349926,1,"info","DNP3.Broadcast.Request.Authorized.Client","DNP3",10.0.0.9,10.0.0.3,"ips","signature","http://www.fortinet.com/ids/VID11509"
+11509,24349924,1,"info","DNP3.Broadcast.Request.Authorized.Client","DNP3",10.0.0.8,10.0.0.3,"ips","signature","http://www.fortinet.com/ids/VID11509"

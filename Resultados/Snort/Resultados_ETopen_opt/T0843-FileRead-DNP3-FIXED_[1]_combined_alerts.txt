@@ -1,0 +1,4 @@
+1,2002752,1 06/29-20:35:59.609975  [**] [1:2002752:4] ET POLICY Reserved Internal IP Traffic [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.113.223:59664 -> 192.168.113.175:20000
+1,2002749,1 06/29-20:35:59.609975  [**] [1:2002749:14] ET POLICY Unallocated IP Space Traffic - Bogon Nets [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.113.223:59664 -> 192.168.113.175:20000
+2,2002752,1 06/29-20:35:59.610133  [**] [1:2002752:4] ET POLICY Reserved Internal IP Traffic [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.113.175:20000 -> 192.168.113.223:59664
+2,2002749,1 06/29-20:35:59.610133  [**] [1:2002749:14] ET POLICY Unallocated IP Space Traffic - Bogon Nets [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.113.175:20000 -> 192.168.113.223:59664

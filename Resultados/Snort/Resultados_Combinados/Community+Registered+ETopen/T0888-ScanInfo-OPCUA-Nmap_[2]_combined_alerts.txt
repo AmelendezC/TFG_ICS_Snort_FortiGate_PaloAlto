@@ -1,0 +1,8 @@
+302,2018489,1 08/05-19:49:29.426783  [**] [1:2018489:3] ET SCAN NMAP OS Detection Probe [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 192.168.1.241:51551 -> 192.168.1.195:31454
+312,2018489,1 08/05-19:49:29.629963  [**] [1:2018489:3] ET SCAN NMAP OS Detection Probe [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 192.168.1.241:51551 -> 192.168.1.195:31454
+319,2018489,1 08/05-19:49:29.809129  [**] [1:2018489:3] ET SCAN NMAP OS Detection Probe [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 192.168.1.241:51551 -> 192.168.1.195:31454
+326,2018489,1 08/05-19:49:29.987328  [**] [1:2018489:3] ET SCAN NMAP OS Detection Probe [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 192.168.1.241:51551 -> 192.168.1.195:31454
+355,2018489,1 08/05-19:49:31.845845  [**] [1:2018489:3] ET SCAN NMAP OS Detection Probe [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 192.168.1.241:51551 -> 192.168.1.195:34532
+365,2018489,1 08/05-19:49:32.049078  [**] [1:2018489:3] ET SCAN NMAP OS Detection Probe [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 192.168.1.241:51551 -> 192.168.1.195:34532
+372,2018489,1 08/05-19:49:32.226790  [**] [1:2018489:3] ET SCAN NMAP OS Detection Probe [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 192.168.1.241:51551 -> 192.168.1.195:34532
+379,2018489,1 08/05-19:49:32.409469  [**] [1:2018489:3] ET SCAN NMAP OS Detection Probe [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 192.168.1.241:51551 -> 192.168.1.195:34532

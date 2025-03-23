@@ -1,0 +1,8 @@
+nombre_del_fichero,num_flujos
+bacnet_test_fixed[3]_analysis_1-traffic_ataques_desagrupados.log,1
+dnp3_test_data_part1_fixed[3]_analysis_1-traffic_ataques_desagrupados.log,8
+fox_info_fixed[3]_analysis_1-traffic_ataques_desagrupados.log,1
+modbus_test_data_part1_fixed[3]_analysis_1-traffic_ataques_desagrupados.log,3
+modbus_test_data_part2_fixed[3]_analysis_1-traffic_ataques_desagrupados.log,1
+modicon_test_fixed[3]_analysis_1-traffic_ataques_desagrupados.log,1
+s7_test_fixed[3]_analysis_1-traffic_ataques_desagrupados.log,2

@@ -1,0 +1,14 @@
+Números de paquete distintos encontrados en el archivo T0831-Modifparam-IEC104_[2]_combined_alerts.txt (excluyendo SIDs 1917 24303 57155 40517 2012648):
+37
+38
+76
+77
+23
+10
+11
+14
+121
+122
+67
+66
+Total de números de paquete distintos: 12

@@ -1,0 +1,5 @@
+Números de paquete distintos encontrados en el archivo T0843-FileWrite-DNP3-FIXED_[1]_alert_csv.txt:
+ 195
+ 199
+ 203
+Total de números de paquete distintos: 3

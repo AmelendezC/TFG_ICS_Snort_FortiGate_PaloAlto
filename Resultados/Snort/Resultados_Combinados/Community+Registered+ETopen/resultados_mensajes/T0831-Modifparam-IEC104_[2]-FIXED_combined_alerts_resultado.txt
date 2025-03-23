@@ -1,0 +1,13 @@
+Números de paquete distintos encontrados en el archivo T0831-Modifparam-IEC104_[2]-FIXED_combined_alerts.txt:
+8
+5
+4
+26
+25
+41
+40
+49
+48
+69
+68
+Total de números de paquete distintos: 11

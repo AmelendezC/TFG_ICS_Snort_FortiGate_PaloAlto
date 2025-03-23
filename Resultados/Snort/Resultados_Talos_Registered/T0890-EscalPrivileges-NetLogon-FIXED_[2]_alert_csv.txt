@@ -1,0 +1,6 @@
+03/26-12:30:22.985743, 3, IP, raw, 32, C2S, 192.168.1.1:0, 224.0.0.1:0, 1:51037:1, allow, "POLICY-OTHER IGMP membership query attempt", Generic Protocol Command Decode
+03/26-12:30:22.985743, 4, ICMP, raw, 76, C2S, fe80::ead1:1bff:fe32:5b6d:0, ff02::1:0, 1:24301:5, allow, "PROTOCOL-ICMP IPv6 MLD multicast listener query attempt", Misc activity
+03/26-12:30:26.700765, 14, UDP, raw, 153, C2S, 192.168.1.71:41058, 239.255.255.250:1900, 1:1917:16, allow, "INDICATOR-SCAN UPnP service discover attempt", Detection of a Network Scan
+03/26-12:30:37.827882, 4677, IP, raw, 32, C2S, 192.168.1.1:0, 224.0.0.1:0, 1:51037:1, allow, "POLICY-OTHER IGMP membership query attempt", Generic Protocol Command Decode
+03/26-12:30:37.829734, 4682, ICMP, raw, 76, C2S, fe80::ead1:1bff:fe32:5b6d:0, ff02::1:0, 1:24301:5, allow, "PROTOCOL-ICMP IPv6 MLD multicast listener query attempt", Misc activity
+03/26-12:30:44.987308, 4865, UDP, raw, 153, C2S, 192.168.1.39:62276, 239.255.255.250:1900, 1:1917:16, allow, "INDICATOR-SCAN UPnP service discover attempt", Detection of a Network Scan

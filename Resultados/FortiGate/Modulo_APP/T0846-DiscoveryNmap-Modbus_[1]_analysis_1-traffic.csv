@@ -1,0 +1,12 @@
+appid	sessionid	app	msg	apprisk	srcip	dstip	DeviceID
+25899	5681	Modbus_Encapsulated.Interface.Transport	Operational.Technology: Modbus_Encapsulated.Interface.Transport	elevated	192.168.100.2	192.168.100.3	
+45339	5681	Modbus_Encapsulated.Interface.Transport.Read.Device.Info	Operational.Technology: Modbus_Encapsulated.Interface.Transport.Read.Device.Info	elevated	192.168.100.2	192.168.100.3	
+51756	5681	Modbus_Read.Device.ID	Operational.Technology: Modbus_Read.Device.ID	elevated	192.168.100.2	192.168.100.3	
+25899	5681	Modbus_Encapsulated.Interface.Transport	Operational.Technology: Modbus_Encapsulated.Interface.Transport	elevated	192.168.100.2	192.168.100.3	
+41297	5681	Modbus_Encapsulated.Interface.Transport.Error	Operational.Technology: Modbus_Encapsulated.Interface.Transport.Error	elevated	192.168.100.2	192.168.100.3	
+40034	5681	Modbus_Exception.Illegal.Function	Operational.Technology: Modbus_Exception.Illegal.Function	elevated	192.168.100.2	192.168.100.3	
+40034	5681	Modbus_Exception.Illegal.Function	Operational.Technology: Modbus_Exception.Illegal.Function	elevated	192.168.100.2	192.168.100.3	
+31625	5680	Modbus_Report.Slave.ID	Operational.Technology: Modbus_Report.Slave.ID	elevated	192.168.100.2	192.168.100.3	
+41291	5680	Modbus_Report.Slave.ID.Error	Operational.Technology: Modbus_Report.Slave.ID.Error	elevated	192.168.100.2	192.168.100.3	
+40034	5680	Modbus_Exception.Illegal.Function	Operational.Technology: Modbus_Exception.Illegal.Function	elevated	192.168.100.2	192.168.100.3	
+40034	5680	Modbus_Exception.Illegal.Function	Operational.Technology: Modbus_Exception.Illegal.Function	elevated	192.168.100.2	192.168.100.3	

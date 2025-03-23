@@ -1,0 +1,10 @@
+Números de paquete distintos encontrados en el archivo T0882-DirRead-DNP3-FIXED_[1]_alert_csv.txt:
+ 94
+ 98
+ 102
+ 106
+ 107
+ 111
+ 115
+ 119
+Total de números de paquete distintos: 8

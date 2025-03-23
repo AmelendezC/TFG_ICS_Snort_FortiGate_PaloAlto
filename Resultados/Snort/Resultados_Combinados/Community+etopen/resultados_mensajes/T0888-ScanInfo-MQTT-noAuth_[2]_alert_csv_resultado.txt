@@ -1,0 +1,26 @@
+Números de paquete distintos encontrados en el archivo T0888-ScanInfo-MQTT-noAuth_[2]_alert_csv.txt:
+85
+34
+30
+31
+33
+58
+55
+50
+25
+24
+23
+29
+28
+40
+108
+109
+104
+103
+100
+101
+98
+68
+62
+65
+Total de números de paquete distintos: 24

@@ -1,0 +1,5 @@
+Número total de flujos distintos en T0830_MiTM-BacNet-FIXED_[2]_alert_csv.txt: 4
+0.0.0.0:0 -> 224.0.0.1:0
+192.168.1.195:0 -> 192.168.1.200:0
+192.168.1.197:3955 -> 239.255.255.250:1900
+fe80: -> ff02:

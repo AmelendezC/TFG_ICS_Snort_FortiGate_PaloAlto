@@ -1,0 +1,2 @@
+Número total de flujos distintos en T0814-DoS-OPCUA-Short_[2]_combined_alerts.txt: 1
+192.168.1.135:48746 -> 192.168.1.144:4840

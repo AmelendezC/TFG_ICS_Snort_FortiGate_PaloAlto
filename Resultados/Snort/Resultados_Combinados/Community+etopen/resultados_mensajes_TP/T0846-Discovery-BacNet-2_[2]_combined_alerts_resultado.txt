@@ -1,0 +1,2 @@
+Números de paquete distintos encontrados en el archivo T0846-Discovery-BacNet-2_[2]_combined_alerts.txt (excluyendo SIDs 2012648 1917):
+Total de números de paquete distintos: 0

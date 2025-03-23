@@ -1,0 +1,11 @@
+ID_regla	sessionid	repeatcnt	severity_number	Nombre_regla	thread_category	prot	src_ip	dst_ip	log_subtype	extra_data
+94318	22593	1	2	Nmap Aggressive Option Print Detection	hacktool	tcp	192.168.1.135	192.168.1.201	vulnerability	
+31696	22596	1	1	Windows SMB Login Attempt	brute-force	tcp	192.168.1.135	192.168.1.201	vulnerability	
+35364	22599	3	1	Microsoft Windows SMB Negotiate Request	brute-force	tcp	192.168.1.135	192.168.1.201	vulnerability	
+35364	22599	3	1	Microsoft Windows SMB Negotiate Request	brute-force	tcp	192.168.1.135	192.168.1.201	vulnerability	
+35364	22599	3	1	Microsoft Windows SMB Negotiate Request	brute-force	tcp	192.168.1.135	192.168.1.201	vulnerability	
+31710	22599	3	1	NetBIOS null session	info-leak	tcp	192.168.1.135	192.168.1.201	vulnerability	
+31710	22599	3	1	NetBIOS null session	info-leak	tcp	192.168.1.135	192.168.1.201	vulnerability	
+31710	22599	3	1	NetBIOS null session	info-leak	tcp	192.168.1.135	192.168.1.201	vulnerability	
+39592	22646	1	4	SMB DoublePulsar Ping Detection	code-execution	tcp	192.168.1.135	192.168.1.201	vulnerability	
+12096	22646	1	5	DoublePulsar.Gen Command and Control Traffic	spyware	tcp	192.168.1.135	192.168.1.201	spyware	

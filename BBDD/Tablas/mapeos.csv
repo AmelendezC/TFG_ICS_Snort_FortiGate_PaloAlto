@@ -1,0 +1,95 @@
+Tactica,Tecnica,ID,Tactica_Adicional,Implementada_Técnica,Detectable_Trafico de Red,Solo_Detectable_por_Red,Detectable_mediante_patrones,Mecanismo_deteccion
+Initial Access,Drive-by Compromise,T0817,-,0,1,0,-,-
+Initial Access,Exploit Public-Facing Application,T0819,-,0,1,0,-,-
+Initial Access,Exploitation of Remote Services,T0866,Lateral Movement,1,1,0,SI,Detección de tráfico relacionado con exploits a través de protocolos o aplicaciones específicas que pueden encontrarse dentro de un entorno ICS
+Initial Access,External Remote Services,T0822,-,0,1,0,-,-
+Initial Access,Internet Accessible Device,T0883,-,0,1,0,-,-
+Initial Access,Remote Services,T0886,Lateral Movement,0,1,0,-,-
+Initial Access,Replication Through Removable Media,T0847,-,0,0,0,-,-
+Initial Access,Rogue Master,T0848,-,1,1,0,SI,Detección de tráfico ICS desde un equipo malicioso proveniente de una red externa
+Initial Access,Spearphishing Attachment,T0865,-,0,1,0,-,-
+Initial Access,Supply Chain Compromise,T0862,-,0,0,0,-,-
+Initial Access,Transient Cyber Asset,T0864,-,0,1,0,-,-
+Initial Access,Wireless Compromise,T0860,-,0,1,0,-,-
+Execution,Autorun Image,T0895,-,0,0,0,-,-
+Execution,Change Operating Mode,T0858,Evasion,1,1,0,SI,Detección de tráfico ICS desde un equipo malicioso proveniente de una red externa que incluyen comandos que determinen el modo de funcionamiento de un dispositivo 
+Execution,Command-Line Interface,T0807,-,0,0,0,-,-
+Execution,Execution through API,T0871,-,0,0,0,-,-
+Execution,Graphical User Interface,T0823,-,0,0,0,-,-
+Execution,Hooking,T0874,Privilege Escalation,0,0,0,-,-
+Execution,Modify Controller Tasking,T0821,-,0,0,0,-,-
+Execution,Native API,T0834,-,0,0,0,-,-
+Execution,Scripting,T0853,-,0,0,0,-,-
+Execution,User Execution,T0863,-,0,1,0,-,-
+Persistence,Hardcoded Credentials,T0891,Lateral Movement,0,1,0,-,-
+Persistence,Modify Program,T0889,-,0,1,0,-,-
+Persistence,Module Firmware,T0839,Impair Process Control,0,1,0,-,-
+Persistence,Project File Infection,T0873,-,0,0,0,-,-
+Persistence,System Firmware,T0857,Inhibit Response Function,0,1,0,-,-
+Persistence,Valid Accounts,T0859,Lateral Movement,0,0,0,-,-
+Privilege Escalation,Exploitation for Privilege Escalation,T0890,-,1,1,0,SI,Detección de tráfico relacioado con exploits o sesiones de shell remotas a través de protocolos o aplicaciones específicas que pueden encontrarse dentro de un entorno ICS
+Privilege Escalation,Hooking,T0874,Execution,0,0,0,-,-
+Evasion,Change Operating Mode,T0858,Execution,1,1,0,-,-
+Evasion,Exploitation for Evasion,T0820,-,0,0,0,-,-
+Evasion,Indicator Removal on Host,T0872,-,0,0,0,-,-
+Evasion,Masquerading,T0849,-,0,0,0,-,-
+Evasion,Rootkit,T0851,Inhibit Response Function,0,0,0,-,-
+Evasion,Spoof Reporting Message,T0856,Impair Process Control,0,1,0,-,-
+Evasion,System Binary Proxy Execution,T0894,-,0,0,0,-,-
+Discovery,Network Connection Enumeration,T0840,-,0,0,0,-,-
+Discovery,Network Sniffing,T0842,-,0,0,0,-,-
+Discovery,Remote System Discovery,T0846,-,1,1,0,SI,Detección de tráfico ICS que permiten la lectura de informacion de un dispositivo ICS
+Discovery,Remote System Information Discovery,T0888,-,1,1,0,SI,Detección de tráfico ICS que permiten la lectura de informacion de un dispositivo ICS
+Discovery,Wireless Sniffing,T0887,Collection,0,1,1,-,-
+Lateral Movement,Default Credentials,T0812,-,0,0,0,-,-
+Lateral Movement,Exploitation of Remote Services,T0866,Lateral Movement,1,1,0,Si,-
+Lateral Movement,Hardcoded Credentials,T0891,Persistence,0,1,0,-,-
+Lateral Movement,Lateral Tool Transfer,T0867,-,0,1,0,-,-
+Lateral Movement,Program Download,T0843,-,1,1,0,SI,Deteccion de tráfico relacionado con protocolos ICS que contengan funciones relacionada con la trsferencia/descarga de archivos
+Lateral Movement,Remote Services,T0886,Initial Access,1,1,0,-,-
+Lateral Movement,Valid Accounts,T0859,Persistence,0,0,0,-,-
+Collection,Adversary-in-the-Middle,T0830,-,1,1,0,SI,-
+Collection,Automated Collection,T0802,-,1,1,0,SI,Detección de tráfico que permite la lectura de variables hacia un dispositivo malicioso o desconocido proveniente desde una direccion desconicida
+Collection,Data from Information Repositories,T0811,-,0,0,0,-,-
+Collection,Data from Local System,T0893,-,0,0,0,-,-
+Collection,Detect Operating Mode,T0868,-,0,1,1,-,-
+Collection,I/O Image,T0877,-,0,0,0,-,-
+Collection,Monitor Process State,T0801,-,0,1,0,-,-
+Collection,Point & Tag Identification,T0861,-,0,1,0,-,-
+Collection,Program Upload,T0845,-,0,1,0,-,-
+Collection,Screen Capture,T0852,-,0,0,0,-,-
+Collection,Wireless Sniffing,T0887,Discovery,0,1,1,-,-
+Command and Control,Commonly Used Port,T0885,-,1,1,1,SI,Detección de canales de comunicación o shell remotos a través de puertos relacionados con protocolos ICS
+Command and Control,Connection Proxy,T0884,-,0,1,1,-,-
+Command and Control,Standard Application Layer Protocol,T0869,-,0,1,1,-,-
+Inhibit Response Function,Activate Firmware Update Mode,T0800,-,0,1,0,-,-
+Inhibit Response Function,Alarm Suppression,T0878,-,0,1,0,-,-
+Inhibit Response Function,Block Command Message,T0803,-,0,1,0,-,-
+Inhibit Response Function,Block Reporting Message,T0804,-,0,1,0,-,-
+Inhibit Response Function,Block Serial COM,T0805,-,0,1,0,-,-
+Inhibit Response Function,Change Credential,T0892,-,0,1,0,-,-
+Inhibit Response Function,Data Destruction,T0809,-,0,1,0,-,-
+Inhibit Response Function,Denial of Service,T0814,-,1,1,0,SI,Deteccion por anomalías o de tráfico ICS que contienen paquetes diseñados para aprovechar una vulnerabilidad en el dispositivo
+Inhibit Response Function,Device Restart/Shutdown,T0816,-,1,1,0,SI,Detección de tráfico que permite el apagado no autorizado de un dispositivo ICS
+Inhibit Response Function,Manipulate I/O Image,T0835,-,0,0,0,-,-
+Inhibit Response Function,Modify Alarm Settings,T0838,-,0,1,0,-,-
+Inhibit Response Function,Rootkit,T0851,Evasion,0,0,0,-,-
+Inhibit Response Function,Service Stop,T0881,-,0,0,0,-,-
+Inhibit Response Function,System Firmware,T0857,Persistence,0,1,0,-,-
+Impair Process Control,Brute Force I/O,T0806,-,0,1,0,-,-
+Impair Process Control,Modify Parameter,T0836,-,1,1,0,SI,-
+Impair Process Control,Module Firmware,T0839,Persistence,0,1,0,-,-
+Impair Process Control,Spoof Reporting Message,T0856,-,0,1,0,-,-
+Impair Process Control,Unauthorized Command Message,T0855,-,0,1,0,-,-
+Impact,Damage to Property,T0879,-,0,0,0,-,-
+Impact,Denial of Control,T0813,-,0,0,0,-,-
+Impact,Denial of View,T0815,-,0,0,0,-,-
+Impact,Loss of Availability,T0826,-,0,0,0,-,-
+Impact,Loss of Control,T0827,-,0,0,0,-,-
+Impact,Loss of Productivity and Revenue,T0828,-,0,0,0,-,-
+Impact,Loss of Protection,T0837,-,0,0,0,-,-
+Impact,Loss of Safety,T0880,-,0,0,0,-,-
+Impact,Loss of View,T0829,-,0,0,0,-,-
+Impact,Manipulation of Control,T0831,-,1,1,0,SI,-
+Impact,Manipulation of View,T0832,-,0,0,0,-,-
+Impact,Theft of Operational Information,T0882,-,1,1,0,SI,-

@@ -1,0 +1,2 @@
+631,2035480,1 04/04-00:11:43.191466  [**] [1:2035480:3] ET INFO PE EXE Download over raw TCP [**] [Classification: Misc activity] [Priority: 3] {TCP} 192.168.1.135:4444 -> 192.168.1.200:51170
+763,2025644,1 04/04-00:11:43.193435  [**] [1:2025644:1] ET TROJAN Possible Metasploit Payload Common Construct Bind_API (from server) [**] [Classification: A Network Trojan was detected] [Priority: 1] {TCP} 192.168.1.135:4444 -> 192.168.1.200:51170

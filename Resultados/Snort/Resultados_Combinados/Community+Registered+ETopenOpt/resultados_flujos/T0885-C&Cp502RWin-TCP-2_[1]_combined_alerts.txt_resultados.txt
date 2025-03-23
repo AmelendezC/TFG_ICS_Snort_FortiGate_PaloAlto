@@ -1,0 +1,3 @@
+Número total de flujos distintos en T0885-C&Cp502RWin-TCP-2_[1]_combined_alerts.txt: 2
+192.168.2.255:137 -> 192.168.2.86:137
+192.168.2.87:38899 -> 192.168.2.92:912

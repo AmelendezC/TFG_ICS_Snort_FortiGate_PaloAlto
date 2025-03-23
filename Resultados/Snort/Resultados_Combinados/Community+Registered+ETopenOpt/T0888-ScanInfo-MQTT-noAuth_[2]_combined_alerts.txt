@@ -1,0 +1,5 @@
+2,2002752,1 06/15-00:00:26.713201  [**] [1:2002752:4] ET POLICY Reserved Internal IP Traffic [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.1.134:57458 -> 192.168.1.133:80
+2,2002749,1 06/15-00:00:26.713201  [**] [1:2002749:14] ET POLICY Unallocated IP Space Traffic - Bogon Nets [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.1.134:57458 -> 192.168.1.133:80
+6,2002752,1 06/15-00:00:26.715759  [**] [1:2002752:4] ET POLICY Reserved Internal IP Traffic [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.1.133:80 -> 192.168.1.134:57458
+6,2002749,1 06/15-00:00:26.715759  [**] [1:2002749:14] ET POLICY Unallocated IP Space Traffic - Bogon Nets [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.1.133:80 -> 192.168.1.134:57458
+91,2100527,1 06/15-00:01:03.567445  [**] [1:2100527:9] GPL SCAN same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {IPV6-ICMP} :: -> ff02::1:ff6a:e5c5

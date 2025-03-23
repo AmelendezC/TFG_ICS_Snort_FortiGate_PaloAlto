@@ -1,0 +1,3 @@
+Número total de flujos distintos en T0848-RogueMaster-IEC-104_[2]_alert_fast.txt: 2
+192.168.1.129:49382 -> 239.255.255.250:1900
+192.168.1.129:54808 -> 239.255.255.250:1900

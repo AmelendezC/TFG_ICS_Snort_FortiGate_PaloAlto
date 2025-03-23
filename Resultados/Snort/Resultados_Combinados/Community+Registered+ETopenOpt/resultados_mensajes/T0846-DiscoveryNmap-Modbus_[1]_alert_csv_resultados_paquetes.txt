@@ -1,0 +1,5 @@
+Números de paquete distintos encontrados en el archivo T0846-DiscoveryNmap-Modbus_[1]_alert_csv.txt:
+ 12
+ 14
+ 24
+Total de números de paquete distintos: 3

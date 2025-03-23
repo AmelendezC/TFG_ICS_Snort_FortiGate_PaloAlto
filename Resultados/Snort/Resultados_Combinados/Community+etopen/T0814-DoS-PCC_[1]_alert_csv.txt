@@ -1,0 +1,8 @@
+05/02-20:21:14.969896, 8, ICMP, raw, 106, C2S, 192.168.0.142:0, 192.168.56.1:0, 1:402:16, allow, "PROTOCOL-ICMP destination unreachable port unreachable packet detected", Misc activity
+05/02-20:21:14.970001, 10, ICMP, raw, 106, C2S, 192.168.0.142:0, 192.168.1.190:0, 1:402:16, allow, "PROTOCOL-ICMP destination unreachable port unreachable packet detected", Misc activity
+05/02-20:21:14.970116, 12, ICMP, raw, 106, C2S, 192.168.0.142:0, 192.168.174.1:0, 1:402:16, allow, "PROTOCOL-ICMP destination unreachable port unreachable packet detected", Misc activity
+05/02-20:21:14.970271, 14, ICMP, raw, 106, C2S, 192.168.0.142:0, 192.168.232.1:0, 1:402:16, allow, "PROTOCOL-ICMP destination unreachable port unreachable packet detected", Misc activity
+05/02-20:21:16.470501, 24, ICMP, raw, 106, C2S, 192.168.0.142:0, 192.168.232.1:0, 1:402:16, allow, "PROTOCOL-ICMP destination unreachable port unreachable packet detected", Misc activity
+05/02-20:21:16.470512, 26, ICMP, raw, 106, C2S, 192.168.0.142:0, 192.168.174.1:0, 1:402:16, allow, "PROTOCOL-ICMP destination unreachable port unreachable packet detected", Misc activity
+05/02-20:21:16.470516, 28, ICMP, raw, 106, C2S, 192.168.0.142:0, 192.168.1.190:0, 1:402:16, allow, "PROTOCOL-ICMP destination unreachable port unreachable packet detected", Misc activity
+05/02-20:21:16.470520, 30, ICMP, raw, 106, C2S, 192.168.0.142:0, 192.168.56.1:0, 1:402:16, allow, "PROTOCOL-ICMP destination unreachable port unreachable packet detected", Misc activity

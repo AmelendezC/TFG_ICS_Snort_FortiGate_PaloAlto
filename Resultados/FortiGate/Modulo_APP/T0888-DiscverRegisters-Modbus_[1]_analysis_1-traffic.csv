@@ -1,0 +1,7 @@
+appid	sessionid	app	msg	apprisk	srcip	dstip	DeviceID
+25855	6791	Modbus_Read.Holding.Registers	Operational.Technology: Modbus_Read.Holding.Registers	elevated	192.168.100.2	192.168.100.3	
+48883	6791	Modbus_Func03.Read.Holding.Validation	Operational.Technology: Modbus_Func03.Read.Holding.Validation	elevated	192.168.100.2	192.168.100.3	
+25855	6791	Modbus_Read.Holding.Registers	Operational.Technology: Modbus_Read.Holding.Registers	elevated	192.168.100.2	192.168.100.3	
+48883	6791	Modbus_Func03.Read.Holding.Validation	Operational.Technology: Modbus_Func03.Read.Holding.Validation	elevated	192.168.100.2	192.168.100.3	
+25855	6791	Modbus_Read.Holding.Registers	Operational.Technology: Modbus_Read.Holding.Registers	elevated	192.168.100.2	192.168.100.3	
+16938	6791	Modbus	Operational.Technology: Modbus	elevated	192.168.100.2	192.168.100.3	

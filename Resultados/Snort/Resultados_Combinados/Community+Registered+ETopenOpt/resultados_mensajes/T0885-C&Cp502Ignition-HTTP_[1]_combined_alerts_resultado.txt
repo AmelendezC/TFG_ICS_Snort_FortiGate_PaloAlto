@@ -1,0 +1,13 @@
+Números de paquete distintos encontrados en el archivo T0885-C&Cp502Ignition-HTTP_[1]_combined_alerts.txt:
+111
+30
+7
+6
+4
+3
+1
+26
+45
+98
+16
+Total de números de paquete distintos: 11

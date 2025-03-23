@@ -1,0 +1,5 @@
+appid	sessionid	app	msg	apprisk	srcip	dstip	DeviceID
+17017	1459481	NetBIOS.Name.Service	Network.Service: NetBIOS.Name.Service	elevated	192.168.2.86	192.168.2.255	
+16083	1459485	UPnP	Network.Service: UPnP	elevated	192.168.2.86	239.255.255.250	
+32609	1459484	IP.Multicast	Network.Service: IP.Multicast	elevated	192.168.2.86	239.255.255.250	
+16083	1459486	UPnP	Network.Service: UPnP	elevated	192.168.2.86	239.255.255.250	

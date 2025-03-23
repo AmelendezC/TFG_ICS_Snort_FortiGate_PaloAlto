@@ -1,0 +1,2 @@
+Número total de flujos distintos en T0866-RemoteAccess-VNC_[2]-FIXED_combined_alerts.txt (sin los SIDs 1917 24303 57155 40517 2012648): 1
+192.168.1.135:4444 -> 192.168.1.200:51170

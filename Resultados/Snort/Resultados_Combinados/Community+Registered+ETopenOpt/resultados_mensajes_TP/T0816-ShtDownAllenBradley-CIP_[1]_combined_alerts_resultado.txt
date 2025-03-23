@@ -1,0 +1,26 @@
+Números de paquete distintos encontrados en el archivo T0816-ShtDownAllenBradley-CIP_[1]_combined_alerts.txt (excluyendo SIDs 1917|24303|57155|40517|2002752|2002749|2009207|2009208|2009206|2012648|2100527):
+34
+35
+30
+31
+32
+33
+9
+8
+7
+27
+26
+25
+24
+23
+22
+21
+20
+29
+28
+12
+13
+10
+11
+14
+Total de números de paquete distintos: 24

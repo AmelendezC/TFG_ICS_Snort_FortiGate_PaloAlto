@@ -1,0 +1,2 @@
+Número total de flujos distintos en T0843-FileWrite-DNP3-FIXED_[1]_combined_alerts.txt (sin los SIDs 2012648 1917): 1
+

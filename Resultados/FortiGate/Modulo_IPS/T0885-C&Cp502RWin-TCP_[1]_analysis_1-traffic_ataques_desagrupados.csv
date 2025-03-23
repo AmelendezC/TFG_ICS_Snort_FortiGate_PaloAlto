@@ -1,0 +1,4 @@
+attackid,sessionid,repeated,severity,attack,service,srcip,dstip,subtype,eventtype,url
+27536,1459465,1,"high","DATAC.RealWin.SCADA.Parsing.Buffer.Overflow","tcp/912",192.168.2.87,192.168.2.92,"ips","signature","http://www.fortinet.com/ids/VID27536"
+17714,1459466,1,"low","MS.Windows.TCP.Window.Size.Zero.DoS","tcp/502",192.168.2.92,192.168.2.87,"ips","signature","http://www.fortinet.com/ids/VID17714"
+12449,1459466,1,"critical","Remote.CMD.Shell","tcp/502",192.168.2.92,192.168.2.87,"ips","signature","http://www.fortinet.com/ids/VID12449"

@@ -1,0 +1,6 @@
+116,1111705,1 08/03-17:10:12.064660  [**] [1:1111705:1] BACnet Read Property Attempt From Non Authorized Host [**] [Priority: 1] {UDP} 192.168.1.195:51957 -> 192.168.1.200:47808
+116,1111704,1 08/03-17:10:12.064660  [**] [1:1111704:1] BACnet Read Property Attempt [**] [Priority: 3] {UDP} 192.168.1.195:51957 -> 192.168.1.200:47808
+118,1111705,1 08/03-17:10:12.069808  [**] [1:1111705:1] BACnet Read Property Attempt From Non Authorized Host [**] [Priority: 1] {UDP} 192.168.1.195:51957 -> 192.168.1.200:47808
+118,1111704,1 08/03-17:10:12.069808  [**] [1:1111704:1] BACnet Read Property Attempt [**] [Priority: 3] {UDP} 192.168.1.195:51957 -> 192.168.1.200:47808
+371,1111705,1 08/03-17:10:35.454420  [**] [1:1111705:1] BACnet Read Property Attempt From Non Authorized Host [**] [Priority: 1] {UDP} 192.168.1.195:51957 -> 192.168.1.200:47808
+371,1111704,1 08/03-17:10:35.454420  [**] [1:1111704:1] BACnet Read Property Attempt [**] [Priority: 3] {UDP} 192.168.1.195:51957 -> 192.168.1.200:47808

@@ -1,0 +1,3 @@
+Números de paquete distintos encontrados en el archivo T0866-RemoteAccess-VNC_[2]-FIXED_alert_csv.txt:
+6
+Total de números de paquete distintos: 1

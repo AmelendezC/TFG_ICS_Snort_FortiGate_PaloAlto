@@ -1,0 +1,10 @@
+17,2002752,1 04/14-21:29:52.150501  [**] [1:2002752:4] ET POLICY Reserved Internal IP Traffic [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.1.86:39495 -> 192.168.1.91:912
+17,2002749,1 04/14-21:29:52.150501  [**] [1:2002749:14] ET POLICY Unallocated IP Space Traffic - Bogon Nets [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.1.86:39495 -> 192.168.1.91:912
+20,2002752,1 04/14-21:29:52.174165  [**] [1:2002752:4] ET POLICY Reserved Internal IP Traffic [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.1.91:912 -> 192.168.1.86:39495
+20,2002749,1 04/14-21:29:52.174165  [**] [1:2002749:14] ET POLICY Unallocated IP Space Traffic - Bogon Nets [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.1.91:912 -> 192.168.1.86:39495
+22,2011976,1 04/14-21:29:52.192609  [**] [1:2011976:1] ET SCADA RealWin SCADA System Buffer Overflow [**] [Classification: Attempted Denial of Service] [Priority: 2] {TCP} 192.168.1.86:39495 -> 192.168.1.91:912
+31,2035480,1 04/14-21:29:52.303812  [**] [1:2035480:3] ET INFO PE EXE Download over raw TCP [**] [Classification: Misc activity] [Priority: 3] {TCP} 192.168.1.86:4444 -> 192.168.1.91:1069
+31,2000419,1 04/14-21:29:52.303812  [**] [1:2000419:20] ET POLICY PE EXE or DLL Windows file download Non-HTTP [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {TCP} 192.168.1.86:4444 -> 192.168.1.91:1069
+80,2025644,1 04/14-21:29:52.349032  [**] [1:2025644:1] ET TROJAN Possible Metasploit Payload Common Construct Bind_API (from server) [**] [Classification: A Network Trojan was detected] [Priority: 1] {TCP} 192.168.1.86:4444 -> 192.168.1.91:1069
+239,2002752,1 04/14-21:30:20.251980  [**] [1:2002752:4] ET POLICY Reserved Internal IP Traffic [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 192.168.1.35:138 -> 192.168.1.255:138
+239,2002749,1 04/14-21:30:20.251980  [**] [1:2002749:14] ET POLICY Unallocated IP Space Traffic - Bogon Nets [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 192.168.1.35:138 -> 192.168.1.255:138

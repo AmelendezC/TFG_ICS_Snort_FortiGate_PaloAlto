@@ -1,0 +1,3 @@
+Números de paquete distintos encontrados en el archivo T0888-DiscverRegisters-Modbus_[1]_alert_csv.txt:
+ 4
+Total de números de paquete distintos: 1

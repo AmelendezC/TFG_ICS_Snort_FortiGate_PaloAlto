@@ -1,0 +1,9 @@
+Números de paquete distintos encontrados en el archivo T0882-DirectoryRead-IEC104_[2]_combined_alerts.txt (excluyendo SIDs 1917 24303 57155 40517 2012648):
+8
+5
+4
+47
+48
+18
+10
+Total de números de paquete distintos: 7

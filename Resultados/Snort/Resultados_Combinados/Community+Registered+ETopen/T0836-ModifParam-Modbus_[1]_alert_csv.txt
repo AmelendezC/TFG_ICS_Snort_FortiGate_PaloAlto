@@ -1,0 +1,1 @@
+04/23-20:28:55.786480, 4, TCP, stream_tcp, 12, C2S, 192.168.100.2:37019, 192.168.100.3:502, 1:17783:5, allow, "PROTOCOL-SCADA Modbus write single register from external source", Generic Protocol Command Decode

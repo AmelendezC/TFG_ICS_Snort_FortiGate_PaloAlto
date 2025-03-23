@@ -1,0 +1,1 @@
+1,2027397,1 05/05-17:58:54.381611  [**] [1:2027397:2] ET POLICY Spotify P2P Client [**] [Classification: Not Suspicious Traffic] [Priority: 3] {UDP} 192.168.1.134:57621 -> 192.168.1.255:57621

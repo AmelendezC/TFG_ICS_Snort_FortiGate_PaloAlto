@@ -1,0 +1,35 @@
+﻿Fichero pcap;Attackids ;TP
+T0866-VulnAccess-SMBv1_[2].pcapng;45360;1
+T0866-VulnAccess-SMBv1_[2].pcapng;43799;1
+T0866-VulnAccess-SMBv1_[2].pcapng;43963;1
+T0866-VulnAccess-SMBv1_[2].pcapng;43796;1
+T0866-RemoteAccess-VNC-FIXED_[2].pcapng;12449;1
+T0858-ChangeOPMode-Omron_[2].pcapng;52730;1
+T0890-EscalPrivileges-NetLogon_[2].pcapng;49499;1
+T0846-Discovery-IEC104_[2].pcapng;45360;1
+T0888-ScanInfo-OPCUA-Nmap_[2].pcapng;45360;1
+T0888-ScanInfo-OPCUA-Nmap_[2].pcapng;48249;1
+T0809-DataDestroy-OMRON_[2].pcapng;52730;1
+T0816-RestartAllenBradley-SNMP_[2].pcapng;43629;1
+T0816-StopCommand-S7Comm_[2].pcapng;49359;1
+T0885-C&Cp502RWin-TCP_[1].pcapng / T0885-C&Cp502RWin-TCP-2_[1].pcapng / T0885-C&Cp502RWin-TCP-3_[1].pcapng;27536;1
+T0885-C&Cp502RWin-TCP_[1].pcapng / T0885-C&Cp502RWin-TCP-2_[1].pcapng / T0885-C&Cp502RWin-TCP-3_[1].pcapng;17714;1
+T0885-C&Cp502RWin-TCP_[1].pcapng / T0885-C&Cp502RWin-TCP-2_[1].pcapng / T0885-C&Cp502RWin-TCP-3_[1].pcapng;12449;1
+T0885-C&Cp502RWin-TCP_[1].pcapng / T0885-C&Cp502RWin-TCP-2_[1].pcapng / T0885-C&Cp502RWin-TCP-3_[1].pcapng;29247;1
+T0885-C&Cp502Ignition-HTTP_[1].pcapng;49331;1
+T0885-C&Cp502Ignition-HTTP_[1].pcapng;12449;1
+T0885-C&Cp20000RWin-TCP_[1].pcapng;29247;1
+T0885-C&Cp20000RWin-TCP_[1].pcapng;12449;1
+T0885-C&Cp102Ignition-TCP_[1].pcapng;49331;1
+T0885-C&Cp102Ignition-TCP_[1].pcapng;12449;1
+dnp3_test_data_part1[3].pcapng ;11509;1
+modbus_test_data_part1[3].pcapng ;11522;1
+modbus_test_data_part2[3].pcapng ;15291;1
+T0814-ICMP_Flood_3-5[1].pcapng ;12880;1
+T0814-InhibitResponseFunction_3.pcapng;107937798;1
+T0888-Discovery_2.pcapng;30797;1
+T0888-Discovery_2.pcapng;32153;1
+T0888-Discovery_2.pcapng;33047;1
+T0842-Discovery.pcapng;109445125;1
+T0842-Discovery.pcapng;22909;1
+T0842-Discovery.pcapng;43814;1
