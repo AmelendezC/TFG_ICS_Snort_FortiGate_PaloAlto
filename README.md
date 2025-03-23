@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# TFG_ICS_Snort_FortiGate_PaloAlto
-=======
+
 # Trabajo de Fin de Grado Andrés Meléndez Casado
 ````
     __  _________________  ______   ___  _______________     ________ __    _______________
@@ -16,4 +14,4 @@ Este estudio tiene como objetivo analizar la capacidad de detección de los sist
 El repositorio contiene todas las herramientas desarrolladas y utilizadas en la investigación. En él se pueden encontrar los archivos .log generados tras el análisis de cada captura de tráfico, así como hojas de cálculo en Excel donde se reflejan los resultados obtenidos. Además, incluye los scripts empleados para la automatización y simplificación del proceso de análisis.
 
 Este repositorio constituye un complemento adicional al Trabajo de Fin de Grado titulado "Análisis de la capacidad de detección de los IDS Snort, FortiGate y Palo Alto NFGW en entornos ICS bajo la matriz MITRE ATT&CK".
->>>>>>> ed1b494 (Primer)
+
