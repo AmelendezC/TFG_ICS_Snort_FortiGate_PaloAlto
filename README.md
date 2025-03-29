@@ -15,3 +15,16 @@ El repositorio contiene todas las herramientas desarrolladas y utilizadas en la 
 
 Este repositorio constituye un complemento adicional al Trabajo de Fin de Grado titulado "Análisis de la capacidad de detección de los IDS Snort, FortiGate y Palo Alto NFGW en entornos ICS bajo la matriz MITRE ATT&CK".
 
+Podemos encontrar distintos directorios:
+````
+BBDD -> Archivos necesarios para iniciar la BBDD. Incluye guía de puesta en marcha.
+Dataset -> Banco de ataques completos. Incluye tanto los ataques implentados como los que no. Se encuentran ordenados por dataset. Para saber cuales se han implementado, consultar tabla de detecciones y memoria (Apartado Documentaion)
+Documentacion -> Contiene memoria del trabajo, junto con la tabla de detecciones
+Estudio-FG -> Primeros análisis con FG. 
+Estudio-PA -> Primeros análisis con PA.
+Resultados -> Fichero de resultados con los distintos IDS
+Scripts -> Archivos para la automatización de varias tareas. Contiene herramientas para regenerar ataques, extraccion de datos a partir de ficheros log, etc.
+Soporte -> Pequeño studio realizado junto con el equipo de soporte acerca de problemas de detecciones en algunos ataques.
+Reglas Snort.tar.gz -> Conjuntos de reglas utilizados para el IDS Snort
+
+
